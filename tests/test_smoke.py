@@ -11,6 +11,11 @@ def test_relevant_titles() -> None:
     assert not is_relevant_title("Arquiteto(a) de Soluções de IA")
     assert not is_relevant_title("Arquiteto Vendedor")
     assert not is_relevant_title("Estágio em Arquitetura")
+    assert not is_relevant_title("Projetista Mecânico Júnior")
+    assert not is_relevant_title("Projetista de Instalações Elétricas Pleno")
+    assert not is_relevant_title("Arquiteto SAP")
+    assert not is_relevant_title("Arquiteto de Negócios | Mineração")
+    assert is_relevant_title("Desenhista Projetista")
     assert not is_relevant_title(None)
 
 

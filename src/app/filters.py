@@ -12,7 +12,9 @@ INCLUDE_TITLE = re.compile(r"arquitet|projetista|desenhista|cadista", re.IGNOREC
 EXCLUDE_TITLE = re.compile(
     r"software|sistema|solu[cç]|dados|data\b|cloud|\bti\b|\bia\b|\bai\b|devops|salesforce|"
     r"java|golang|python|aplica[cç]|integra[cç]|seguran[cç]a|redes|network|enterprise|"
-    r"vendedor|vendas|estagi|est[aá]gio|trainee|aprendiz",
+    r"vendedor|vendas|estagi|est[aá]gio|trainee|aprendiz|"
+    r"mecanic|eletric|ar condicionado|climatiza|ferramentaria|automac|industrial|"
+    r"\bsap\b|cyber|negocio",
     re.IGNORECASE,
 )
 

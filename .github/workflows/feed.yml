@@ -26,6 +26,8 @@ jobs:
       - run: uv run app
         env:
           LOG_LEVEL: INFO
+          # Glassdoor blocks GitHub runners (HTTP 403); it runs from the PC (scripts/run-local.ps1).
+          SITES: linkedin,indeed
       - name: Commit output
         run: |
           git config user.name "job-feed-bot"

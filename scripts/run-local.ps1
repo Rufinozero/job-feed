@@ -1,17 +1,22 @@
 <#
 .SYNOPSIS
-  Plano B: roda a coleta no PC (Agendador de Tarefas) e envia output/vagas.json ao GitHub.
-  Use se o GitHub Actions for bloqueado pelo LinkedIn/Glassdoor.
+  Roda no PC a coleta dos sites que bloqueiam o GitHub Actions (padrão: Glassdoor)
+  e envia output/vagas_local.json ao GitHub. Agende no Agendador de Tarefas às 07:30 e 15:30.
 .EXAMPLE
   .\scripts\run-local.ps1
+  .\scripts\run-local.ps1 -Sites "linkedin,glassdoor,indeed"
 #>
+param([string]$Sites = "glassdoor")
+
 $ErrorActionPreference = "Stop"
 Set-Location (Split-Path -Parent $PSScriptRoot)
 git pull --rebase
+$env:SITES = $Sites
+$env:OUTPUT_PATH = "output/vagas_local.json"
 uv run app
-git add output/vagas.json
+git add output/vagas_local.json
 git diff --cached --quiet
 if ($LASTEXITCODE -ne 0) {
-    git commit -m "chore(data): update vagas.json (local)"
+    git commit -m "chore(data): update vagas_local.json"
     git push
 }

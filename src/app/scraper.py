@@ -36,6 +36,17 @@ class Query:
     mode: str  # "hybrid" or "remote"
 
 
+class _ErrorCollector(logging.Handler):
+    """JobSpy logs some failures (e.g. HTTP 403) instead of raising; capture them."""
+
+    def __init__(self) -> None:
+        super().__init__(level=logging.ERROR)
+        self.messages: list[str] = []
+
+    def emit(self, record: logging.LogRecord) -> None:
+        self.messages.append(record.getMessage())
+
+
 @dataclass
 class SiteStatus:
     ok_queries: int = 0
@@ -105,17 +116,26 @@ def run(settings: Settings) -> tuple[list[dict[str, Any]], dict[str, SiteStatus]
 
     jobs: list[dict[str, Any]] = []
     status = {site: SiteStatus() for site in settings.sites}
+    collector = _ErrorCollector()
+    logging.getLogger("jobspy").addHandler(collector)
     for query in build_queries(settings):
         st = status[query.site]
+        collector.messages.clear()
         try:
             frame = scrape_jobs(**query_params(query, settings))
         except Exception as exc:  # noqa: BLE001 - any site failure must not stop the run
+            collector.messages.append(f"{type(exc).__name__}: {exc}")
+            frame = None
+        if collector.messages:
             st.failed_queries += 1
-            message = f"{query.term} ({query.mode}): {type(exc).__name__}: {exc}"[:300]
-            st.errors.append(message)
+            message = f"{query.term} ({query.mode}): {'; '.join(collector.messages)}"[:300]
+            if message not in st.errors:
+                st.errors.append(message)
             log.warning("%s failed: %s", query.site, message)
-            continue
-        st.ok_queries += 1
+            if frame is None or len(frame) == 0:
+                continue
+        else:
+            st.ok_queries += 1
         st.raw_results += len(frame)
         jobs.extend(to_records(frame, query))
         log.info("%s | %s | %s -> %d raw", query.site, query.mode, query.term, len(frame))

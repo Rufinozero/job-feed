@@ -27,4 +27,6 @@ Coletar vagas públicas do LinkedIn, Glassdoor e Indeed (Brasil) via JobSpy e gr
 - Só busca pública, nunca login em conta pessoal.
 - Filtros de perfil (CLT, senioridade, região) ficam na skill; aqui só ruído óbvio de título.
 - Indeed: só um de hours_old / is_remote por consulta, por isso a busca remota usa o termo "home office".
-- Se o Actions for bloqueado, usar o plano B (`scripts/run-local.ps1`).
+- Glassdoor devolve HTTP 403 no GitHub Actions; roda no PC via `scripts/run-local.ps1`
+  (saída `output/vagas_local.json`). A skill lê os dois arquivos.
+- JobSpy às vezes só loga o erro (não lança exceção); `_ErrorCollector` captura isso no status.
