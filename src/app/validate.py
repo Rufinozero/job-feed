@@ -1,6 +1,7 @@
 """Checks each job link from the runner (open internet) so the skill can trust the result."""
 
 import logging
+import re
 import time
 from typing import Any
 
@@ -30,11 +31,28 @@ HEADERS = {
 }
 
 
+# Next.js/Nuxt pages embed UI translation bundles such as "closedapplications":"inscricoes
+# encerradas"; those strings exist even on open jobs, so drop "key":"value" pairs first.
+JSON_PAIR = re.compile(r'"[a-z0-9_]+"\s*:\s*"[^"]{0,200}"')
+STATUS_HINT = re.compile(
+    r'"(status|jobstatus|isactive|active|published|expired)"\s*:\s*"?([a-z]+)"?'
+)
+
+
+def visible_text(body: str) -> str:
+    return JSON_PAIR.sub(" ", strip_accents(body).lower())
+
+
+def status_hints(body: str) -> list[str]:
+    text = strip_accents(body).lower()
+    return sorted({f"{k}={v}" for k, v in STATUS_HINT.findall(text)})[:10]
+
+
 def classify(status_code: int | None, final_url: str | None, body: str, requested: str) -> str:
     """Return 'Validada', 'Encerrada' or 'Não validada'."""
     if status_code is None or status_code >= 400:
         return "Encerrada" if status_code in (404, 410) else "Não validada"
-    text = strip_accents(body).lower()
+    text = visible_text(body)
     if any(marker in text for marker in CLOSED_MARKERS):
         return "Encerrada"
     if final_url and final_url.rstrip("/").count("/") <= 2 and requested.count("/") > 3:
@@ -44,7 +62,7 @@ def classify(status_code: int | None, final_url: str | None, body: str, requeste
 
 def closed_evidence(body: str) -> str | None:
     """Short excerpt around the closure marker, to audit false positives."""
-    text = strip_accents(body).lower()
+    text = visible_text(body)
     for marker in CLOSED_MARKERS:
         pos = text.find(marker)
         if pos >= 0:
@@ -65,6 +83,9 @@ def check_url(session: Any, url: str) -> dict[str, Any]:
         }
         if result == "Encerrada":
             detail["evidence"] = closed_evidence(body)
+        hints = status_hints(body)
+        if hints:
+            detail["status_hints"] = hints
         return detail
     except Exception as exc:  # noqa: BLE001 - network errors become "Não validada"
         return {
