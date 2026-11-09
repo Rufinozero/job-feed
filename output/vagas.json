@@ -1,15 +1,21 @@
 {
-  "generated_at": "2026-11-09T06:07:07+00:00",
+  "generated_at": "2026-11-09T21:01:39+00:00",
   "hours_old": 168,
   "sites": {
+    "linkedin": {
+      "ok_queries": 14,
+      "failed_queries": 0,
+      "raw_results": 210,
+      "errors": []
+    },
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 65,
+      "raw_results": 72,
       "errors": []
     }
   },
-  "total_jobs": 3,
+  "total_jobs": 6,
   "jobs": [
     {
       "site": "indeed",
@@ -99,6 +105,90 @@
         "status_code": 200,
         "final_url": "https://sinalmig.vagas.solides.com.br/vaga/949213?origem=indeed",
         "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
+      "title": "Projetista | Nova Lima",
+      "company": "Portobello Shop",
+      "location": "Nova Lima, Minas Gerais, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": "not applicable",
+      "date_posted": "2026-11-05",
+      "job_url": "https://www.linkedin.com/jobs/view/4485854194",
+      "job_url_direct": null,
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "Venha integrar o time de lojas próprias da Portobello Shop, marca referência global em inovação e design de soluções completas de revestimento. Somos a maior rede do varejo especializado no Brasil, movidos desde 1998 pelo propósito de\n**transformar ambientes e emocionar pessoas**\n.\n  \n  \nAqui é você quem desenha o próximo passo de sua carreira, em um\n**espaço ágil e dinâmico**\n. Por isso, se você também é apaixonado por varejo, design, e tecnologia, motivado por entregas excelentes e guiado pela satisfação do cliente, seu lugar é com a gente. Venha fazer parte do futuro do design aqui na Portobello Shop!\n  \n  \n**Responsabilidades e atribuições**\n\n* Executar projetos 3D para nossos clientes;\n* Apoiar a área de vendas na realização de projetos, especificação e orçamentos de complementos e cortes especiais;\n* Realizar medições in loco;\n* Organizar o layout interno da loja (ambientes);\n* Estar em constante atualização e possuir domínio acerca dos produtos oferecidos em loja.\n\n**Requisitos e qualificações**\n\n* Formação superior completa ou em andamento, preferencialmente em Arquitetura, ou Design de Interiores;\n* Desejável experiência anterior em realização de projetos de interiores;\n* Conhecimento em software de realização de projetos como AutoCad e SketchUp;\n* Competências chaves: organização, disciplina, disponibilidade, boa comunicação, bom relacionamento, agilidade e senso de prioridade.\n\n**Informações adicionais**\n**O QUE OFERECEMOS AOS PORTOBELLO LOVERS:**\n\n* Seguro de vida;\n* Assistência médica e odontológica;\n* Vale-Refeição;\n* Vale-Transporte ou Cartão Mobilidade;\n* Participação nos Lucros e Resultados;\n* Rede de descontos - parcerias com diversas instituições;\n* Desconto na compra de produtos Portobello;\n* Aprende Shop - Plataforma de conteúdos e treinamentos online;\n* Programas de Capacitação e Desenvolvimento Profissional;\n* Day off no mês do aniversário;\n* Wellhub (plataforma de bem-estar corporativo);\n* Ambiente dinâmico e acolhedor;\n* Fazer parte de uma empresa líder.\n\n**Todas as nossas vagas também são destinadas às pessoas com deficiência.**\nFaça parte do futuro do design! Vem ser #portobellolover",
+      "search_term": "arquiteta",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4485854194",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4485854194",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4485854194",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
+      "title": "Projetista de Tubulação Sênior",
+      "company": "AFRY",
+      "location": "Greater Belo Horizonte",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": "not applicable",
+      "date_posted": "2026-11-06",
+      "job_url": "https://www.linkedin.com/jobs/view/4471120336",
+      "job_url_direct": null,
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "**Descrição da empresa**\nAFRY é uma empresa europeia líder em serviços de engenharia, projetos e consultoria, com alcance global. Nós aceleraremos a transição para uma sociedade mais sustentável. mais de 19 mil especialistas no mundo dedicados nas áreas de infraestrutura, indústria, energia e digitalização, criando soluções sustentáveis para as próximas gerações.\n  \n  \nNo Brasil, possui cerca de 1.000 colaboradores corajosos, dedicados e trabalhadores em equipe, e atende mais de 50 clientes de diversos setores.\n  \n  \n*Making Future*\n**Descrição da vaga**\nDesenvolver modelos tridimensionais, desenhos e documentos técnicos da disciplina de Tubulação, assegurando que as soluções propostas atendam aos requisitos do projeto, às normas aplicáveis, às condições de segurança, operação, manutenção, montagem e construtibilidade.\n  \n  \nAtuar de forma integrada com toda equipe, contribuindo para a qualidade técnica dos projetos, o cumprimento dos prazos e a redução de interferências e retrabalhos.\n  \n  \n**Qualificações**\n\n* Experiência no desenvolvimento de projetos de tubulação industrial;\n* Conhecimento de representação gráfica e desenho técnico;\n* Capacidade de leitura e interpretação de fluxogrmas, arranjos gerais, plantas, cortes e isométricos;\n* Conhecimento de componentes de tubulação, válvulas, conexões, flanges e suportes;\n* Conhecimento dos princípios de roteamento de tubulações industriais;\n* Noções de materiais, classes de tubulação, fabricação, montagem e manutenção;\n* Conhecimento de ferramentas CAD, Plant3D, Navisworks... dentre outras de modelagem tridimensional utilizadas em projetos industriais;\n* Conhecimento de ferramentas do Microsoft Office;\n* Capacidade de trabalhar com normas, procedimentos, especificações e padrões técnicos\n\n**Informações adicionais**\n*At AFRY, we engineer change in everything we do. Change happens when brave ideas come together. When we collaborate, innovate technology, and embrace challenging points of view. That’s how we're making future. We are actively looking for qualified candidates to join our inclusive and diverse teams across the globe. Join us in accelerating the transition towards a sustainable future.*",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4471120336",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4471120336",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4471120336",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
+      "title": "Projetista Sênior de Instrumentação",
+      "company": "AFRY",
+      "location": "Greater Belo Horizonte",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": "executive",
+      "date_posted": "2026-11-04",
+      "job_url": "https://www.linkedin.com/jobs/view/4479091558",
+      "job_url_direct": null,
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "**Descrição da empresa**\nAFRY é uma empresa europeia líder em serviços de engenharia, projetos e consultoria, com alcance global. Nós aceleraremos a transição para uma sociedade mais sustentável. mais de 19 mil especialistas no mundo dedicados nas áreas de infraestrutura, indústria, energia e digitalização, criando soluções sustentáveis para as próximas gerações.\n  \n  \nNo Brasil, possui cerca de 1.400 colaboradores corajosos, dedicados e trabalhadores em equipe, e atende mais de 50 clientes de diversos setores.\n  \n  \n*Making Future*\n**Descrição da vaga**\nElaborar documentos relacionados aos projetos conceitual, básico e detalhado;\n  \n  \nModelar em Revit\n  \n  \nCriar fluxogramas Inteligentes em Plant 3D\n  \n  \n**Qualificações**\nAutocad\n  \n  \nPlant 3D\n  \n  \nRevit\n  \n  \n**Informações adicionais**\nDisponibilidade para trabalho 100% presencial em BH\n  \n  \n*At AFRY, we engineer change in everything we do. Change happens when brave ideas come together. When we collaborate, innovate technology, and embrace challenging points of view. That’s how we're making future. We are actively looking for qualified candidates to join our inclusive and diverse teams across the globe. Join us in accelerating the transition towards a sustainable future.*",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Não validada",
+      "validated_url": null,
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4479091558",
+        "status_code": 429,
+        "final_url": "https://www.linkedin.com/jobs/view/4479091558",
+        "result": "Não validada"
       }
     }
   ]
