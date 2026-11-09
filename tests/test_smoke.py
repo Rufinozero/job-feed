@@ -1,6 +1,6 @@
 from app.config import Settings
 from app.filters import dedupe, is_relevant_title, normalize_url
-from app.scraper import Query, build_queries, query_params
+from app.scraper import Query, build_queries, is_rate_limited, query_params
 
 
 def test_relevant_titles() -> None:
@@ -49,3 +49,8 @@ def test_queries_respect_indeed_limit() -> None:
     linkedin_remote = query_params(Query("linkedin", "arquiteta", "remote"), s)
     assert linkedin_remote["is_remote"] is True
     assert "linkedin_fetch_description" in linkedin_remote
+
+
+def test_rate_limit_detection() -> None:
+    assert is_rate_limited(["response status code 429 (blocked: use a proxy)"])
+    assert not is_rate_limited(["response status code 403 (blocked: use a proxy)"])

@@ -1,6 +1,7 @@
 """Runs JobSpy per site and query, isolating failures so one blocked site does not stop the rest."""
 
 import logging
+import time
 from dataclasses import dataclass, field
 from typing import Any
 
@@ -111,6 +112,19 @@ def to_records(frame: Any, query: Query) -> list[dict[str, Any]]:
     return records
 
 
+def is_rate_limited(messages: list[str]) -> bool:
+    return any("429" in message for message in messages)
+
+
+def _scrape(scrape_jobs: Any, query: Query, settings: Settings, collector: _ErrorCollector) -> Any:
+    collector.messages.clear()
+    try:
+        return scrape_jobs(**query_params(query, settings))
+    except Exception as exc:  # noqa: BLE001 - any site failure must not stop the run
+        collector.messages.append(f"{type(exc).__name__}: {exc}")
+        return None
+
+
 def run(settings: Settings) -> tuple[list[dict[str, Any]], dict[str, SiteStatus]]:
     from jobspy import scrape_jobs  # imported lazily so tests run without network deps
 
@@ -120,12 +134,15 @@ def run(settings: Settings) -> tuple[list[dict[str, Any]], dict[str, SiteStatus]
     logging.getLogger("jobspy").addHandler(collector)
     for query in build_queries(settings):
         st = status[query.site]
-        collector.messages.clear()
-        try:
-            frame = scrape_jobs(**query_params(query, settings))
-        except Exception as exc:  # noqa: BLE001 - any site failure must not stop the run
-            collector.messages.append(f"{type(exc).__name__}: {exc}")
-            frame = None
+        if query.site == "linkedin":
+            time.sleep(settings.linkedin_delay_seconds)
+        frame = _scrape(scrape_jobs, query, settings, collector)
+        if is_rate_limited(collector.messages):
+            log.info(
+                "%s rate limited; retrying once in %ss", query.site, settings.retry_wait_seconds
+            )
+            time.sleep(settings.retry_wait_seconds)
+            frame = _scrape(scrape_jobs, query, settings, collector)
         if collector.messages:
             st.failed_queries += 1
             message = f"{query.term} ({query.mode}): {'; '.join(collector.messages)}"[:300]

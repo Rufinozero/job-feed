@@ -33,6 +33,9 @@ class Settings:
     hours_old: int = int(os.getenv("HOURS_OLD", "168"))
     results_per_query: int = int(os.getenv("RESULTS_PER_QUERY", "15"))
     linkedin_fetch_description: bool = os.getenv("LINKEDIN_FETCH_DESCRIPTION", "true") == "true"
+    # Pause between LinkedIn queries and before one retry on HTTP 429 (rate limit).
+    linkedin_delay_seconds: int = int(os.getenv("LINKEDIN_DELAY_SECONDS", "8"))
+    retry_wait_seconds: int = int(os.getenv("RETRY_WAIT_SECONDS", "60"))
     output_path: str = os.getenv("OUTPUT_PATH", "output/vagas.json")
 
 
