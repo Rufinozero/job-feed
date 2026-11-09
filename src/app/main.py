@@ -9,6 +9,7 @@ from pathlib import Path
 from app.config import settings
 from app.filters import dedupe
 from app.scraper import run
+from app.validate import validate_jobs
 
 log = logging.getLogger(__name__)
 
@@ -20,6 +21,7 @@ def main() -> None:
     )
     jobs, status = run(settings)
     jobs = dedupe(jobs)
+    validate_jobs(jobs)
 
     payload = {
         "generated_at": datetime.now(UTC).isoformat(timespec="seconds"),

@@ -54,3 +54,14 @@ def test_queries_respect_indeed_limit() -> None:
 def test_rate_limit_detection() -> None:
     assert is_rate_limited(["response status code 429 (blocked: use a proxy)"])
     assert not is_rate_limited(["response status code 403 (blocked: use a proxy)"])
+
+
+def test_classify_links() -> None:
+    from app.validate import classify
+
+    url = "https://x.gupy.io/jobs/123"
+    assert classify(200, url, "<h1>Arquiteta</h1>", url) == "Validada"
+    assert classify(200, url, "Esta vaga não está mais disponível", url) == "Encerrada"
+    assert classify(404, url, "", url) == "Encerrada"
+    assert classify(403, url, "", url) == "Não validada"
+    assert classify(200, "https://x.gupy.io", "home", url) == "Não validada"

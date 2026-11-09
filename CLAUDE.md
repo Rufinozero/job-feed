@@ -16,6 +16,7 @@ Coletar vagas públicas do LinkedIn, Glassdoor e Indeed (Brasil) via JobSpy e gr
 - `src/app/config.py` — configuração via `.env`
 - `src/app/scraper.py` — consultas por site/termo, falha isolada por consulta
 - `src/app/filters.py` — filtro de título, normalização de URL, deduplicação
+- `src/app/validate.py` — abre cada link no runner e marca Validada / Encerrada / Não validada
 - `.github/workflows/feed.yml` — agendamento 07:30 e 15:30 (BRT)
 - `scripts/run-local.ps1` — plano B no PC
 - `tests/` — testes
@@ -30,3 +31,4 @@ Coletar vagas públicas do LinkedIn, Glassdoor e Indeed (Brasil) via JobSpy e gr
 - Glassdoor devolve HTTP 403 no GitHub Actions; roda no PC via `scripts/run-local.ps1`
   (saída `output/vagas_local.json`). A skill lê os dois arquivos.
 - JobSpy às vezes só loga o erro (não lança exceção); `_ErrorCollector` captura isso no status.
+- A validação dos links é feita aqui (runner tem internet livre); a skill não consegue abrir URLs vindas de arquivo.

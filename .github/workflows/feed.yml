@@ -5,6 +5,11 @@ on:
     - cron: "30 10 * * *"  # 07:30 America/Sao_Paulo
     - cron: "30 18 * * *"  # 15:30 America/Sao_Paulo
   workflow_dispatch:
+    inputs:
+      sites:
+        description: "Sites (comma separated)"
+        required: false
+        default: "linkedin,indeed"
 
 permissions:
   contents: write
@@ -27,7 +32,7 @@ jobs:
         env:
           LOG_LEVEL: INFO
           # Glassdoor blocks GitHub runners (HTTP 403); it runs from the PC (scripts/run-local.ps1).
-          SITES: linkedin,indeed
+          SITES: ${{ inputs.sites || 'linkedin,indeed' }}
       - name: Commit output
         run: |
           git config user.name "job-feed-bot"
