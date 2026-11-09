@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:03:33+00:00",
+  "generated_at": "2026-11-09T06:05:15+00:00",
   "hours_old": 168,
   "sites": {
     "indeed": {
@@ -36,7 +36,8 @@
         "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI4MTA3NDAsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
         "status_code": 200,
         "final_url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI4MTA3NDAsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
-        "result": "Encerrada"
+        "result": "Encerrada",
+        "evidence": "resencial\",\"onsiteicon\":\"trabalho presencial icone\"},\"applicationsuntil\":\"inscricoes abertas ate\",\"closedapplications\":\"inscricoes encerradas\",\"copylink\":{\"button\":\"copiar link\",\"infotip\":\"copiar link"
       }
     },
     {
@@ -64,7 +65,8 @@
         "url": "https://carreirasdecathlon.gupy.io/job/eyJqb2JJZCI6MTE4ODAyMTQsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
         "status_code": 200,
         "final_url": "https://carreirasdecathlon.gupy.io/job/eyJqb2JJZCI6MTE4ODAyMTQsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
-        "result": "Encerrada"
+        "result": "Encerrada",
+        "evidence": "resencial\",\"onsiteicon\":\"trabalho presencial icone\"},\"applicationsuntil\":\"inscricoes abertas ate\",\"closedapplications\":\"inscricoes encerradas\",\"copylink\":{\"button\":\"copiar link\",\"infotip\":\"copiar link"
       }
     },
     {
