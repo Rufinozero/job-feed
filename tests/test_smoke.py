@@ -73,3 +73,11 @@ def test_translation_bundle_is_not_a_closure() -> None:
     url = "https://x.gupy.io/job/abc"
     body = '{"closedapplications":"inscrições encerradas","apply":"candidatar"} <h1>Arquiteta</h1>'
     assert classify(200, url, body, url) == "Validada"
+
+
+def test_status_field_closed() -> None:
+    from app.validate import classify
+
+    url = "https://x.gupy.io/job/abc"
+    assert classify(200, url, '{"status":"closed"}', url) == "Encerrada"
+    assert classify(200, url, '{"status":"published"}', url) == "Validada"

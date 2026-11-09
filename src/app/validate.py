@@ -39,6 +39,9 @@ STATUS_HINT = re.compile(
 )
 
 
+CLOSED_STATUS = {"closed", "canceled", "cancelled", "finished", "expired", "unpublished", "frozen"}
+
+
 def visible_text(body: str) -> str:
     return JSON_PAIR.sub(" ", strip_accents(body).lower())
 
@@ -52,6 +55,8 @@ def classify(status_code: int | None, final_url: str | None, body: str, requeste
     """Return 'Validada', 'Encerrada' or 'Não validada'."""
     if status_code is None or status_code >= 400:
         return "Encerrada" if status_code in (404, 410) else "Não validada"
+    if any(value in CLOSED_STATUS for _, value in STATUS_HINT.findall(strip_accents(body).lower())):
+        return "Encerrada"
     text = visible_text(body)
     if any(marker in text for marker in CLOSED_MARKERS):
         return "Encerrada"
