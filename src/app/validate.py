@@ -42,6 +42,16 @@ def classify(status_code: int | None, final_url: str | None, body: str, requeste
     return "Validada"
 
 
+def closed_evidence(body: str) -> str | None:
+    """Short excerpt around the closure marker, to audit false positives."""
+    text = strip_accents(body).lower()
+    for marker in CLOSED_MARKERS:
+        pos = text.find(marker)
+        if pos >= 0:
+            return text[max(0, pos - 120) : pos + 80].replace("\n", " ")
+    return None
+
+
 def check_url(session: Any, url: str) -> dict[str, Any]:
     try:
         resp = session.get(url, headers=HEADERS, timeout=20, allow_redirects=True)
