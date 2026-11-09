@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-11-09T05:58:42+00:00",
+  "generated_at": "2026-11-09T06:02:11+00:00",
   "hours_old": 168,
   "sites": {
-    "linkedin": {
-      "ok_queries": 9,
-      "failed_queries": 5,
-      "raw_results": 175,
-      "errors": [
-        "analista de arquitetura (hybrid): response status code 429 (blocked: use a proxy)",
-        "arquiteta (remote): response status code 429 (blocked: use a proxy)",
-        "projetista de arquitetura (hybrid): response status code 429 (blocked: use a proxy)",
-        "projetista de arquitetura (remote): response status code 429 (blocked: use a proxy)",
-        "desenhista (hybrid): response status code 429 (blocked: use a proxy)"
-      ]
-    },
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
@@ -21,7 +9,7 @@
       "errors": []
     }
   },
-  "total_jobs": 7,
+  "total_jobs": 3,
   "jobs": [
     {
       "site": "indeed",
@@ -41,7 +29,15 @@
       "emails": null,
       "description": "Quer trabalhar na marca de beleza preferida dos brasileiros? No Grupo Boticário, todos os produtos desenvolvidos e todas as histórias contadas tocam o coração e a pele das pessoas. É assim que a marca transforma momentos simples em momentos mágicos há mais de 40 anos. Se você, assim como a marca, acredita que onde tem amor tem beleza, e quer atuar na categoria de Infantil, esse é o lugar certo para você!\n\n **Responsabilidades e atribuições**  \n\n* Acompanhamento e validação de projetos em nossos Canais de Vendas: Lojas / Espaço para Revendedores e Estoques;\n* Olhar crítico para operacionalização das obras e oportunidades de melhoria dos modelos arquitetônicos;\n* Troca com fornecedores e escritórios de arquitetura, adaptações dos projetos, orçamentos dos itens;\n* Interface com Consultores Comerciais, Escritórios de arquitetura, fornecedores e Franqueados;\n* Implantação de melhorias contínuas na rede: análise das soluções na ponta, reconhecimento e desenvolvimento de pequenas ações que trazem grandes ganhos;\n* Domínio em análise de dados, com experiência prática na criação de planilhas e desenvolvimento de dashboards.\n\n  \n**Requisitos e qualificações**  \n\n* Ensino superior completo em Arquitetura e Urbanismo e Engenharias;\n* Conhecimento em Autocad e sistemas como Sketchup e Renders gerais;\n* Desejável Conhecimento em Revit; e ferramentas de gestão de projetos (Trello, Slack);\n* Conhecimento intermediário na Plataforma Google (principalmente Planilhas, Docs e Apresentações);\n* Boas relações interpessoais;. Facilidade de Comunicação;\n* Disponibilidade para eventuais visitas à campo;\n* Senso estético apurado;\n* Experiência com gestão de projetos e visão estratégica.\n* Diferencial: Experiência prévia com Arquitetura de Varejo.\n\n  \n**Informações adicionais**\n\n**Benefícios que cuidam e se diferenciam:**\n\nNo Grupo Boticário, o cuidado é a nossa base para atingirmos resultados exponenciais. Temos um portfólio com mais de 20 benefícios para cuidar da sua saúde, bem estar e família. Confira abaixo.\n\n**Saúde:**\n\n* Plano médico e odontológico flexíveis\n* Auxílio medicamentos e vale saúde para familiares\n* Sessões de psicoterapia gratuitas e telemedicina 24h\n* Programas contínuos de prevenção, cuidado mental e vacinação\n\n**Alimentação & bem-estar**\n\n* Vale Refeição (ou restaurante local) e Vale Alimentação (com vale extra no Natal)\n* Desconto de até 40% nas marcas do nosso ecossistema\n* Gympass/TotalPass para academias e estúdios esportivos\n* Auxílio Home Office para modalidades híbrida e remota\n* Day off de aniversário para celebrar do seu jeito\n* Plano de saúde pet, vantagens em convênios e programas de viagem/hospedagem\n\n**Para sua família**\n\n* Licença parental estendida (180 dias para mães e 120 dias para pais)\n* Suporte para Pais Atípicos e auxílio babá / educação infantil\n* Auxílio material escolar e crédito nutrição infantil\n* Orientação jurídica, psicológica e social dedicada\n\n**Seguridade para proteção e tranquilidade financeira**\n\n* Previdência Privada e Seguro de Vida\n* Apoio ao falecimento de pais e empréstimo consignado\n* Vale Transporte e Estacionamento (conforme o modelo de trabalho)\n\n*Nota: Os pacotes de benefícios são adaptados de acordo com a elegibilidade de cada cargo e modelo de trabalho.*\n\nDe uma pequena farmácia de manipulação à maior franquia de cosméticos do planeta.\n\nSomos um Grupo com 15 marcas que está presente em mais de 40 países, com mais de 4 mil lojas físicas, líder de e-commerce de beleza no Brasil e mais de 19 mil colaboradores diretos. Temos um ecossistema próprio de beleza, que vai da indústria ao ponto de venda, da logística ao varejo, do laboratório ao coração das consumidoras e das nossas inovações na palma da sua mão. Acreditamos que o futuro mais bonito é aquele que construímos juntos, por isso, até 2030 temos compromissos ambiciosos voltados para o impacto positivo em dimensões humanas, ambientais e em nossos processos produtivos.\n\nGanhamos o ranking **\"Employer Branding Awards 2025\"** do Glassdoor, que nos elegeu a melhor empresa para se trabalhar no setor de varejo no Brasil! Reconhecimento baseado em avaliações voluntárias e anônimas de nossos colaboradores e ex-colaboradores sobre como é trabalhar aqui.\n\nReinventamos a beleza por meio da tecnologia, inovação, diversidade e sustentabilidade com: O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, TRUSS e do marketplace Beleza na Web, além de atuarmos com produtos licenciados como Australian Gold, Bio Oil e Linha de cuidados Pampers.\n\nVem fazer beleza com a gente!",
       "search_term": "analista de arquitetura",
-      "search_mode": "remote"
+      "search_mode": "remote",
+      "validation": "Encerrada",
+      "validated_url": null,
+      "validation_detail": {
+        "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI4MTA3NDAsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+        "status_code": 200,
+        "final_url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI4MTA3NDAsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+        "result": "Encerrada"
+      }
     },
     {
       "site": "indeed",
@@ -61,7 +57,15 @@
       "emails": null,
       "description": "Quer fazer parte da maior empresa de artigos esportivos do mundo?\n\n**#VemProTimeDecathlon**\n\nO nosso propósito é unir as pessoas através do esporte para tornar o bem-estar acessível a todos!\n\nSe assim como a gente, você também é um esportista apaixonado, temos uma oportunidade incrível para você.\n\nEstamos buscando uma **Pessoa Arquiteta com experiência em elaboração e gerenciamento de Projetos e de Obras**, sendo suas principais responsabilidades:\n\nElaborar e propor soluções arquitetônicas que garantam uma experiência de compra além do esperado por nossos clientes. Aplicar os conceitos, padrões e requisitos de segurança da empresa atendendo às normativas e legislações aplicáveis. Dominar todo o processo desde a fase de estudo técnico/elaboração do Projeto Básico até a fase de operação, sempre buscando a melhor eficiência operacional em nossas unidades.\n\nSer responsável pela elaboração de estimativas orçamentais, gereciamento das obras de nossas novas Unidades (Lojas, Centros de Distribuição e Escritórios), pela implementação do Plano de Re-investimentos e Obras/Reformas nas Unidades existentes respeitando o meio ambiente, os conceitos, padrões e requisitos de segurança da empresa, qualidade, prazos, orçamento estipulado e, pela implementação de medidas sustentáveis.\n\nGerenciar atividades de Manutenção e planejar os Re-Investimentos necessários nas Unidades Existentes. Aplicar diagnósticos a fim de garantir o bom funcionamento de todos os equipamentos e instalações de nossas Unidades assegurando a segurança, imagem, conforto e a conservação dos mesmos proporcionando a satisfação dos nossos clientes e colaboradores.\n\nDesenvolver e gerenciar Projetos Estratégicos, implementar metodologias de trabalho que visem dinamizar, digitalizar e padronizar os processos.\n\n **Responsabilidades e atribuições**\n\n**Quais são as principais responsabilidades?**\n\n* Elaborar projetos arquitetônicos considerando os Conceitos e Padrões da marca;\n* Conhecer as Normas, Legislações e Licenças aplicáveis ao desenvolvimento dos projetos arquitetônicos e à obtenção das licenças necessárias;\n* Atuar com o gerenciamentos de Projetos (desenvolvimento do projeto básico, projetos complementares e executivos e, compatibilização de projetos), execução da Obra e, das atividades relacionadas à Manutenção envolvendo os vários departamentos e fornecedores envolvidos;\n* Elaborar estudos para implementação de soluções técnicas/materiais sustentáveis;\n* Desenvolver e monitorar novas soluções técnicas e de eficiência energetica;\n* Atuar com gerenciamento de Obras e/ou de Reformas e, de atividades de Manutenção (Preventiva, Corretiva, Melhorias e Re-Investimentos), respeitando os prazos, os orçamentos e o nível de qualidade desejado;\n* Elaborar cadernos de encargos e escopos técnicos;\n* Elaborar estimativas orçamentais e analisar orçamentos;\n* Gerenciar fornecedores;\n* Elaborar e aplicar diagnósticos em nossas Unidades;\n* Redigir atas de reunião, elaborar mapas comparativos, compilar, analisar e tratar dados;\n* Negociar contratos de prestação de serviços, de obras, de reformas e de atividades de manutenção;\n* Atuar com gerenciamento de Manutenção Predial;\n* Elaborar os elementos/documentos técnicos necessários para aprovação de novas Unidades;\n* Organizar documentos técnicos (as builts, projetos, licenças, etc.);\n* Implementar melhorias no modo de trabalho, ferramentas e processos;\n* Gerenciar ativamente Projetos Estratégicos relacionados à área de atuação;\n\n **Requisitos e qualificações**\n\n**O que você precisa ter?**\n\n* Superior completo em Arquitetura e Urbanismo;\n* Conhecimento e vivência em Gerenciamento de Projetos;\n* Disponibilidade para viagens e deslocamentos;\n* Domínio de ferramentas informáticas (pacote Office – especialmente, domínio de Excel);\n* Conhecimentos sobre Análise e Tratamento de Dados (compilação de dados, criação de Dashboard’s, gráficos,...);\n* Domínio de ferramentas específicas de Arquitetura (REVIT e AutoCad);\n* Inglês: Avançado/Fluente.\n\n**O que esperamos dos nossos jogadores?**\n\n* Acredite nos prazeres e nos benefícios do esporte;\n* Seja orientado à ação e desafio;\n* Apaixonado pela satisfação do cliente;\n* Valorize o jogo coletivo e trabalho em equipe;\n* Seja proativo, espírito empreendedor;\n* Saiba trabalhar com responsabilidade e autonomia;\n* Tenha coragem na tomada de decisão;\n* Criatividade e adaptação nas situações adversas.\n\n  \n**Informações adicionais**\n\n**Nossos Benefícios**\n\n* DecaPack: Remuneração mensal, vale-transporte, vale-refeição ou vale-alimentação, assistência médica e odontológica, Dra. Decah (coach nutricional e esportivo, telepsicologia e telemedicina), seguro de vida, auxílio farmácia (Epharma), premiação mensal, participação nos lucros e resultados.\n* Trabalho híbrido: Três dias de home office na semana.\n* Mães, Pais e Futuros esportistas: Licença Maternidade estendida para 180 dias e licença paternidade estendida para 20 dias.\n* Paixão pelo esporte: Auxílio esporte (Gympass ou Total Pass) e desconto de 30% em produtos das marcas próprias Decathlon.\n* Para o seu futuro: Participação acionária, e previdência privada.\n* Universidade corporativa para treinamentos e desenvolvimento dos nossos esportistas.\n\nAcreditamos que, para o maior número de pessoas ter acesso à prática esportiva, a sustentabilidade e a diversidade são fundamentais. Portanto, todas as nossas vagas são aplicáveis para todas as pessoas sem qualquer tipo de distinção. Vamos juntos!",
       "search_term": "arquiteta",
-      "search_mode": "remote"
+      "search_mode": "remote",
+      "validation": "Encerrada",
+      "validated_url": null,
+      "validation_detail": {
+        "url": "https://carreirasdecathlon.gupy.io/job/eyJqb2JJZCI6MTE4ODAyMTQsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+        "status_code": 200,
+        "final_url": "https://carreirasdecathlon.gupy.io/job/eyJqb2JJZCI6MTE4ODAyMTQsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+        "result": "Encerrada"
+      }
     },
     {
       "site": "indeed",
@@ -81,87 +85,15 @@
       "emails": null,
       "description": "* Desenvolver projetos de menor complexidade, de acordo com especificações técnicas do cliente, propondo alterações quando necessário, para viabilidade da produção, ou redução de custo.\n\n  \n\n* Fazer a OP ilustrativa dos elementos a serem produzidos, tendo como referência a pasta da obra, recebida do planejamento, visando passar para a produção as especificações do produto, como dimensões, cores e quantidade;\n* Fazer análise das demandas recebidas do coordenador, analisando dimensionamento de material e aderência com o catálogo técnico do cliente, com o objetivo de definir a necessidade de materiais críticos e necessidade de terceirização de serviços;\n* Fazer a validação da análise realizada juntamente como Coordenador de Engenharia, para aprovação ou alterações que levem a um melhor custo benefício, sem comprometer a qualidade;\n* Enviar ao PCP a necessidade de materiais críticos para cada pasta, com o objetivo de avaliar a necessidade de compra;\n* Informar ao setor comercial qualquer divergência entre a pasta recebida do setor de Planejamento e o catálogo técnico do cliente, a fim de validar a informação correta para o projeto;\n* Elaborar a estrutura de produto de cada elemento do projeto novo;\n* Fazer a revisão da estrutura de produto de projetos já existentes, quando houver alteração;\n* Enviar a estrutura de produto para a Engenharia de Processo para validação;\n* Realizar alterações na estrutura de produto, quando solicitado pela Engenharia de Processo;\n* Finalizar a confecção da pasta o cliente, com o projeto e OP ilustrativa, e enviar ao PCP, para programação da produção;\n* Dar suporte técnico ao processo produtivo, orientando e discutindo as equipes sobre especificações do projeto, viabilidade produtiva ou sugestões de melhorias para o processo produtivo;\n* Dar suporte técnico para a equipe de PCO, definindo sequenciamento de instalação dos produtos, visando compatibilizar mão de obra e prazo;\n* Fazer a validação entre o projetado e o executado, confirmando todas as alterações, quando houver, para correção do projeto;\n* Fazer proposta de melhoria de custo para determinados projetos, quando demandado ou detectado, avaliando especificações e quantidade de material e processo produtivo, para avaliação com Coordenadores e Gerência;\n* Manter arquivo técnico atualizado dos projetos executados.  \n    \n  CONHECIMENTOS ESPECÍFICOS  \n    \n  Noções de caldeiraria  \n  Noções de estrutura metálica  \n  Conhecimento de materiais  \n  Cálculos",
       "search_term": "desenhista",
-      "search_mode": "hybrid"
-    },
-    {
-      "site": "linkedin",
-      "title": "Projetista | Nova Lima",
-      "company": "Portobello Shop",
-      "location": "Nova Lima, Minas Gerais, Brazil",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": "not applicable",
-      "date_posted": "2026-11-05",
-      "job_url": "https://www.linkedin.com/jobs/view/4485854194",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "Venha integrar o time de lojas próprias da Portobello Shop, marca referência global em inovação e design de soluções completas de revestimento. Somos a maior rede do varejo especializado no Brasil, movidos desde 1998 pelo propósito de\n**transformar ambientes e emocionar pessoas**\n.\n  \n  \nAqui é você quem desenha o próximo passo de sua carreira, em um\n**espaço ágil e dinâmico**\n. Por isso, se você também é apaixonado por varejo, design, e tecnologia, motivado por entregas excelentes e guiado pela satisfação do cliente, seu lugar é com a gente. Venha fazer parte do futuro do design aqui na Portobello Shop!\n  \n  \n**Responsabilidades e atribuições**\n\n* Executar projetos 3D para nossos clientes;\n* Apoiar a área de vendas na realização de projetos, especificação e orçamentos de complementos e cortes especiais;\n* Realizar medições in loco;\n* Organizar o layout interno da loja (ambientes);\n* Estar em constante atualização e possuir domínio acerca dos produtos oferecidos em loja.\n\n**Requisitos e qualificações**\n\n* Formação superior completa ou em andamento, preferencialmente em Arquitetura, ou Design de Interiores;\n* Desejável experiência anterior em realização de projetos de interiores;\n* Conhecimento em software de realização de projetos como AutoCad e SketchUp;\n* Competências chaves: organização, disciplina, disponibilidade, boa comunicação, bom relacionamento, agilidade e senso de prioridade.\n\n**Informações adicionais**\n**O QUE OFERECEMOS AOS PORTOBELLO LOVERS:**\n\n* Seguro de vida;\n* Assistência médica e odontológica;\n* Vale-Refeição;\n* Vale-Transporte ou Cartão Mobilidade;\n* Participação nos Lucros e Resultados;\n* Rede de descontos - parcerias com diversas instituições;\n* Desconto na compra de produtos Portobello;\n* Aprende Shop - Plataforma de conteúdos e treinamentos online;\n* Programas de Capacitação e Desenvolvimento Profissional;\n* Day off no mês do aniversário;\n* Wellhub (plataforma de bem-estar corporativo);\n* Ambiente dinâmico e acolhedor;\n* Fazer parte de uma empresa líder.\n\n**Todas as nossas vagas também são destinadas às pessoas com deficiência.**\nFaça parte do futuro do design! Vem ser #portobellolover",
-      "search_term": "arquiteta",
-      "search_mode": "hybrid"
-    },
-    {
-      "site": "linkedin",
-      "title": "Desenhista - Civil Infraestrutura - Banco de Talentos",
-      "company": "AFRY",
-      "location": "Greater Belo Horizonte",
-      "is_remote": false,
-      "job_type": null,
-      "job_level": null,
-      "date_posted": "2026-11-02",
-      "job_url": "https://www.linkedin.com/jobs/view/4029473725",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": null,
-      "search_term": "assistente de arquitetura",
-      "search_mode": "hybrid"
-    },
-    {
-      "site": "linkedin",
-      "title": "PROJETISTA SR _ 6377",
-      "company": "Arcadis",
-      "location": "Belo Horizonte, Minas Gerais, Brazil",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": "not applicable",
-      "date_posted": "2026-11-02",
-      "job_url": "https://www.linkedin.com/jobs/view/4466966943",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "Sobre a Arcadis:\n  \n  \nA Arcadis é a empresa líder mundial em soluções sustentáveis de design, engenharia e consultoria para ativos naturais e construídos. Somos mais de 34.000 pessoas, em mais de 30 países, dedicadas a melhorar a qualidade de vida. Todos têm um papel importante a desempenhar. Com o poder de muitas mentes curiosas, podemos resolver os desafios mais complexos do mundo e ter um impacto ainda maiores juntos.\n  \n  \na { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; }\n  \n  \n**Cargo: Projetista / Designer de Infraestrutura Civil (Civil 3D)**\n**Descrição da Função**\nAtuar no desenvolvimento de projetos de infraestrutura civil utilizando o Civil 3D em nível avançado, com foco em projetos de pilhas e barragens para o setor de mineração e infraestrutura. O profissional será responsável pela modelagem, detalhamento e compatibilização de projetos, garantindo conformidade técnica, qualidade e atendimento aos requisitos dos clientes.\n  \n  \n**Responsabilidades da Função**\n\n* Desenvolver e revisar projetos de infraestrutura utilizando Autodesk Civil 3D.\n* Criar e gerenciar corredores, superfícies e feature lines em nível avançado.\n* Elaborar projetos de pilhas de estéril, pilhas de rejeito e barragens, incluindo modelagem e detalhamento técnico.\n* Realizar análises geométricas e compatibilização multidisciplinar dos projetos.\n* Apoiar equipes de engenharia na definição de soluções técnicas e otimização de projetos.\n* Garantir a aderência aos padrões de qualidade, normas técnicas e procedimentos internos.\n* Participar de reuniões técnicas e revisões de projeto com equipes multidisciplinares.\n\n**Qualificações e Experiência**\n\n* Curso Técnico ou graduação em Engenharia Civil ou áreas correlatas.\n* Experiência comprovada com Civil 3D, especialmente em:\n\n+ Corredores (Corridors);\n+ Feature Lines;\n+ Modelagem e geração de superfícies;\n+ Produção de desenhos e documentação técnica.\n\n* Conhecimento avançado em projetos de pilhas e barragens.\n* Experiência em projetos de mineração será considerada um diferencial.\n* Capacidade de interpretação de normas e especificações técnicas.\n* Boa comunicação e habilidade para trabalho em equipe.\n\n**Diferenciais**\n\n* Conhecimento e experiência com Navisworks.\n* Conhecimento e experiência com InfraWorks.\n* Experiência em ambientes multidisciplinares de engenharia.\n* Vivência em projetos de mineração e infraestrutura de grande porte.\n\nPor que escolher a Arcadis?\n  \n  \nSó podemos alcançar nossos objetivos quando todos têm a capacidade de ser o melhor que podem ser. Acreditamos que a contribuição de todos é importante. É por isso que somos pioneiros em uma abordagem baseada em habilidades, onde você pode aproveitar suas experiências e conhecimento único para traçar seu caminho profissional e maximizar o impacto que podemos gerar juntos.\n  \n  \nVocê realizará um trabalho significativo e, não importa qual seja o cargo, ajudando a oferecer soluções sustentáveis para um planeta mais próspero. Faça sua marca, em sua carreira, colegas, clientes, vida e no mundo ao seu redor.\n  \n  \nJuntos, podemos criar um legado duradouro.\n  \n  \nNosso Compromisso com Igualdade, Diversidade, Inclusão e Pertencimento:\n  \n  \nQueremos que você possa trazer o melhor de si para o trabalho todos os dias, é por isso que levamos a igualdade e a inclusão a sério e nos responsabilizamos por nossas ações. Nossa ambição é ser um empregador de escolha e oferecer um ótimo ambiente de trabalho para todas as nossas pessoas.\n  \n  \nJunte-se à Arcadis. Crie um legado.",
-      "search_term": "cadista",
-      "search_mode": "hybrid"
-    },
-    {
-      "site": "linkedin",
-      "title": "Desenhista Projetista",
-      "company": "AFRY",
-      "location": "Greater Belo Horizonte",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": "not applicable",
-      "date_posted": "2026-11-02",
-      "job_url": "https://www.linkedin.com/jobs/view/3994762578",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "**Descrição da empresa**\nAFRY é uma empresa europeia líder em serviços de engenharia, projetos e consultoria, com alcance global. Nós aceleraremos a transição para uma sociedade mais sustentável. mais de 19 mil especialistas no mundo dedicados nas áreas de infraestrutura, indústria, energia e digitalização, criando soluções sustentáveis para as próximas gerações.\n  \n  \nNo Brasil, possui cerca de 1.400 colaboradores corajosos, dedicados e trabalhadores em equipe, e atende mais de 50 clientes de diversos setores.\n  \n  \n*Making Future*\n**Descrição do emprego**\n\n* Prestar suporte na elaboração de documentação na disciplina de utilidades de acordo com normas e padrões internas e/ou cliente;\n* Desejável experiência em projetos voltados para sistemas e utilidades, contemplando bombeamentos de água e ar comprimido, além de sistemas de HVAC. Atuação na elaboração de fluxogramas de engenharia, memórias de cálculo, relatórios técnicos e folhas de dados\n\n**Qualificações**\nBase teórica consolidada nas disciplinas de transferência de calor e fluidodinâmica;\n  \n  \nCurso técnico em mecatrônica, química e/ou mecânica\n  \n  \nDesejavel que esteja graduando Engenharias afins\n  \n  \n**Informação adicional**\n\n* Experiências anteriores em projetos voltados para sistemas de utilidades\n* Inglês será um diferencial;\n* Suporte direto ao supervisor de engenharia de utilidades;\n* Conhecimento e domínio em AutoCad\n\n*At AFRY, we engineer change in everything we do. Change happens when brave ideas come together. When we collaborate, innovate technology, and embrace challenging points of view. That’s how we're making future. We are actively looking for qualified candidates to join our inclusive and diverse teams across the globe. Join us in accelerating the transition towards a sustainable future.*",
-      "search_term": "desenhista",
-      "search_mode": "hybrid"
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://sinalmig.vagas.solides.com.br/vaga/949213?origem=indeed",
+      "validation_detail": {
+        "url": "https://sinalmig.vagas.solides.com.br/vaga/949213?origem=indeed",
+        "status_code": 200,
+        "final_url": "https://sinalmig.vagas.solides.com.br/vaga/949213?origem=indeed",
+        "result": "Validada"
+      }
     }
   ]
 }
