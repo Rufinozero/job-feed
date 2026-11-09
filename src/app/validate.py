@@ -55,13 +55,17 @@ def closed_evidence(body: str) -> str | None:
 def check_url(session: Any, url: str) -> dict[str, Any]:
     try:
         resp = session.get(url, headers=HEADERS, timeout=20, allow_redirects=True)
-        result = classify(resp.status_code, resp.url, resp.text[:200_000], url)
-        return {
+        body = resp.text[:400_000]
+        result = classify(resp.status_code, resp.url, body, url)
+        detail: dict[str, Any] = {
             "url": url,
             "status_code": resp.status_code,
             "final_url": resp.url,
             "result": result,
         }
+        if result == "Encerrada":
+            detail["evidence"] = closed_evidence(body)
+        return detail
     except Exception as exc:  # noqa: BLE001 - network errors become "Não validada"
         return {
             "url": url,
