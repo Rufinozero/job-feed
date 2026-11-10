@@ -1,17 +1,20 @@
 {
-  "generated_at": "2026-11-09T21:01:39+00:00",
+  "generated_at": "2026-11-10T01:53:41+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
-      "ok_queries": 14,
-      "failed_queries": 0,
-      "raw_results": 210,
-      "errors": []
+      "ok_queries": 12,
+      "failed_queries": 2,
+      "raw_results": 180,
+      "errors": [
+        "projetista de arquitetura (hybrid): response status code 429 (blocked: use a proxy)",
+        "assistente de arquitetura (hybrid): response status code 429 (blocked: use a proxy)"
+      ]
     },
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 72,
+      "raw_results": 76,
       "errors": []
     }
   },
@@ -169,8 +172,8 @@
       "company": "AFRY",
       "location": "Greater Belo Horizonte",
       "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": "executive",
+      "job_type": null,
+      "job_level": null,
       "date_posted": "2026-11-04",
       "job_url": "https://www.linkedin.com/jobs/view/4479091558",
       "job_url_direct": null,
@@ -179,16 +182,16 @@
       "currency": null,
       "interval": null,
       "emails": null,
-      "description": "**Descrição da empresa**\nAFRY é uma empresa europeia líder em serviços de engenharia, projetos e consultoria, com alcance global. Nós aceleraremos a transição para uma sociedade mais sustentável. mais de 19 mil especialistas no mundo dedicados nas áreas de infraestrutura, indústria, energia e digitalização, criando soluções sustentáveis para as próximas gerações.\n  \n  \nNo Brasil, possui cerca de 1.400 colaboradores corajosos, dedicados e trabalhadores em equipe, e atende mais de 50 clientes de diversos setores.\n  \n  \n*Making Future*\n**Descrição da vaga**\nElaborar documentos relacionados aos projetos conceitual, básico e detalhado;\n  \n  \nModelar em Revit\n  \n  \nCriar fluxogramas Inteligentes em Plant 3D\n  \n  \n**Qualificações**\nAutocad\n  \n  \nPlant 3D\n  \n  \nRevit\n  \n  \n**Informações adicionais**\nDisponibilidade para trabalho 100% presencial em BH\n  \n  \n*At AFRY, we engineer change in everything we do. Change happens when brave ideas come together. When we collaborate, innovate technology, and embrace challenging points of view. That’s how we're making future. We are actively looking for qualified candidates to join our inclusive and diverse teams across the globe. Join us in accelerating the transition towards a sustainable future.*",
+      "description": null,
       "search_term": "desenhista",
       "search_mode": "hybrid",
-      "validation": "Não validada",
-      "validated_url": null,
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4479091558",
       "validation_detail": {
         "url": "https://www.linkedin.com/jobs/view/4479091558",
-        "status_code": 429,
+        "status_code": 200,
         "final_url": "https://www.linkedin.com/jobs/view/4479091558",
-        "result": "Não validada"
+        "result": "Validada"
       }
     }
   ]
