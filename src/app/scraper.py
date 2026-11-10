@@ -1,6 +1,7 @@
 """Runs JobSpy per site and query, isolating failures so one blocked site does not stop the rest."""
 
 import logging
+import random
 import time
 from dataclasses import dataclass, field
 from typing import Any
@@ -112,6 +113,10 @@ def to_records(frame: Any, query: Query) -> list[dict[str, Any]]:
     return records
 
 
+def linkedin_pause(settings: Settings) -> float:
+    return settings.linkedin_delay_seconds + random.uniform(0, settings.linkedin_jitter_seconds)
+
+
 def is_rate_limited(messages: list[str]) -> bool:
     return any("429" in message for message in messages)
 
@@ -135,13 +140,13 @@ def run(settings: Settings) -> tuple[list[dict[str, Any]], dict[str, SiteStatus]
     for query in build_queries(settings):
         st = status[query.site]
         if query.site == "linkedin":
-            time.sleep(settings.linkedin_delay_seconds)
+            time.sleep(linkedin_pause(settings))
         frame = _scrape(scrape_jobs, query, settings, collector)
-        if is_rate_limited(collector.messages):
-            log.info(
-                "%s rate limited; retrying once in %ss", query.site, settings.retry_wait_seconds
-            )
-            time.sleep(settings.retry_wait_seconds)
+        for attempt, wait in enumerate(settings.retry_waits_seconds, start=1):
+            if not is_rate_limited(collector.messages):
+                break
+            log.info("%s rate limited; retry %d in %ss", query.site, attempt, wait)
+            time.sleep(wait)
             frame = _scrape(scrape_jobs, query, settings, collector)
         if collector.messages:
             st.failed_queries += 1

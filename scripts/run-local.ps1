@@ -1,7 +1,7 @@
 <#
 .SYNOPSIS
   Roda no PC a coleta dos sites que bloqueiam o GitHub Actions (padrão: Glassdoor)
-  e envia output/vagas_local.json ao GitHub. Agende no Agendador de Tarefas às 07:30 e 15:30.
+  e envia output/vagas_local.json ao GitHub. Agende no Agendador de Tarefas às 05:10 e 12:40.
 .EXAMPLE
   .\scripts\run-local.ps1
   .\scripts\run-local.ps1 -Sites "linkedin,glassdoor,indeed"

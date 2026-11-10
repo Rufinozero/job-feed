@@ -34,8 +34,13 @@ class Settings:
     results_per_query: int = int(os.getenv("RESULTS_PER_QUERY", "15"))
     linkedin_fetch_description: bool = os.getenv("LINKEDIN_FETCH_DESCRIPTION", "true") == "true"
     # Pause between LinkedIn queries and before one retry on HTTP 429 (rate limit).
-    linkedin_delay_seconds: int = int(os.getenv("LINKEDIN_DELAY_SECONDS", "8"))
-    retry_wait_seconds: int = int(os.getenv("RETRY_WAIT_SECONDS", "60"))
+    linkedin_delay_seconds: float = float(os.getenv("LINKEDIN_DELAY_SECONDS", "12"))
+    # Random extra pause (0..N s) added to each LinkedIn delay, to avoid a fixed rhythm.
+    linkedin_jitter_seconds: float = float(os.getenv("LINKEDIN_JITTER_SECONDS", "6"))
+    # Waits before each retry after HTTP 429 (one retry per value).
+    retry_waits_seconds: list[int] = field(
+        default_factory=lambda: [int(v) for v in _list("RETRY_WAITS_SECONDS", "90,180")]
+    )
     output_path: str = os.getenv("OUTPUT_PATH", "output/vagas.json")
 
 

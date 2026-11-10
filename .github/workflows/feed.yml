@@ -2,8 +2,10 @@ name: job-feed
 
 on:
   schedule:
-    - cron: "30 10 * * *"  # 07:30 America/Sao_Paulo
-    - cron: "30 18 * * *"  # 15:30 America/Sao_Paulo
+    # GitHub delays scheduled runs (hours at peak); run well before the skill (08:41 / 17:41 BRT)
+    # and off the top of the hour, when the queue is longest.
+    - cron: "10 8 * * *"   # 05:10 America/Sao_Paulo
+    - cron: "40 15 * * *"  # 12:40 America/Sao_Paulo
   workflow_dispatch:
     inputs:
       sites:
@@ -21,7 +23,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 75
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v6

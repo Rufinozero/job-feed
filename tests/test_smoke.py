@@ -1,6 +1,6 @@
 from app.config import Settings
 from app.filters import dedupe, is_relevant_title, normalize_url
-from app.scraper import Query, build_queries, is_rate_limited, query_params
+from app.scraper import Query, build_queries, is_rate_limited, linkedin_pause, query_params
 
 
 def test_relevant_titles() -> None:
@@ -81,3 +81,44 @@ def test_status_field_closed() -> None:
     url = "https://x.gupy.io/job/abc"
     assert classify(200, url, '{"status":"closed"}', url) == "Encerrada"
     assert classify(200, url, '{"status":"published"}', url) == "Validada"
+
+
+def test_linkedin_throttle_defaults() -> None:
+    s = Settings()
+    assert s.linkedin_delay_seconds == 12
+    assert s.retry_waits_seconds == [90, 180]
+    for _ in range(50):
+        assert 12 <= linkedin_pause(s) <= 18
+
+
+class EmptyFrame:
+    def __len__(self) -> int:
+        return 0
+
+    def to_dict(self, orient: str) -> list:
+        return []
+
+
+def test_retries_until_not_rate_limited(monkeypatch) -> None:
+    import app.scraper as scraper
+
+    monkeypatch.setattr(scraper.time, "sleep", lambda _s: None)
+    calls = {"n": 0}
+
+    def fake_scrape(scrape_jobs, query, settings, collector):
+        calls["n"] += 1
+        collector.messages.clear()
+        if calls["n"] < 3:
+            collector.messages.append("response status code 429")
+        return EmptyFrame()
+
+    monkeypatch.setattr(scraper, "_scrape", fake_scrape)
+    import sys
+    import types
+
+    sys.modules["jobspy"] = types.SimpleNamespace(scrape_jobs=None)
+    s = Settings(sites=["linkedin"], search_terms=["arquiteta"])
+    _, status = scraper.run(s)
+    # 2 queries (hybrid + remote): first needs 2 retries, second succeeds at once.
+    assert calls["n"] == 4
+    assert status["linkedin"].failed_queries == 0
