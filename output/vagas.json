@@ -1,24 +1,21 @@
 {
-  "generated_at": "2026-11-10T01:53:41+00:00",
+  "generated_at": "2026-11-10T15:07:50+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
-      "ok_queries": 12,
-      "failed_queries": 2,
-      "raw_results": 180,
-      "errors": [
-        "projetista de arquitetura (hybrid): response status code 429 (blocked: use a proxy)",
-        "assistente de arquitetura (hybrid): response status code 429 (blocked: use a proxy)"
-      ]
+      "ok_queries": 14,
+      "failed_queries": 0,
+      "raw_results": 210,
+      "errors": []
     },
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 76,
+      "raw_results": 77,
       "errors": []
     }
   },
-  "total_jobs": 6,
+  "total_jobs": 7,
   "jobs": [
     {
       "site": "indeed",
@@ -140,6 +137,34 @@
     },
     {
       "site": "linkedin",
+      "title": "Projetista de Hidrologia e Drenagem",
+      "company": "JM Souto Engenharia e Consultoria",
+      "location": "Belo Horizonte, Minas Gerais, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": "entry level",
+      "date_posted": "2026-11-10",
+      "job_url": "https://www.linkedin.com/jobs/view/4487480648",
+      "job_url_direct": null,
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": "elaine.lima@jmsouto.com.br",
+      "description": "Projetista de Hidrologia e Drenagem com experiência em projetos de infraestrutura de transporte, especialmente voltados para ferrovias e rodovias.\n\nResponsabilidades:\n\n- Desenvolvimento de projetos de hidrologia e drenagem pluvial para obras ferroviárias e rodoviárias.\n\n- Elaboração de estudos hidrológicos e hidráulicos aplicados a pontes, bueiros e obras de arte especiais.\n\n- Dimensionamento e especificação de dispositivos de drenagem (valetas, sarjetas, bueiros, galerias, caixas coletoras, entre outros).\n\n- Elaboração de plantas, perfis e detalhes técnicos.\n\n- Interface com equipes de geometria, geotecnia, topografia, pavimentação e estruturas.\n\n- Apoio na elaboração de memoriais descritivos e relatórios técnicos\n\nRequisito:\n\n- Formação técnica ou superior em Engenharia Civil ou áreas correlatas.\n\n- Experiência comprovada em projetos de drenagem e estudos hidrológicos/hidráulicos para infraestrutura viária ou ferroviaria.\n\n- Domínio de softwares como AutoCAD, Civil 3D\n\n- Conhecimento das normas DNIT, DER, ANTT e demais aplicáveis.\n\n- Habilidade para leitura e interpretação de projetos multidisciplinares.\n\n- Experiência com softwares de modelagem hidráulica/hidrológica (HEC-RAS, SWMM, HEC-HMS, etc.).\n\nDiferenciais:\n\n- Projetar em BIM.\n\nEnviar currículo para o email: elaine.lima@jmsouto.com.br",
+      "search_term": "cadista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4487480648",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4487480648",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4487480648",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
       "title": "Projetista de Tubulação Sênior",
       "company": "AFRY",
       "location": "Greater Belo Horizonte",
@@ -172,8 +197,8 @@
       "company": "AFRY",
       "location": "Greater Belo Horizonte",
       "is_remote": false,
-      "job_type": null,
-      "job_level": null,
+      "job_type": "fulltime",
+      "job_level": "executive",
       "date_posted": "2026-11-04",
       "job_url": "https://www.linkedin.com/jobs/view/4479091558",
       "job_url_direct": null,
@@ -182,7 +207,7 @@
       "currency": null,
       "interval": null,
       "emails": null,
-      "description": null,
+      "description": "**Descrição da empresa**\nAFRY é uma empresa europeia líder em serviços de engenharia, projetos e consultoria, com alcance global. Nós aceleraremos a transição para uma sociedade mais sustentável. mais de 19 mil especialistas no mundo dedicados nas áreas de infraestrutura, indústria, energia e digitalização, criando soluções sustentáveis para as próximas gerações.\n  \n  \nNo Brasil, possui cerca de 1.400 colaboradores corajosos, dedicados e trabalhadores em equipe, e atende mais de 50 clientes de diversos setores.\n  \n  \n*Making Future*\n**Descrição da vaga**\nElaborar documentos relacionados aos projetos conceitual, básico e detalhado;\n  \n  \nModelar em Revit\n  \n  \nCriar fluxogramas Inteligentes em Plant 3D\n  \n  \n**Qualificações**\nAutocad\n  \n  \nPlant 3D\n  \n  \nRevit\n  \n  \n**Informações adicionais**\nDisponibilidade para trabalho 100% presencial em BH\n  \n  \n*At AFRY, we engineer change in everything we do. Change happens when brave ideas come together. When we collaborate, innovate technology, and embrace challenging points of view. That’s how we're making future. We are actively looking for qualified candidates to join our inclusive and diverse teams across the globe. Join us in accelerating the transition towards a sustainable future.*",
       "search_term": "desenhista",
       "search_mode": "hybrid",
       "validation": "Validada",
