@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-11-11T16:17:57+00:00",
+  "generated_at": "2026-11-11T22:36:08+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
-      "ok_queries": 14,
-      "failed_queries": 0,
-      "raw_results": 210,
-      "errors": []
+      "ok_queries": 13,
+      "failed_queries": 1,
+      "raw_results": 195,
+      "errors": [
+        "arquiteto (hybrid): response status code 429 (blocked: use a proxy)"
+      ]
     },
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 92,
+      "raw_results": 96,
       "errors": []
     }
   },
-  "total_jobs": 13,
+  "total_jobs": 17,
   "jobs": [
     {
       "site": "indeed",
@@ -73,6 +75,95 @@
         "url": "https://www.jobbol.com.br/vaga/155831-projetista-de-metalica?cidade=2310",
         "status_code": 200,
         "final_url": "https://www.jobbol.com.br/vaga/155831-projetista-de-metalica?cidade=2310",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "indeed",
+      "title": "Especialista Projetos (Arquitetura) - Morumbi, SP (86952)",
+      "company": "Grupo Amil",
+      "location": "Morumbi, SP, Brazil",
+      "is_remote": false,
+      "job_type": null,
+      "job_level": null,
+      "date_posted": "2026-11-11",
+      "job_url": "https://br.indeed.com/viewjob?jk=8ddaec393d5173c4",
+      "job_url_direct": "https://career19.sapsf.com/career?rcm_site_locale=pt_BR&career_ns=job_listing&company=amilassist&selected_lang=pt_BR&career_job_req_id=86952",
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "Transformar vidas com saúde é o que nos move!\n\n  \n\nAtuamos em todo o Brasil por meio de duas unidades de negócios, Amil e Rede Total Care, com mais de 1.500 hospitais credenciados e uma rede própria de hospitais, clínicas, centros de tratamento, home care e transporte médico.\n\n  \n\nCom uma missão clara e valores sólidos, fortalecemos nossa cultura com compromisso de servir sempre melhor. Cuidamos das nossas pessoas colaboradoras para que esse cuidado se reflita na população que atendemos.\n\n**Principais Responsabilidades** :\n\n  \n\n* Participar da definição dos programas de necessidades junto às áreas assistenciais, administrativas e operacionais;\n* Desenvolver estudos de viabilidade, concepção arquitetônica e anteprojetos de unidades hospitalares;\n* Elaborar layouts funcionais considerando fluxos assistenciais, operacionais, logísticos, pacientes, acompanhantes e equipes multidisciplinares;\n* Garantir a conformidade dos projetos com as legislações vigentes, normas técnicas e regulamentações sanitárias aplicáveis, incluindo RDCs da ANVISA, normas da ABNT e legislações locais;\n* Coordenar equipes multidisciplinares de projeto terceiros complementares, tais como elétrica, hidráulica, climatização, gases medicinais, TI e segurança;\n* Realizar o acompanhamento técnico das obras hospitalares executadas por empresas contratadas, verificando conformidade com projetos, especificações técnicas, normas e padrões corporativos;\n* Monitorar o cumprimento dos cronogramas físico-financeiros e marcos de entrega estabelecidos para os projetos.\n\n  \n\n**Qualificações Necessárias:**\n\n  \n\n* Ensino Superior completo em Arquitetura e Urbanismo e registro ativo no CAU;\n* Conhecimento no Pacote Office;\n* Conhecimento em AutoCAD, MS Project;\n* Vivência nas atividades da vaga no segmento da saúde;\n* Disponibilidade para atuar no modelo presencial (Morumbi, São Paulo) e realizar visitas nas unidades.\n\n  \n\n**Palavras-Chave** : Amil, Especialista, Arquitetura, Arquiteto, Arquiteta, Projetos e Obras, Diversidade, Inclusão, Equidade, PcD, Pessoa com Deficiência, Morumbi, São Paulo, SP.\n\n  \n\nPromovemos uma cultura inovadora, diversa, equitativa e inclusiva. Todas as candidaturas qualificadas são bem-vindas, sem distinção de etnia, raça, deficiência, orientação sexual, identidade ou expressão de gênero, idade, nacionalidade, religião ou qualquer outro marcador social.\n\n  \n\nReforçamos que não solicitamos pagamentos, taxas ou códigos SMS em nossos processos seletivos. Todas as oportunidades estão disponíveis em nossos canais oficiais e no nosso site de carreira. Qualquer situação diferente deve ser denunciada.",
+      "search_term": "arquiteta",
+      "search_mode": "remote",
+      "validation": "Validada",
+      "validated_url": "https://career19.sapsf.com/career?rcm_site_locale=pt_BR&career_ns=job_listing&company=amilassist&selected_lang=pt_BR&career_job_req_id=86952",
+      "validation_detail": {
+        "url": "https://career19.sapsf.com/career?rcm_site_locale=pt_BR&career_ns=job_listing&company=amilassist&selected_lang=pt_BR&career_job_req_id=86952",
+        "status_code": 200,
+        "final_url": "https://career19.sapsf.com/career?rcm_site_locale=pt_BR&career_ns=job_listing&company=amilassist&selected_lang=pt_BR&career_job_req_id=86952",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "indeed",
+      "title": "Assistente Tecnico Cadista",
+      "company": "Bureau Veritas",
+      "location": "Angra dos Reis, RJ, Brazil",
+      "is_remote": true,
+      "job_type": "fulltime",
+      "job_level": null,
+      "date_posted": "2026-11-11",
+      "job_url": "https://br.indeed.com/viewjob?jk=adcf1392d0ec4d19",
+      "job_url_direct": "https://jobs.bureauveritas.com/gb/en/job/218106",
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "***Assistente Tecnico Cadista***\n\nEstamos em busca de um(a) Assistente Técnico Cadistapara atuar contribuindo com atividades como acompanhamento de obras, medições, controle de materiais, mão de obra e empreiteiros. Elabora os relatórios topográficos descritivos e levantamento de dados. Auxilia na elaboração de projetos de engenharia e apoiando iniciativas que gerem valor para o negócio.\n\n**Sobre o Grupo Bureau Veritas**\n\nFundado em 1828, somos líder mundial em serviços de testes laboratoriais, inspeção e certificação, possuímos mais de 74 mil funcionários em 1.400 escritórios e laboratórios ao redor do globo. Nossa missão é oferecer serviços e soluções inovadoras para garantir que os ativos, produtos e processos de nossos mais de 400 mil clientes atendam a padrões e regulamentos em termos de qualidade, saúde, segurança, proteção ambiental e responsabilidade social. Há 190 anos nossa marca é sinônimo de integridade e confiança, em benefício dos negócios e das pessoas, contribuindo para transformar o mundo em que vivemos. Para saber um pouco mais acesse o site www.bureauveritas.com.br\n\n  \n\n**Principais Responsabilidades:**\n\n* Acompanhamento de obras, medições, controle de materiais, mão de obra e empreiteiros\n* Elaborar os relatórios topográficos descritivos e levantamento de dados.\n* Auxilia na elaboração de projetos de engenharia\n  \n\n**O que buscamos:**\n\n* Ensino superior cursando em engenharia civil ou tecnico\n* CNH B definitiva com mais de 2 anos de habilitação.\n* Conhecimento no Pacote Office, Excel Avançado, Autocad e Civil3d.\n* Vivência em projetos de execução de obras de rodovias será um diferencial.\n\n**O que nós podemos oferecer:**\n\nAo participar deste processo seletivo, você terá a oportunidade de integrar uma equipe colaborativa, dinâmica e orientada ao aprendizado contínuo, com oportunidades reais de desenvolvimento profissional e construção de carreira. Valorizamos pessoas que atuam com protagonismo, curiosidade e vontade de gerar impacto, contribuindo para um ambiente de inovação e excelência.\n\nNo Bureau Veritas, promovemos a igualdade de oportunidades e valorizamos a diversidade. Nosso compromisso é manter um ambiente de trabalho respeitoso, inclusivo e acolhedor, onde cada profissional possa ser autêntico e desenvolver todo o seu potencial.\n\nSe esta oportunidade despertou seu interesse, encorajamos sua candidatura, mesmo que você não atenda a todos os requisitos da posição. Estamos sempre em busca de profissionais com potencial, vontade de aprender e desejo de construir uma trajetória de sucesso.\n\n  \n\nAo participar deste processo de Recrutamento e Seleção do Bureau Veritas Brasil, o(a) candidato(a) declara que:\n\n* Está em condições técnicas e operacionais, incluindo ergonomia adequada, estação de trabalho e conexão à internet compatível para desempenhar suas atividades em regime remoto (home office), quando aplicável;\n* Tem ciência de que os dados pessoais fornecidos durante o processo seletivo serão tratados em conformidade com a legislação vigente de proteção de dados, especialmente a Lei nº 13.709/2018 (LGPD), para as finalidades relacionadas ao recrutamento e seleção;\n* Declara que todas as informações, documentos, certificações, experiências profissionais e qualificações apresentadas ao longo do processo seletivo são verdadeiras, completas e atualizadas, estando ciente de que qualquer inconsistência, omissão ou informação inverídica poderá resultar em sua desclassificação do processo ou, caso já contratado(a), na adoção das medidas cabíveis previstas na legislação e nas normas internas da empresa.\n\n**Venha fazer parte de um time que atua com excelência, colaboração e foco em resultados. Se você busca desenvolvimento profissional, aprendizado contínuo e a oportunidade de fazer a diferença, gostaríamos de conhecer você.**",
+      "search_term": "cadista",
+      "search_mode": "remote",
+      "validation": "Validada",
+      "validated_url": "https://jobs.bureauveritas.com/gb/en/job/218106",
+      "validation_detail": {
+        "url": "https://jobs.bureauveritas.com/gb/en/job/218106",
+        "status_code": 200,
+        "final_url": "https://jobs.bureauveritas.com/gb/en/job/218106",
+        "result": "Validada",
+        "status_hints": [
+          "jobstatus=new",
+          "status=status",
+          "status=success"
+        ]
+      }
+    },
+    {
+      "site": "indeed",
+      "title": "Projetistas Sênior",
+      "company": "Onmidas",
+      "location": "Contagem, MG, Brazil",
+      "is_remote": false,
+      "job_type": null,
+      "job_level": null,
+      "date_posted": "2026-11-11",
+      "job_url": "https://br.indeed.com/viewjob?jk=bda6567b8312b8d8",
+      "job_url_direct": "https://abler.in/v403669",
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": "vaga-403669@vagas.abler.in",
+      "description": "**Candidatar-se por e-mail: vaga-403669@vagas.abler.in**  \n  \n**Sobre a vaga:**\n\nA Onmidas Group é uma empresa especializada na prestação de serviços técnicos e de engenharia, com atuação estratégica em outsourcing de profissionais e no fornecimento de soluções completas e personalizadas por meio de Project Services Center. Com sólida experiência nos setores automotivo, veículos pesados e ferroviário, apoiamos nossos clientes na execução e gestão de projetos de engenharia, conectando talento, técnica e estratégia. Nossa atuação vai além da entrega técnica: estruturamos times, gerimos projetos e garantimos excelência operacional, sempre com foco em eficiência, qualidade e pessoas. Nosso diferencial está nas relações de confiança que construímos com nossos colaboradores e clientes. Investimos em formação técnica e gerencial para novos talentos. Em sinergia com nossa cultura organizacional, combinamos expertise técnico com uma gestão humanizada. Valorizamos as pessoas, incentivamos a inovação e acreditamos no potencial de cada colaborador para conseguirmos entregar soluções de alta qualidade. Investimos continuamente no desenvolvimento técnico e humano dos nossos profissionais. Essa cultura reflete diretamente na qualidade das entregas, no engajamento das equipes e com isso conseguimos superar as expectativas dos nossos clientes. Onmidas Group, engenharia com propósito, valores, qualidade e inovação!\n\n **Atividades:**\n\n### **Sobre a vaga**\n\nEstamos em busca de um **Projetista Sênior** para integrar nossa equipe de engenharia, contribuindo com expertise em desenho técnico e processos de fabricação. O profissional atuará na criação, revisão e otimização de projetos, garantindo qualidade, eficiência e alinhamento com as necessidades do cliente.\n\n### **Responsabilidades**\n\n  \n\n* Desenvolver e validar projetos mecânicos utilizando softwares de CAD como AutoCAD, SolidWorks ou CATIA.\n* Gerenciar a documentação técnica, incluindo desenhos, especificações e relatórios de testes.\n* Colaborar com equipes multidisciplinares (engenharia, produção e qualidade) para garantir viabilidade e otimização de custos.\n* Aplicar normas e padrões de qualidade (ISO, NBR) nos projetos.\n* Orientar e apoiar membros mais jovens da equipe, promovendo transferência de conhecimento.\n\n  \n**Requisitos e qualificações:**\n\n* Domínio avançado de softwares CAD, preferencialmente **CATIA V5, SolidWorks, NX** ou similares.\n* Experiência comprovada em **projetos mecânicos e desenvolvimento de produtos.**\n* Experiência com desenvolvimento e **projeto de componentes** e **peças plásticas.**\n* Conhecimento em **documentação técnica e elaboração de desenhos para fabricação**.\n* Conhecimento de normas de qualidade **(ISO e NBR) e processos de fabricação.**\n* Boa comunicação e capacidade de atuação em equipes multidisciplinares.\n\n  \n**Desejável:**\n\n* Experiência com **Catia V5** ou softwares de modelagem 3D avançada\n* Certificação em softwares de CAD (SolidWorks, AutoCAD)\n\n**Jornada de trabalho:**\n\n8:00 as 17:00 horas de Segunda a Sexta\n\n **Conhecimentos:**  \n**Nível escolaridade:** Graduação  \n**Situação escolaridade:** Completo  \n**Curso:** Engenharia eletrica, Engenharia mecânica, Tecnico em mecanica industrial, engenharias\n  \n**Idiomas:**  \nInglês - Intermediário - Obrigatório",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://abler.in/v403669",
+      "validation_detail": {
+        "url": "https://abler.in/v403669",
+        "status_code": 200,
+        "final_url": "https://ats.abler.com.br/jobs/onmidas?slug=projetistas-senior-806326",
         "result": "Validada"
       }
     },
@@ -218,6 +309,34 @@
     },
     {
       "site": "linkedin",
+      "title": "Arquiteto(a) de Projetos - Residente (Belo Horizonte/MG)",
+      "company": "CBR Engenharia",
+      "location": "Belo Horizonte, Minas Gerais, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": "mid-senior level",
+      "date_posted": "2026-11-11",
+      "job_url": "https://www.linkedin.com/jobs/view/4488251718",
+      "job_url_direct": null,
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": "gestaodeparceiros@cbrengenharia.com.br",
+      "description": "**Arquiteto(a) de Projetos - Residente (Belo Horizonte/MG)**\n\nCBR Engenharia | Belo Horizonte, MG (Presencial)\n\n**Arquiteto(a) Pleno | Presencial em Belo Horizonte/MG**\n\nModelo de trabalho: presencial, de segunda a sexta, na região centro-sul de Belo Horizonte/MG\n\n**Principais responsabilidades**\n\n* Desenvolver, de forma completa e com autonomia técnica, projetos de arquitetura, do levantamento ao projeto executivo, com modelagem e documentação no Revit.\n* Modelar paredes e revestimentos em detalhe (emboço, reboco, massa e pintura) e trabalhar com fases do projeto.\n* Criar e editar vistas 2D e 3D, configurar e formatar as pranchas para entrega.\n* Criar e editar famílias paramétricas no Revit.\n* Fazer o levantamento de quantitativos a partir do modelo, para a orçamentação de obras.\n* Garantir que os projetos atendam às normas vigentes, em especial a NBR 9050 (acessibilidade).\n* Elaborar ou analisar projetos de prevenção e combate a incêndio (PPCI).\n* Compatibilizar o projeto de arquitetura com as demais disciplinas e verificar interferências no Navisworks.\n* Apoiar a produção da documentação técnica para licitação.\n* Providenciar a RRT dos projetos e alterações sob sua responsabilidade. Esse documento é exigido pelo cliente antes do início dos trabalhos.\n\n**O que você precisa ter**\n\n* Formação superior completa em Arquitetura e Urbanismo.\n* Registro ativo no CAU-MG.\n* Experiência na elaboração completa de projetos de arquitetura até a etapa executiva (cerca de 3 anos).\n* Domínio avançado de Revit, incluindo criação de famílias paramétricas.\n* Conhecimento da NBR 9050.\n* Morar em Belo Horizonte/MG ou na região metropolitana.\n\n**Diferenciais**\n\n* Experiência com Navisworks para compatibilização e verificação de interferências.\n* Vivência com projetos de PPCI.\n* Experiência com quantitativos e orçamentos a partir do modelo BIM.\n* Familiaridade com AutoCAD.\n* Experiência com clientes de grande porte ou contratos públicos.\n\n**O que oferecemos**\n\n* Contratação CLT\n* Remuneração de R$ 65,11 por hora trabalhada\n* Vale-refeição e vale-transporte\n* Jornada de 8 horas por dia\n* Projeto de longo prazo, com contrato mínimo de 12 meses\n\n**Como é o processo seletivo**\n\n1. Análise de currículos\n2. Entrevista com o RH\n3. Teste prático no Revit com a CBR\n4. Teste técnico com o cliente no Revit, avaliando modelagem de paredes com revestimentos, projeto em fases, vistas 2D e 3D, configuração de pranchas, famílias paramétricas, quantitativos para orçamento e verificação de interferências no Navisworks\n\nCaso não consiga se candidatar por aqui, envie seu currículo para gestaodeparceiros@cbrengenharia.com.br com o assunto: Arquiteto(a) Residente | Belo Horizonte/MG.",
+      "search_term": "analista de arquitetura",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4488251718",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4488251718",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4488251718",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
       "title": "Projetista | Nova Lima",
       "company": "Portobello Shop",
       "location": "Nova Lima, Minas Gerais, Brazil",
@@ -250,8 +369,8 @@
       "company": "Jobbol",
       "location": "Belo Horizonte, Minas Gerais, Brazil",
       "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": "entry level",
+      "job_type": null,
+      "job_level": null,
       "date_posted": "2026-11-10",
       "job_url": "https://www.linkedin.com/jobs/view/4487831850",
       "job_url_direct": null,
@@ -260,7 +379,7 @@
       "currency": null,
       "interval": null,
       "emails": null,
-      "description": "Empresa de Engenharia busca profissional Projetista de Metálica em Belo Horizonte (Cidade Jardim).\n  \n  \n**Responsabilidades**\nElaborar desenhos técnicos e projetos de estruturas metálicas conforme especificações. Analisar e interpretar plantas, croquis e documentos técnicos para desenvolvimento dos projetos. Colaborar com equipes de engenharia e produção para garantir a viabilidade dos projetos. Realizar ajustes e revisões nos projetos conforme feedback e requisitos técnicos.\n  \n  \nAtuações anteriores em Engenheiro Projetista de Estruturas Metálicas, Designer de Estruturas Metálicas, Arquiteto de Estruturas Metálicas ou Técnico em Projetos Metálicos podem indicar afinidade com algumas das atividades desta posição.\n  \n  \n**Requisitos Desejáveis**\n**Escolaridade:**\nTécnico completo\n  \n  \n**Experiência:**\nNecessário experiência\n  \n  \n**Remuneração e Benefícios**\n\n* Salário: Faixa salarial será informada na entrevista.\n* Plano de saúde |Plano odontológico |Seguro de Vida |Vale Alimentação |Vale Transporte\n* Cesta natalidade.\n\n**Informações Adicionais**\n\n* Contrato: Efetivo. Presencial. Candidatos de Nova Lima, Sabará, Contagem ou Raposos também são considerados para esta vaga.\n* Período: Tempo Integral\n* Jornada: A combinar",
+      "description": null,
       "search_term": "assistente de arquitetura",
       "search_mode": "hybrid",
       "validation": "Validada",
@@ -330,6 +449,34 @@
     },
     {
       "site": "linkedin",
+      "title": "Projetista Pleno Estruturas Metálicas",
+      "company": "AFRY",
+      "location": "Greater Belo Horizonte",
+      "is_remote": false,
+      "job_type": null,
+      "job_level": null,
+      "date_posted": "2026-11-08",
+      "job_url": "https://www.linkedin.com/jobs/view/4472079747",
+      "job_url_direct": null,
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": null,
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4472079747",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4472079747",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4472079747",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
       "title": "Projetista de Tubulação Sênior",
       "company": "AFRY",
       "location": "Greater Belo Horizonte",
@@ -354,34 +501,6 @@
         "status_code": 200,
         "final_url": "https://www.linkedin.com/jobs/view/4471120336",
         "result": "Validada"
-      }
-    },
-    {
-      "site": "indeed",
-      "title": "Projetista Cadista",
-      "company": "Ever Isolamentos Acusticos Ltda",
-      "location": "São Bernardo do Campo, SP, Brazil",
-      "is_remote": false,
-      "job_type": "contract",
-      "job_level": null,
-      "date_posted": "2026-11-11",
-      "job_url": "https://br.indeed.com/viewjob?jk=671e06db4f447b99",
-      "job_url_direct": null,
-      "min_amount": 3500.0,
-      "max_amount": null,
-      "currency": "BRL",
-      "interval": "monthly",
-      "emails": null,
-      "description": "VAGA – PROJETISTA AUTOCAD (2D/3D) – ESTRUTURAS METÁLICAS E CALDEIRARIA\n\n**Local:** São Bernardo do Campo – SP  \n**Modalidade:** Híbrida (presencial + home office)\n\nQuem somos\n\nA **Everisol** é uma empresa especializada no desenvolvimento de soluções de engenharia para controle de ruído industrial, acústica ocupacional e ambiental. Atuamos em projetos sob medida para grandes indústrias em todo o Brasil, desenvolvendo estruturas metálicas, cabines acústicas, atenuadores, barreiras acústicas e equipamentos especiais.\n\nEstamos ampliando nossa equipe de engenharia e buscamos um profissional comprometido, organizado e com perfil técnico para integrar nosso time.\n\nPrincipais atividades\n\n* Desenvolvimento de projetos em **AutoCAD 2D e 3D**;\n* Detalhamento executivo de estruturas metálicas, caldeiraria e equipamentos industriais;\n* Elaboração de desenhos de fabricação e montagem;\n* Desenvolvimento de conjuntos, subconjuntos e detalhamento de peças;\n* Elaboração de listas de materiais (BOM);\n* Controle de listas mestras de desenhos e revisões;\n* Padronização da documentação técnica conforme normas ABNT;\n* Apoio técnico às áreas de Engenharia, Produção e Compras;\n* Compatibilização dos projetos visando facilitar a fabricação e reduzir custos.\n\nRequisitosObrigatórios\n\n* Experiência comprovada em AutoCAD 2D;\n* Conhecimento em modelagem 3D;\n* Experiência em detalhamento de estruturas metálicas e caldeiraria;\n* Excelente interpretação de desenhos técnicos;\n* Conhecimento das normas ABNT aplicáveis ao desenho técnico;\n* Conhecimento em listas de materiais e documentação técnica;\n* Organização, comprometimento e atenção aos detalhes.\n\nDiferenciais\n\n* Conhecimento em Inventor, SolidWorks, Advance Steel ou softwares similares;\n* Experiência em projetos industriais;\n* Conhecimento básico de processos de fabricação, soldagem e montagem;\n* Formação Técnica em Mecânica, Projetos Mecânicos ou Engenharia.\n\nPerfil desejado\n\nBuscamos alguém que:\n\n* Tenha facilidade para resolver problemas técnicos;\n* Trabalhe com autonomia e responsabilidade;\n* Seja organizado e mantenha excelente controle documental;\n* Tenha boa comunicação e relacionamento interpessoal;\n* Goste de desafios e de desenvolver soluções de engenharia.\n\nOferecemos\n\n* Trabalho em modelo híbrido;\n* Participação em projetos industriais de alta complexidade;\n* Ambiente de aprendizado contínuo;\n* Possibilidade real de crescimento profissional.\n\nRemuneração\n\n**Salário compatível com o mercado, acrescido de remuneração variável por produtividade**, possibilitando ganhos mensais de até **R$ 5.000,00**, de acordo com o desempenho e a produção técnica.\n\nComo será avaliado\n\nDurante o processo seletivo poderão ser solicitados:\n\n* Portfólio de projetos;\n* Teste prático de AutoCAD;\n* Avaliação de interpretação de desenho técnico;\n* Entrevista técnica.\n\nSe você gosta de engenharia, desenvolvimento de projetos industriais e deseja participar da criação de soluções técnicas inovadoras, venha fazer parte da nossa equipe.\n\nPagamento: a partir de R$3.500,00 por mês\n\nLocal do trabalho: Presencial",
-      "search_term": "cadista",
-      "search_mode": "remote",
-      "validation": "Não validada",
-      "validated_url": null,
-      "validation_detail": {
-        "url": "https://br.indeed.com/viewjob?jk=671e06db4f447b99",
-        "status_code": 401,
-        "final_url": "https://br.indeed.com/viewjob?jk=671e06db4f447b99",
-        "result": "Não validada"
       }
     }
   ]
