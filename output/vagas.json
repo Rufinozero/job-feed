@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T16:54:34+00:00",
+  "generated_at": "2026-11-12T22:02:03+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
@@ -11,11 +11,11 @@
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 98,
+      "raw_results": 86,
       "errors": []
     }
   },
-  "total_jobs": 17,
+  "total_jobs": 19,
   "jobs": [
     {
       "site": "indeed",
@@ -134,6 +134,68 @@
           "jobstatus=new",
           "status=status",
           "status=success"
+        ]
+      }
+    },
+    {
+      "site": "indeed",
+      "title": "Projetista Júnior",
+      "company": "Belgo Arames",
+      "location": "Contagem, MG, Brazil",
+      "is_remote": false,
+      "job_type": null,
+      "job_level": null,
+      "date_posted": "2026-11-12",
+      "job_url": "https://br.indeed.com/viewjob?jk=8b9dd2d69b123345",
+      "job_url_direct": "https://belgo.gupy.io/job/eyJqb2JJZCI6MTI4Nzg4MzYsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "Aqui, são as pessoas que estão no centro da nossa estratégia. Com profissionais talentosos, responsáveis e comprometidos criamos produtos e soluções que impactam cada canto do país, geram resultados e proporcionam uma vida melhor.\n\nVenha construir a indústria do futuro em um ambiente inovador, íntegro e inclusivo, onde o respeito é um valor inegociável e você pode ser quem você é.\n\n **Responsabilidades e atribuições**  \n\n* Desenvolver estudos com apoio do engenheiro responsável propondo solução, layout, orçamento, cronograma e outras informações relevantes com o objetivo de informar o cliente para a correta decisão quanto à viabilidade do projeto;\n* Desenvolver projetos conceituais com eventual assistência do engenheiro responsável, seguindo as normas nacionais, internacionais e internas (BENG), visando suprir as necessidades do cliente;\n* Elaborar especificações técnicas de fornecimento para área de compras conforme requisitos do projeto;\n* Levantamento em campo de máquinas e equipamentos, inspeção de montagens e acompanhamento de comissionamento de máquinas e equipamentos;\n* Realizar a inspeção de peças e equipamentos das máquinas durante e após a fabricação, garantindo a qualidade dos itens que compõem a máquina;\n* Propor e participar de análises de risco para adequação do projeto a legislação vigente em especial a norma regulamentadora NR12;\n* Realizar o detalhamento de peças e conjuntos de acordo com normas e padrões Bekaert, e também atendendo normas internacionais e/ou nacionais, visando suprir as necessidades do cliente;\n* Prestar suporte ao cliente nas máquinas e equipamentos em funcionamento na empresa, visando atender e intervir de forma rápida caso a mesma apresente problemas, por deter a acesso aos projetos, desenhos e especificações;\n* Executar outras tarefas correlatas às descritas acima a critério da organização, de acordo com orientação do superior imediato.\n\n **Requisitos e qualificações**\n\n**Requisitos obrigatórios**\n\n* Formação técnica em Mecânica ou curso superior correlacionado\n* Experiência comprovada na área de projetos\n* Experiência com softwares de projeto 3D e 2D. (Eg: AutoCad,Creo,SolidWorks,Inventor)\n* Conhecer ferramentas de gerenciamento de arquivos como o PDM\n* Pacote Microsoft Office\n* Inglês com vocabulário técnico\n\n**Requisitos desejáveis**\n\n* Experiência no software Creo Elements (3D e 2D)\n* Experiência em máquinas e equipamentos de Trefilação\n* Inglês intermediário\n\n  \n**Informações adicionais**\n\n**Benefícios:**\n\n  \n\n* Allya (clube de descontos)\n* Auxílio leite\n* Auxílio óculos\n* Benefício escolar\n* Cesta de Natal\n* Clube lazer\n* Fundação Félix Chomé (bolsa de estudos)\n* Kit bebê\n* Licença maternidade estendida\n* Licença paternidade estendida\n* Plano de medicamentos\n* Plano de saúde médico e odontológico\n* Previdência privada\n* Programa de Participação nos Resultados\n* Restaurante interno\n* Retorno de férias\n* Seguro de vida\n* Vale transporte\n* WellHub (plataforma de bem-estar e academia)\n\nSer **Belgo Arames** é fazer parte de uma empresa única, que valoriza tudo aquilo que a torna múltipla. É contribuir para uma transformação que gera impacto positivo na sociedade e fortalece nossa liderança na indústria.\n\nFazer parte do Time Belgo é conectar o presente ao futuro - um futuro mais inovador, diverso, inclusivo, responsável e eficiente.\n\nSe você busca construir uma carreira sólida em uma empresa que valoriza pessoas, inovação e resultados, o seu lugar pode ser aqui.",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://belgo.gupy.io/job/eyJqb2JJZCI6MTI4Nzg4MzYsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+      "validation_detail": {
+        "url": "https://belgo.gupy.io/job/eyJqb2JJZCI6MTI4Nzg4MzYsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+        "status_code": 200,
+        "final_url": "https://belgo.gupy.io/job/eyJqb2JJZCI6MTI4Nzg4MzYsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+        "result": "Validada",
+        "status_hints": [
+          "status=published"
+        ]
+      }
+    },
+    {
+      "site": "indeed",
+      "title": "Projetista de Infraestrutura Pleno",
+      "company": "Belgo Arames",
+      "location": "Contagem, MG, Brazil",
+      "is_remote": false,
+      "job_type": null,
+      "job_level": null,
+      "date_posted": "2026-11-12",
+      "job_url": "https://br.indeed.com/viewjob?jk=0e6794e912dd3945",
+      "job_url_direct": "https://belgo.gupy.io/job/eyJqb2JJZCI6MTI4Nzk4NTIsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "Aqui, são as pessoas que estão no centro da nossa estratégia. Com profissionais talentosos, responsáveis e comprometidos criamos produtos e soluções que impactam cada canto do país, geram resultados e proporcionam uma vida melhor.\n\nVenha construir a indústria do futuro em um ambiente inovador, íntegro e inclusivo, onde o respeito é um valor inegociável e você pode ser quem você é.\n\n **Responsabilidades e atribuições**  \n\n* Elaborar e detalhar, com autonomia, projetos de infraestrutura industrial: plantas de tubulação, isométricos, listas de materiais e desenhos de referência para a execução civil;\n* Dimensionar tubulações, sistemas de bombeamento, despoeiramento e utilidades, submetendo os cálculos à validação do engenheiro responsável;\n* Desenvolver estudos de layout, estimativas de custo e cronogramas para subsidiar a decisão de viabilidade do cliente interno, em conjunto com o engenheiro responsável;\n* Elaborar projetos conceituais conforme as normas nacionais, internacionais e os padrões internos da Bekaert;\n* Redigir especificações técnicas de fornecimento para a área de Compras e apoiar a análise técnica das propostas;\n* Realizar levantamentos de campo de máquinas e equipamentos e acompanhar a instalação e o comissionamento quando necessário;\n* Propor e participar de análises de risco para adequação dos projetos à legislação vigente (incluindo NR-12) e aos procedimentos internos;\n* Gerenciar as revisões e a documentação dos projetos junto ao arquivo técnico da Belgo.\n\n **Requisitos e qualificações**\n\n**Requisitos obrigatórios**\n\n* Ensino superior completo em Engenharia Mecânica, Tecnologia em Mecatrônica ou similar\n* Experiência comprovada em projetos industriais de tubulação, utilidades ou instalação de máquinas\n* AutoCAD (avançado) e Plant 3D, incluindo a geração de isométricos\n* Dimensionamento de tubulações, bombas e equipamentos de utilidades\n* Leitura e interpretação de desenhos mecânicos, hidráulicos e pneumáticos\n* Gestão de documentação técnica em PDM\n* Pacote Microsoft Office (Excel intermediário)\n* Inglês técnico para leitura de normas, manuais e padrões do grupo\n* CNH categoria B, em função das viagens\n\n  \n**Informações adicionais**\n\n**Benefícios:**\n\n  \n\n* Allya (clube de descontos)\n* Auxílio leite\n* Auxílio óculos\n* Benefício escolar\n* Cesta de Natal\n* Clube lazer\n* Fundação Félix Chomé (bolsa de estudos)\n* Kit bebê\n* Licença maternidade estendida\n* Licença paternidade estendida\n* Plano de medicamentos\n* Plano de saúde médico e odontológico\n* Previdência privada\n* Programa de Participação nos Resultados\n* Restaurante interno\n* Retorno de férias\n* Seguro de vida\n* Vale transporte\n* WellHub (plataforma de bem-estar e academia)\n\nSer **Belgo Arames** é fazer parte de uma empresa única, que valoriza tudo aquilo que a torna múltipla. É contribuir para uma transformação que gera impacto positivo na sociedade e fortalece nossa liderança na indústria.\n\nFazer parte do Time Belgo é conectar o presente ao futuro - um futuro mais inovador, diverso, inclusivo, responsável e eficiente.\n\nSe você busca construir uma carreira sólida em uma empresa que valoriza pessoas, inovação e resultados, o seu lugar pode ser aqui.",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://belgo.gupy.io/job/eyJqb2JJZCI6MTI4Nzk4NTIsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+      "validation_detail": {
+        "url": "https://belgo.gupy.io/job/eyJqb2JJZCI6MTI4Nzk4NTIsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+        "status_code": 200,
+        "final_url": "https://belgo.gupy.io/job/eyJqb2JJZCI6MTI4Nzk4NTIsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+        "result": "Validada",
+        "status_hints": [
+          "status=published"
         ]
       }
     },
@@ -335,34 +397,6 @@
     },
     {
       "site": "linkedin",
-      "title": "Projetista | Nova Lima",
-      "company": "Portobello Shop",
-      "location": "Nova Lima, Minas Gerais, Brazil",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": "not applicable",
-      "date_posted": "2026-11-05",
-      "job_url": "https://www.linkedin.com/jobs/view/4485854194",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "Venha integrar o time de lojas próprias da Portobello Shop, marca referência global em inovação e design de soluções completas de revestimento. Somos a maior rede do varejo especializado no Brasil, movidos desde 1998 pelo propósito de\n**transformar ambientes e emocionar pessoas**\n.\n  \n  \nAqui é você quem desenha o próximo passo de sua carreira, em um\n**espaço ágil e dinâmico**\n. Por isso, se você também é apaixonado por varejo, design, e tecnologia, motivado por entregas excelentes e guiado pela satisfação do cliente, seu lugar é com a gente. Venha fazer parte do futuro do design aqui na Portobello Shop!\n  \n  \n**Responsabilidades e atribuições**\n\n* Executar projetos 3D para nossos clientes;\n* Apoiar a área de vendas na realização de projetos, especificação e orçamentos de complementos e cortes especiais;\n* Realizar medições in loco;\n* Organizar o layout interno da loja (ambientes);\n* Estar em constante atualização e possuir domínio acerca dos produtos oferecidos em loja.\n\n**Requisitos e qualificações**\n\n* Formação superior completa ou em andamento, preferencialmente em Arquitetura, ou Design de Interiores;\n* Desejável experiência anterior em realização de projetos de interiores;\n* Conhecimento em software de realização de projetos como AutoCad e SketchUp;\n* Competências chaves: organização, disciplina, disponibilidade, boa comunicação, bom relacionamento, agilidade e senso de prioridade.\n\n**Informações adicionais**\n**O QUE OFERECEMOS AOS PORTOBELLO LOVERS:**\n\n* Seguro de vida;\n* Assistência médica e odontológica;\n* Vale-Refeição;\n* Vale-Transporte ou Cartão Mobilidade;\n* Participação nos Lucros e Resultados;\n* Rede de descontos - parcerias com diversas instituições;\n* Desconto na compra de produtos Portobello;\n* Aprende Shop - Plataforma de conteúdos e treinamentos online;\n* Programas de Capacitação e Desenvolvimento Profissional;\n* Day off no mês do aniversário;\n* Wellhub (plataforma de bem-estar corporativo);\n* Ambiente dinâmico e acolhedor;\n* Fazer parte de uma empresa líder.\n\n**Todas as nossas vagas também são destinadas às pessoas com deficiência.**\nFaça parte do futuro do design! Vem ser #portobellolover",
-      "search_term": "arquiteta",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/4485854194",
-      "validation_detail": {
-        "url": "https://www.linkedin.com/jobs/view/4485854194",
-        "status_code": 200,
-        "final_url": "https://www.linkedin.com/jobs/view/4485854194",
-        "result": "Validada"
-      }
-    },
-    {
-      "site": "linkedin",
       "title": "Projetista de Metálica",
       "company": "Jobbol",
       "location": "Belo Horizonte, Minas Gerais, Brazil",
@@ -386,6 +420,34 @@
         "url": "https://www.linkedin.com/jobs/view/4487831850",
         "status_code": 200,
         "final_url": "https://www.linkedin.com/jobs/view/4487831850",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
+      "title": "Projetista Drenagem e Hidrologia",
+      "company": "JM Souto Engenharia e Consultoria",
+      "location": "Belo Horizonte, Minas Gerais, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": "entry level",
+      "date_posted": "2026-11-12",
+      "job_url": "https://www.linkedin.com/jobs/view/4488549249",
+      "job_url_direct": null,
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": "elaine.lima@jmsouto.com.br",
+      "description": "Projetista de Hidrologia e Drenagem com experiência em projetos de infraestrutura de transporte, especialmente voltados para ferrovias e rodovias.\n\nResponsabilidades:\n\n- Desenvolvimento de projetos de hidrologia e drenagem pluvial para obras ferroviárias e rodoviárias.\n\n- Elaboração de estudos hidrológicos e hidráulicos aplicados a pontes, bueiros e obras de arte especiais.\n\n- Dimensionamento e especificação de dispositivos de drenagem (valetas, sarjetas, bueiros, galerias, caixas coletoras, entre outros).\n\n- Elaboração de plantas, perfis e detalhes técnicos.\n\n- Interface com equipes de geometria, geotecnia, topografia, pavimentação e estruturas.\n\n- Apoio na elaboração de memoriais descritivos e relatórios técnicos\n\nRequisito:\n\n- Formação técnica ou superior em Engenharia Civil ou áreas correlatas.\n\n- Experiência comprovada em projetos de drenagem e estudos hidrológicos/hidráulicos para infraestrutura viária ou ferroviaria.\n\n- Domínio de softwares como AutoCAD, Civil 3D\n\n- Conhecimento das normas DNIT, DER, ANTT e demais aplicáveis.\n\n- Habilidade para leitura e interpretação de projetos multidisciplinares.\n\n- Experiência com softwares de modelagem hidráulica/hidrológica (HEC-RAS, SWMM, HEC-HMS, etc.).\n\nDiferenciais:\n\n- Projetar em BIM.\n\nEnviar currículo para o email: elaine.lima@jmsouto.com.br",
+      "search_term": "cadista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4488549249",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4488549249",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4488549249",
         "result": "Validada"
       }
     },
@@ -475,29 +537,29 @@
     },
     {
       "site": "indeed",
-      "title": "Projetista Cadista",
-      "company": "Ever Isolamentos Acusticos Ltda",
-      "location": "São Bernardo do Campo, SP, Brazil",
+      "title": "Projetista Eletrônico",
+      "company": "Alfa Recursos Humanos",
+      "location": "São Joaquim de Bicas, MG, Brazil",
       "is_remote": false,
-      "job_type": "contract",
+      "job_type": "fulltime",
       "job_level": null,
-      "date_posted": "2026-11-11",
-      "job_url": "https://br.indeed.com/viewjob?jk=671e06db4f447b99",
+      "date_posted": "2026-11-12",
+      "job_url": "https://br.indeed.com/viewjob?jk=ae8dcecd9e22e22b",
       "job_url_direct": null,
-      "min_amount": 3500.0,
-      "max_amount": null,
+      "min_amount": 5000.0,
+      "max_amount": 6000.0,
       "currency": "BRL",
       "interval": "monthly",
       "emails": null,
-      "description": "VAGA – PROJETISTA AUTOCAD (2D/3D) – ESTRUTURAS METÁLICAS E CALDEIRARIA\n\n**Local:** São Bernardo do Campo – SP  \n**Modalidade:** Híbrida (presencial + home office)\n\nQuem somos\n\nA **Everisol** é uma empresa especializada no desenvolvimento de soluções de engenharia para controle de ruído industrial, acústica ocupacional e ambiental. Atuamos em projetos sob medida para grandes indústrias em todo o Brasil, desenvolvendo estruturas metálicas, cabines acústicas, atenuadores, barreiras acústicas e equipamentos especiais.\n\nEstamos ampliando nossa equipe de engenharia e buscamos um profissional comprometido, organizado e com perfil técnico para integrar nosso time.\n\nPrincipais atividades\n\n* Desenvolvimento de projetos em **AutoCAD 2D e 3D**;\n* Detalhamento executivo de estruturas metálicas, caldeiraria e equipamentos industriais;\n* Elaboração de desenhos de fabricação e montagem;\n* Desenvolvimento de conjuntos, subconjuntos e detalhamento de peças;\n* Elaboração de listas de materiais (BOM);\n* Controle de listas mestras de desenhos e revisões;\n* Padronização da documentação técnica conforme normas ABNT;\n* Apoio técnico às áreas de Engenharia, Produção e Compras;\n* Compatibilização dos projetos visando facilitar a fabricação e reduzir custos.\n\nRequisitosObrigatórios\n\n* Experiência comprovada em AutoCAD 2D;\n* Conhecimento em modelagem 3D;\n* Experiência em detalhamento de estruturas metálicas e caldeiraria;\n* Excelente interpretação de desenhos técnicos;\n* Conhecimento das normas ABNT aplicáveis ao desenho técnico;\n* Conhecimento em listas de materiais e documentação técnica;\n* Organização, comprometimento e atenção aos detalhes.\n\nDiferenciais\n\n* Conhecimento em Inventor, SolidWorks, Advance Steel ou softwares similares;\n* Experiência em projetos industriais;\n* Conhecimento básico de processos de fabricação, soldagem e montagem;\n* Formação Técnica em Mecânica, Projetos Mecânicos ou Engenharia.\n\nPerfil desejado\n\nBuscamos alguém que:\n\n* Tenha facilidade para resolver problemas técnicos;\n* Trabalhe com autonomia e responsabilidade;\n* Seja organizado e mantenha excelente controle documental;\n* Tenha boa comunicação e relacionamento interpessoal;\n* Goste de desafios e de desenvolver soluções de engenharia.\n\nOferecemos\n\n* Trabalho em modelo híbrido;\n* Participação em projetos industriais de alta complexidade;\n* Ambiente de aprendizado contínuo;\n* Possibilidade real de crescimento profissional.\n\nRemuneração\n\n**Salário compatível com o mercado, acrescido de remuneração variável por produtividade**, possibilitando ganhos mensais de até **R$ 5.000,00**, de acordo com o desempenho e a produção técnica.\n\nComo será avaliado\n\nDurante o processo seletivo poderão ser solicitados:\n\n* Portfólio de projetos;\n* Teste prático de AutoCAD;\n* Avaliação de interpretação de desenho técnico;\n* Entrevista técnica.\n\nSe você gosta de engenharia, desenvolvimento de projetos industriais e deseja participar da criação de soluções técnicas inovadoras, venha fazer parte da nossa equipe.\n\nPagamento: a partir de R$3.500,00 por mês\n\nLocal do trabalho: Presencial",
-      "search_term": "cadista",
-      "search_mode": "remote",
+      "description": "Estamos em busca de um(a) **Projetista Eletrônico** para atuar no desenvolvimento e melhoria de projetos e produtos eletrônicos.\n\n* Desenvolver projetos de sistemas eletrônicos, esquemáticos e layouts de placas de circuito impresso (PCI);\n* Desenvolver e alterar placas eletrônicas, desde a concepção até a montagem e validação dos protótipos;\n* Elaborar projetos utilizando **KiCad, Altium ou ferramenta equivalente**;\n* Realizar seleção de componentes eletrônicos e elaboração de listas de materiais (BOM);\n* Montar, testar, depurar e validar protótipos eletrônicos em bancada;\n* Realizar medições e ensaios, identificar falhas e propor melhorias nos circuitos;\n* Elaborar arquivos para fabricação, como **Gerber e arquivos de furação**;\n* Auxiliar no desenvolvimento e melhoria de instrumentos e equipamentos eletrônicos;\n* Apoiar a elaboração e revisão de desenhos, datasheets, manuais, especificações e demais documentos técnicos;\n* Participar do desenvolvimento de produtos desde a concepção até a validação e homologação;\n* Acompanhar novas tecnologias, componentes e soluções aplicáveis aos projetos.\n\n**Requisitos:**\n\n* Experiência prática com **desenvolvimento de placas eletrônicas (PCI)**;\n* Experiência com **KiCad, Altium ou software similar**;\n* Conhecimento de componentes eletrônicos, circuitos e montagem de protótipos;\n* Experiência com testes e validação de circuitos eletrônicos;\n* Perfil prático, curioso e **hands-on**, com disposição para atuar diretamente em bancada.\n\nPagamento: R$5.000,00 - R$6.000,00 por mês\n\nBenefícios:\n\n* Assistência médica\n* Assistência odontológica\n* Convênios e descontos comerciais\n* Seguro de vida\n* Vale-alimentação\n\nLocal do trabalho: Presencial",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
       "validation": "Não validada",
       "validated_url": null,
       "validation_detail": {
-        "url": "https://br.indeed.com/viewjob?jk=671e06db4f447b99",
+        "url": "https://br.indeed.com/viewjob?jk=ae8dcecd9e22e22b",
         "status_code": 401,
-        "final_url": "https://br.indeed.com/viewjob?jk=671e06db4f447b99",
+        "final_url": "https://br.indeed.com/viewjob?jk=ae8dcecd9e22e22b",
         "result": "Não validada"
       }
     }
