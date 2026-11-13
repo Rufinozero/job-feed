@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T22:02:03+00:00",
+  "generated_at": "2026-11-13T16:24:27+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
@@ -11,43 +11,12 @@
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 86,
+      "raw_results": 88,
       "errors": []
     }
   },
-  "total_jobs": 19,
+  "total_jobs": 18,
   "jobs": [
-    {
-      "site": "indeed",
-      "title": "Analista II Arquitetura (Varejo)",
-      "company": "Grupo Boticário",
-      "location": "Curitiba, PR, Brazil",
-      "is_remote": false,
-      "job_type": null,
-      "job_level": null,
-      "date_posted": "2026-11-07",
-      "job_url": "https://br.indeed.com/viewjob?jk=5b2ac4c28df891aa",
-      "job_url_direct": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI4MTA3NDAsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "Quer trabalhar na marca de beleza preferida dos brasileiros? No Grupo Boticário, todos os produtos desenvolvidos e todas as histórias contadas tocam o coração e a pele das pessoas. É assim que a marca transforma momentos simples em momentos mágicos há mais de 40 anos. Se você, assim como a marca, acredita que onde tem amor tem beleza, e quer atuar na categoria de Infantil, esse é o lugar certo para você!\n\n **Responsabilidades e atribuições**  \n\n* Acompanhamento e validação de projetos em nossos Canais de Vendas: Lojas / Espaço para Revendedores e Estoques;\n* Olhar crítico para operacionalização das obras e oportunidades de melhoria dos modelos arquitetônicos;\n* Troca com fornecedores e escritórios de arquitetura, adaptações dos projetos, orçamentos dos itens;\n* Interface com Consultores Comerciais, Escritórios de arquitetura, fornecedores e Franqueados;\n* Implantação de melhorias contínuas na rede: análise das soluções na ponta, reconhecimento e desenvolvimento de pequenas ações que trazem grandes ganhos;\n* Domínio em análise de dados, com experiência prática na criação de planilhas e desenvolvimento de dashboards.\n\n  \n**Requisitos e qualificações**  \n\n* Ensino superior completo em Arquitetura e Urbanismo e Engenharias;\n* Conhecimento em Autocad e sistemas como Sketchup e Renders gerais;\n* Desejável Conhecimento em Revit; e ferramentas de gestão de projetos (Trello, Slack);\n* Conhecimento intermediário na Plataforma Google (principalmente Planilhas, Docs e Apresentações);\n* Boas relações interpessoais;. Facilidade de Comunicação;\n* Disponibilidade para eventuais visitas à campo;\n* Senso estético apurado;\n* Experiência com gestão de projetos e visão estratégica.\n* Diferencial: Experiência prévia com Arquitetura de Varejo.\n\n  \n**Informações adicionais**\n\n**Benefícios que cuidam e se diferenciam:**\n\nNo Grupo Boticário, o cuidado é a nossa base para atingirmos resultados exponenciais. Temos um portfólio com mais de 20 benefícios para cuidar da sua saúde, bem estar e família. Confira abaixo.\n\n**Saúde:**\n\n* Plano médico e odontológico flexíveis\n* Auxílio medicamentos e vale saúde para familiares\n* Sessões de psicoterapia gratuitas e telemedicina 24h\n* Programas contínuos de prevenção, cuidado mental e vacinação\n\n**Alimentação & bem-estar**\n\n* Vale Refeição (ou restaurante local) e Vale Alimentação (com vale extra no Natal)\n* Desconto de até 40% nas marcas do nosso ecossistema\n* Gympass/TotalPass para academias e estúdios esportivos\n* Auxílio Home Office para modalidades híbrida e remota\n* Day off de aniversário para celebrar do seu jeito\n* Plano de saúde pet, vantagens em convênios e programas de viagem/hospedagem\n\n**Para sua família**\n\n* Licença parental estendida (180 dias para mães e 120 dias para pais)\n* Suporte para Pais Atípicos e auxílio babá / educação infantil\n* Auxílio material escolar e crédito nutrição infantil\n* Orientação jurídica, psicológica e social dedicada\n\n**Seguridade para proteção e tranquilidade financeira**\n\n* Previdência Privada e Seguro de Vida\n* Apoio ao falecimento de pais e empréstimo consignado\n* Vale Transporte e Estacionamento (conforme o modelo de trabalho)\n\n*Nota: Os pacotes de benefícios são adaptados de acordo com a elegibilidade de cada cargo e modelo de trabalho.*\n\nDe uma pequena farmácia de manipulação à maior franquia de cosméticos do planeta.\n\nSomos um Grupo com 15 marcas que está presente em mais de 40 países, com mais de 4 mil lojas físicas, líder de e-commerce de beleza no Brasil e mais de 19 mil colaboradores diretos. Temos um ecossistema próprio de beleza, que vai da indústria ao ponto de venda, da logística ao varejo, do laboratório ao coração das consumidoras e das nossas inovações na palma da sua mão. Acreditamos que o futuro mais bonito é aquele que construímos juntos, por isso, até 2030 temos compromissos ambiciosos voltados para o impacto positivo em dimensões humanas, ambientais e em nossos processos produtivos.\n\nGanhamos o ranking **\"Employer Branding Awards 2025\"** do Glassdoor, que nos elegeu a melhor empresa para se trabalhar no setor de varejo no Brasil! Reconhecimento baseado em avaliações voluntárias e anônimas de nossos colaboradores e ex-colaboradores sobre como é trabalhar aqui.\n\nReinventamos a beleza por meio da tecnologia, inovação, diversidade e sustentabilidade com: O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, TRUSS e do marketplace Beleza na Web, além de atuarmos com produtos licenciados como Australian Gold, Bio Oil e Linha de cuidados Pampers.\n\nVem fazer beleza com a gente!",
-      "search_term": "analista de arquitetura",
-      "search_mode": "remote",
-      "validation": "Validada",
-      "validated_url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI4MTA3NDAsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
-      "validation_detail": {
-        "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI4MTA3NDAsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
-        "status_code": 200,
-        "final_url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI4MTA3NDAsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
-        "result": "Validada",
-        "status_hints": [
-          "status=published"
-        ]
-      }
-    },
     {
       "site": "indeed",
       "title": "PROJETISTA DE METÁLICA - Cidade Jardim (Prevent Engenharia)",
@@ -285,34 +254,6 @@
     },
     {
       "site": "indeed",
-      "title": "PROJETISTA DE TUBULAÇÃO - Cidade Jardim (Prevent Engenharia)",
-      "company": "Jobbol",
-      "location": "Belo Horizonte, MG, Brazil",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": null,
-      "date_posted": "2026-11-10",
-      "job_url": "https://br.indeed.com/viewjob?jk=2b85a3483247a47d",
-      "job_url_direct": "https://www.jobbol.com.br/vaga/155832-projetista-de-tubulacao?cidade=2310",
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "Empresa de Engenharia busca profissional Projetista de Tubulação em Belo Horizonte (Cidade Jardim).\n\nA Prevent Engenharia é uma empresa dedicada à prestação de serviços de engenharia. Com foco na qualidade e segurança, atua em diversos segmentos do setor. Seu compromisso é oferecer soluções eficientes e inovadoras para seus clientes.\n\n**Responsabilidades:**\n\nElaborar desenhos e documentos técnicos de tubulação conforme as especificações do projeto. Apoiar a definição de traçados, dimensões e interferências em conjunto com a equipe responsável. Acompanhar ajustes de projeto e atualizar informações técnicas sempre que necessário. Organizar e manter a documentação técnica relacionada aos projetos sob sua responsabilidade.\n\nAtuações anteriores em Engenheiro de Tubulação, Designer de Tubulação, Projetista de Sistemas de Tubulação ou Especialista em Tubulação podem indicar afinidade com algumas das atividades desta posição.\n\nTécnico completo Necessário experiência\n  \n**Remuneração e Benefícios:**\n\n* Salário: Faixa salarial será informada na entrevista.\n\n* Plano de saúde |Plano odontológico |Seguro de Vida |Vale Alimentação |Vale Transporte\nCesta Natalidade.\n**Informações adicionais:**\n\n* #VagaUrgente\n* Contrato: Efetivo - Presencial.\n* Período: Tempo Integral\n* Jornada: A combinar",
-      "search_term": "desenhista",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.jobbol.com.br/vaga/155832-projetista-de-tubulacao?cidade=2310",
-      "validation_detail": {
-        "url": "https://www.jobbol.com.br/vaga/155832-projetista-de-tubulacao?cidade=2310",
-        "status_code": 200,
-        "final_url": "https://www.jobbol.com.br/vaga/155832-projetista-de-tubulacao?cidade=2310",
-        "result": "Validada"
-      }
-    },
-    {
-      "site": "indeed",
       "title": "PROJETISTA DE INCÊNDIO - Cidade Jardim (Prevent Engenharia)",
       "company": "Jobbol",
       "location": "Belo Horizonte, MG, Brazil",
@@ -336,6 +277,34 @@
         "url": "https://www.jobbol.com.br/vaga/155838-projetista-de-incendio?cidade=2310",
         "status_code": 200,
         "final_url": "https://www.jobbol.com.br/vaga/155838-projetista-de-incendio?cidade=2310",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "indeed",
+      "title": "PROJETISTA DE TUBULAÇÃO - Cidade Jardim (Prevent Engenharia)",
+      "company": "Jobbol",
+      "location": "Belo Horizonte, MG, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": null,
+      "date_posted": "2026-11-10",
+      "job_url": "https://br.indeed.com/viewjob?jk=2b85a3483247a47d",
+      "job_url_direct": "https://www.jobbol.com.br/vaga/155832-projetista-de-tubulacao?cidade=2310",
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "Empresa de Engenharia busca profissional Projetista de Tubulação em Belo Horizonte (Cidade Jardim).\n\nA Prevent Engenharia é uma empresa dedicada à prestação de serviços de engenharia. Com foco na qualidade e segurança, atua em diversos segmentos do setor. Seu compromisso é oferecer soluções eficientes e inovadoras para seus clientes.\n\n**Responsabilidades:**\n\nElaborar desenhos e documentos técnicos de tubulação conforme as especificações do projeto. Apoiar a definição de traçados, dimensões e interferências em conjunto com a equipe responsável. Acompanhar ajustes de projeto e atualizar informações técnicas sempre que necessário. Organizar e manter a documentação técnica relacionada aos projetos sob sua responsabilidade.\n\nAtuações anteriores em Engenheiro de Tubulação, Designer de Tubulação, Projetista de Sistemas de Tubulação ou Especialista em Tubulação podem indicar afinidade com algumas das atividades desta posição.\n\nTécnico completo Necessário experiência\n  \n**Remuneração e Benefícios:**\n\n* Salário: Faixa salarial será informada na entrevista.\n\n* Plano de saúde |Plano odontológico |Seguro de Vida |Vale Alimentação |Vale Transporte\nCesta Natalidade.\n**Informações adicionais:**\n\n* #VagaUrgente\n* Contrato: Efetivo - Presencial.\n* Período: Tempo Integral\n* Jornada: A combinar",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.jobbol.com.br/vaga/155832-projetista-de-tubulacao?cidade=2310",
+      "validation_detail": {
+        "url": "https://www.jobbol.com.br/vaga/155832-projetista-de-tubulacao?cidade=2310",
+        "status_code": 200,
+        "final_url": "https://www.jobbol.com.br/vaga/155832-projetista-de-tubulacao?cidade=2310",
         "result": "Validada"
       }
     },
@@ -397,6 +366,34 @@
     },
     {
       "site": "linkedin",
+      "title": "Projetista de Infraestrutura",
+      "company": "Drawind Do Brasil",
+      "location": "Greater Belo Horizonte",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": "mid-senior level",
+      "date_posted": "2026-11-13",
+      "job_url": "https://www.linkedin.com/jobs/view/4490711322",
+      "job_url_direct": null,
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "A Drawind está em busca de um(a)\n**Projetista de Infraestrutura**\npara atuar no desenvolvimento e detalhamento de projetos de infraestrutura civil, com foco em qualidade técnica, integração multidisciplinar e atendimento aos critérios e normas aplicáveis aos projetos.\n\n**Principais responsabilidades:**\n\n* Desenvolver projetos e detalhamentos de infraestrutura;\n* Elaborar e revisar desenhos e documentos técnicos;\n* Interpretar plantas, croquis, critérios e informações de projeto;\n* Atuar com projetos de\n  **terraplenagem, drenagem e pavimentação**\n  ;\n* Realizar visitas de campo e elaborar relatórios;\n* Desenvolver listas de materiais e equipamentos;\n* Realizar interface técnica com outras disciplinas;\n* Apoiar o controle de revisões e organização da documentação dos projetos.\n\n**Requisitos:**\n\n* Formação técnica em Construção Civil, Edificações, Agrimensura ou áreas correlatas, ou Engenharia Civil completa/em andamento;\n* **Domínio de AutoCAD, Civil 3D e modelagem 3D**\n  ;\n* Experiência com projetos de infraestrutura civil;\n* Conhecimento em integração multidisciplinar;\n* Organização, atenção aos detalhes e responsabilidade com prazos.\n\nSe você busca uma oportunidade para atuar em projetos desafiadores e contribuir com soluções técnicas em um ambiente colaborativo, queremos conhecer você.",
+      "search_term": "projetista de arquitetura",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4490711322",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4490711322",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4490711322",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
       "title": "Projetista de Metálica",
       "company": "Jobbol",
       "location": "Belo Horizonte, Minas Gerais, Brazil",
@@ -420,34 +417,6 @@
         "url": "https://www.linkedin.com/jobs/view/4487831850",
         "status_code": 200,
         "final_url": "https://www.linkedin.com/jobs/view/4487831850",
-        "result": "Validada"
-      }
-    },
-    {
-      "site": "linkedin",
-      "title": "Projetista Drenagem e Hidrologia",
-      "company": "JM Souto Engenharia e Consultoria",
-      "location": "Belo Horizonte, Minas Gerais, Brazil",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": "entry level",
-      "date_posted": "2026-11-12",
-      "job_url": "https://www.linkedin.com/jobs/view/4488549249",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": "elaine.lima@jmsouto.com.br",
-      "description": "Projetista de Hidrologia e Drenagem com experiência em projetos de infraestrutura de transporte, especialmente voltados para ferrovias e rodovias.\n\nResponsabilidades:\n\n- Desenvolvimento de projetos de hidrologia e drenagem pluvial para obras ferroviárias e rodoviárias.\n\n- Elaboração de estudos hidrológicos e hidráulicos aplicados a pontes, bueiros e obras de arte especiais.\n\n- Dimensionamento e especificação de dispositivos de drenagem (valetas, sarjetas, bueiros, galerias, caixas coletoras, entre outros).\n\n- Elaboração de plantas, perfis e detalhes técnicos.\n\n- Interface com equipes de geometria, geotecnia, topografia, pavimentação e estruturas.\n\n- Apoio na elaboração de memoriais descritivos e relatórios técnicos\n\nRequisito:\n\n- Formação técnica ou superior em Engenharia Civil ou áreas correlatas.\n\n- Experiência comprovada em projetos de drenagem e estudos hidrológicos/hidráulicos para infraestrutura viária ou ferroviaria.\n\n- Domínio de softwares como AutoCAD, Civil 3D\n\n- Conhecimento das normas DNIT, DER, ANTT e demais aplicáveis.\n\n- Habilidade para leitura e interpretação de projetos multidisciplinares.\n\n- Experiência com softwares de modelagem hidráulica/hidrológica (HEC-RAS, SWMM, HEC-HMS, etc.).\n\nDiferenciais:\n\n- Projetar em BIM.\n\nEnviar currículo para o email: elaine.lima@jmsouto.com.br",
-      "search_term": "cadista",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/4488549249",
-      "validation_detail": {
-        "url": "https://www.linkedin.com/jobs/view/4488549249",
-        "status_code": 200,
-        "final_url": "https://www.linkedin.com/jobs/view/4488549249",
         "result": "Validada"
       }
     },
