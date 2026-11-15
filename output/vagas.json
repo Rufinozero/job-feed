@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T20:11:35+00:00",
+  "generated_at": "2026-11-15T15:45:44+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
@@ -11,7 +11,7 @@
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 87,
+      "raw_results": 85,
       "errors": []
     }
   },
@@ -282,34 +282,6 @@
     },
     {
       "site": "indeed",
-      "title": "PROJETISTA DE INCÊNDIO - Cidade Jardim (Prevent Engenharia)",
-      "company": "Jobbol",
-      "location": "Belo Horizonte, MG, Brazil",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": null,
-      "date_posted": "2026-11-10",
-      "job_url": "https://br.indeed.com/viewjob?jk=c4a3fd547804b908",
-      "job_url_direct": "https://www.jobbol.com.br/vaga/155838-projetista-de-incendio?cidade=2310",
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "Empresa de Engenharia busca profissional Projetista de Incêndio em Belo Horizonte (Cidade Jardim).\n\nA Prevent Engenharia é uma empresa dedicada à prestação de serviços de engenharia. Com foco na qualidade e segurança, atua em diversos segmentos do setor. Seu compromisso é oferecer soluções eficientes e inovadoras para seus clientes.\n\n**Responsabilidades:**\n\nElaborar projetos técnicos de sistemas de prevenção e combate a incêndios. Realizar levantamento de dados e análise de plantas para desenvolvimento dos projetos. Garantir o cumprimento das normas e legislações vigentes relacionadas à segurança contra incêndio. Acompanhar a execução dos projetos para assegurar a conformidade com o planejamento.\n\nAtuações anteriores em Projetista de Segurança Contra Incêndio, Projetista de Sistemas de Combate a Incêndio, Projetista de Prevenção de Incêndios ou Projetista de Sistemas de Alarme de Incêndio podem indicar afinidade com algumas das atividades desta posição.\n\nTécnico completo Necessário experiência\n  \n**Remuneração e Benefícios:**\n\n* Salário: Faixa salarial será informada na entrevista.\n\n* Plano de saúde |Plano odontológico |Seguro de Vida |Vale Alimentação |Vale Transporte\nCesta Natalidade.\n**Informações adicionais:**\n\n* #VagaUrgente\n* Contrato: Efetivo - Presencial.\n* Período: Tempo Integral\n* Jornada: A combinar",
-      "search_term": "desenhista",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.jobbol.com.br/vaga/155838-projetista-de-incendio?cidade=2310",
-      "validation_detail": {
-        "url": "https://www.jobbol.com.br/vaga/155838-projetista-de-incendio?cidade=2310",
-        "status_code": 200,
-        "final_url": "https://www.jobbol.com.br/vaga/155838-projetista-de-incendio?cidade=2310",
-        "result": "Validada"
-      }
-    },
-    {
-      "site": "indeed",
       "title": "PROJETISTA DE TUBULAÇÃO - Cidade Jardim (Prevent Engenharia)",
       "company": "Jobbol",
       "location": "Belo Horizonte, MG, Brazil",
@@ -333,6 +305,34 @@
         "url": "https://www.jobbol.com.br/vaga/155832-projetista-de-tubulacao?cidade=2310",
         "status_code": 200,
         "final_url": "https://www.jobbol.com.br/vaga/155832-projetista-de-tubulacao?cidade=2310",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "indeed",
+      "title": "PROJETISTA DE INCÊNDIO - Cidade Jardim (Prevent Engenharia)",
+      "company": "Jobbol",
+      "location": "Belo Horizonte, MG, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": null,
+      "date_posted": "2026-11-10",
+      "job_url": "https://br.indeed.com/viewjob?jk=c4a3fd547804b908",
+      "job_url_direct": "https://www.jobbol.com.br/vaga/155838-projetista-de-incendio?cidade=2310",
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "Empresa de Engenharia busca profissional Projetista de Incêndio em Belo Horizonte (Cidade Jardim).\n\nA Prevent Engenharia é uma empresa dedicada à prestação de serviços de engenharia. Com foco na qualidade e segurança, atua em diversos segmentos do setor. Seu compromisso é oferecer soluções eficientes e inovadoras para seus clientes.\n\n**Responsabilidades:**\n\nElaborar projetos técnicos de sistemas de prevenção e combate a incêndios. Realizar levantamento de dados e análise de plantas para desenvolvimento dos projetos. Garantir o cumprimento das normas e legislações vigentes relacionadas à segurança contra incêndio. Acompanhar a execução dos projetos para assegurar a conformidade com o planejamento.\n\nAtuações anteriores em Projetista de Segurança Contra Incêndio, Projetista de Sistemas de Combate a Incêndio, Projetista de Prevenção de Incêndios ou Projetista de Sistemas de Alarme de Incêndio podem indicar afinidade com algumas das atividades desta posição.\n\nTécnico completo Necessário experiência\n  \n**Remuneração e Benefícios:**\n\n* Salário: Faixa salarial será informada na entrevista.\n\n* Plano de saúde |Plano odontológico |Seguro de Vida |Vale Alimentação |Vale Transporte\nCesta Natalidade.\n**Informações adicionais:**\n\n* #VagaUrgente\n* Contrato: Efetivo - Presencial.\n* Período: Tempo Integral\n* Jornada: A combinar",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.jobbol.com.br/vaga/155838-projetista-de-incendio?cidade=2310",
+      "validation_detail": {
+        "url": "https://www.jobbol.com.br/vaga/155838-projetista-de-incendio?cidade=2310",
+        "status_code": 200,
+        "final_url": "https://www.jobbol.com.br/vaga/155838-projetista-de-incendio?cidade=2310",
         "result": "Validada"
       }
     },
