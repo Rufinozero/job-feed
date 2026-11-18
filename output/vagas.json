@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:23:37+00:00",
+  "generated_at": "2026-11-18T17:20:42+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
@@ -11,7 +11,7 @@
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 63,
+      "raw_results": 61,
       "errors": []
     }
   },
@@ -47,34 +47,6 @@
     },
     {
       "site": "indeed",
-      "title": "Projetista Eletrônico",
-      "company": "Kairos Gestão de Comportamento Ltda",
-      "location": "São Joaquim de Bicas, MG, Brazil",
-      "is_remote": false,
-      "job_type": null,
-      "job_level": null,
-      "date_posted": "2026-11-17",
-      "job_url": "https://br.indeed.com/viewjob?jk=c60f35ed1ee5df62",
-      "job_url_direct": "https://kairosgestaodecomportamentoltda.pandape.com.br/Detail/3939652?ov=5&xtor=AL-366332663",
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "Atuar no desenvolvimento e melhoria de instrumentos e equipamentos eletrônicos, apoiando a\nelaboração de esquemas elétricos/eletrônicos, desenvolvimento e alteração de placas de\ncircuito impresso (PCI), montagem e testes de protótipos, análise de circuitos, seleção de\ncomponentes e realização de testes funcionais e de desempenho.\nRealizar medições e ensaios em bancada, identificar falhas e propor melhorias em circuitos\neletrônicos, auxiliando na validação de novos produtos e na adequação dos projetos aos\nrequisitos técnicos e às normas aplicáveis.\nAuxiliar na elaboração e revisão de esquemas elétricos, layouts de PCI, listas de materiais\n(BOM), desenhos, datasheets, manuais, especificações e demais documentos técnicos,\nassegurando a rastreabilidade e a conformidade dos produtos com os procedimentos internos\ne requisitos do Sistema de Gestão da Qualidade.\nPerfil prático e hands-on, com interesse genuíno por eletrônica, disposição para atuar\ndiretamente na bancada e acompanhar pesquisas de mercado, novas tecnologias,\ncomponentes e soluções Experiência prática com desenvolvimento de placas eletrônicas (PCI);\nExperiência com KiCad, Altium ou software similar;\nConhecimento de componentes eletrônicos, circuitos e montagem de protótipos;\nExperiência com testes e validação de circuitos eletrônicos;\nPerfil prático, curioso e hands-on, com disposição para atuar diretamente em bancada.\n  \n\nEscolaridade Mínima: Ensino Fundamental (1º grau)  \n  \nFormação desejada:\n\n* , Ensino Fundamental (1º grau)\n\n  \n\n* Assistência Médica / Medicina em grupo\n* Assistência Odontológica\n* Seguro de Vida em Grupo\n* Transporte Fornecido pela empresa\n* Restaurante na empresa",
-      "search_term": "desenhista",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://kairosgestaodecomportamentoltda.pandape.com.br/Detail/3939652?ov=5&xtor=AL-366332663",
-      "validation_detail": {
-        "url": "https://kairosgestaodecomportamentoltda.pandape.com.br/Detail/3939652?ov=5&xtor=AL-366332663",
-        "status_code": 200,
-        "final_url": "https://kairosgestaodecomportamentoltda.pandape.infojobs.com.br/Detail/3939652?ov=5&xtor=AL-366332663",
-        "result": "Validada"
-      }
-    },
-    {
-      "site": "indeed",
       "title": "558.7417523 - PESSOA PROJETISTA SENIOR",
       "company": "MCA Auditoria e Gerenciamento Ltda",
       "location": "Nova Lima, MG, Brazil",
@@ -98,6 +70,34 @@
         "url": "https://mca.vagas.solides.com.br/vaga/947953?origem=indeed",
         "status_code": 200,
         "final_url": "https://mca.vagas.solides.com.br/vaga/947953?origem=indeed",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "indeed",
+      "title": "Projetista Eletrônico",
+      "company": "Kairos Gestão de Comportamento Ltda",
+      "location": "São Joaquim de Bicas, MG, Brazil",
+      "is_remote": false,
+      "job_type": null,
+      "job_level": null,
+      "date_posted": "2026-11-17",
+      "job_url": "https://br.indeed.com/viewjob?jk=c60f35ed1ee5df62",
+      "job_url_direct": "https://kairosgestaodecomportamentoltda.pandape.com.br/Detail/3939652?ov=5&xtor=AL-366332663",
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "Atuar no desenvolvimento e melhoria de instrumentos e equipamentos eletrônicos, apoiando a\nelaboração de esquemas elétricos/eletrônicos, desenvolvimento e alteração de placas de\ncircuito impresso (PCI), montagem e testes de protótipos, análise de circuitos, seleção de\ncomponentes e realização de testes funcionais e de desempenho.\nRealizar medições e ensaios em bancada, identificar falhas e propor melhorias em circuitos\neletrônicos, auxiliando na validação de novos produtos e na adequação dos projetos aos\nrequisitos técnicos e às normas aplicáveis.\nAuxiliar na elaboração e revisão de esquemas elétricos, layouts de PCI, listas de materiais\n(BOM), desenhos, datasheets, manuais, especificações e demais documentos técnicos,\nassegurando a rastreabilidade e a conformidade dos produtos com os procedimentos internos\ne requisitos do Sistema de Gestão da Qualidade.\nPerfil prático e hands-on, com interesse genuíno por eletrônica, disposição para atuar\ndiretamente na bancada e acompanhar pesquisas de mercado, novas tecnologias,\ncomponentes e soluções Experiência prática com desenvolvimento de placas eletrônicas (PCI);\nExperiência com KiCad, Altium ou software similar;\nConhecimento de componentes eletrônicos, circuitos e montagem de protótipos;\nExperiência com testes e validação de circuitos eletrônicos;\nPerfil prático, curioso e hands-on, com disposição para atuar diretamente em bancada.\n  \n\nEscolaridade Mínima: Ensino Fundamental (1º grau)  \n  \nFormação desejada:\n\n* , Ensino Fundamental (1º grau)\n\n  \n\n* Assistência Médica / Medicina em grupo\n* Assistência Odontológica\n* Seguro de Vida em Grupo\n* Transporte Fornecido pela empresa\n* Restaurante na empresa",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://kairosgestaodecomportamentoltda.pandape.com.br/Detail/3939652?ov=5&xtor=AL-366332663",
+      "validation_detail": {
+        "url": "https://kairosgestaodecomportamentoltda.pandape.com.br/Detail/3939652?ov=5&xtor=AL-366332663",
+        "status_code": 200,
+        "final_url": "https://kairosgestaodecomportamentoltda.pandape.infojobs.com.br/Detail/3939652?ov=5&xtor=AL-366332663",
         "result": "Validada"
       }
     },
@@ -188,6 +188,34 @@
         "url": "https://abler.in/v403669",
         "status_code": 200,
         "final_url": "https://ats.abler.com.br/jobs/onmidas?slug=projetistas-senior-806326",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
+      "title": "558.7417523 - PESSOA PROJETISTA SENIOR",
+      "company": "MCA Auditoria e Gerenciamento Ltda",
+      "location": "Nova Lima, Minas Gerais, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": "not applicable",
+      "date_posted": "2026-11-18",
+      "job_url": "https://www.linkedin.com/jobs/view/4491791319",
+      "job_url_direct": null,
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "**#VemSerMCA**\nNa MCA, consolidamos nossa posição como líderes em Consultoria, Auditoria e Gerenciamento de Projetos desde 2002. Pelo segundo ano consecutivo, recebemos o reconhecimento da revista 'O Empreiteiro' como a principal empresa na categoria de Projetos e Consultoria em todo o estado de Minas Gerais, além de nos orgulharmos de ocupar a quarta posição no Ranking Nacional. Nossa abordagem une engenharia, gestão e talento humano para conceber soluções criativas e impactantes. Além disso, mantemos o compromisso com a qualidade e a inovação, como evidenciado por nossa Certificação ISO 9001, ISO 14001 e ISO 45001.\n  \n  \n**Quem Somos:**\nCultivamos uma cultura baseada em integridade, ética e excelência técnica. Operamos com transparência, enfrentando crises com resiliência e inovação. Nossa missão é atuar em engenharia consultiva, gerenciamento de projetos, auditorias e fiscalização, impactando positivamente pessoas e empresas.\n  \n  \n**O que Valorizamos:**\nFaça parte de uma equipe que valoriza bem-estar, alegria e equilíbrio no trabalho. Buscamos profissionais comprometidos, que valorizam colaboração, interação e aprendizado contínuo. Na MCA, trabalhamos de forma colaborativa e todos torcem uns pelos outros.\n  \n  \n**Nossa Presença:**\nPresentes em todo o Brasil, empregamos mais de 2 mil pessoas e atuamos em setores como Mineração, Siderúrgico, Infraestrutura, entre outros. Construímos um futuro sustentável e impactante.\n  \n  \n**Junte-se ao Time MCA:**\nSe busca um ambiente acolhedor, que respeita as diferenças, estimula o progresso das pessoas e busca constantemente a inovação, #VemSerMCA. Junte-se ao time que transforma desafios em oportunidades. Na MCA, construímos juntos o futuro. Vem ser parte dessa comunidade!\n  \n  \n**E suas principais atividades serão:**\n\n* Apoiar no desenvolvimento das modelagens avançadas no Autodesk Civil 3D, contemplando superfícies, corredores e projetos de movimentação de terra em larga escala.\n* Realizar cálculos de volumes e elaborar documentação técnica de suporte às atividades de engenharia.\n* Conferir os volumes de serviços executados em campo, por meio de levantamentos topográficos e comparações com os projetos fornecidos pela projetista.\n* Verificar e validar geometrias, assegurando a conformidade entre os projetos e as condições executadas.\n* Acompanhar e validar os quantitativos e volumes executados em conjunto com a equipe de Planejamento.\n* Elaborar relatórios diários e semanais de acompanhamento dos volumes executados, subsidiando o controle e o planejamento das atividades.\n\n**Para esta posição, esperamos que você tenha:**\n\n* Formação: Engenharia Civil e/ou Engenharia de Minas e/ou Técnico em Edificações e/ou Técnico em Agrimensura e/ou áreas correlatas;\n* Experiência com softwares específicos de disposição de rejeitos (Muk3D ou Rift TD);\n* Conhecimento intermediário de Navisworks e Infraworks;\n* Conhecimento de plataforma topográfica digital (Maply / Propeller / Sitescan);\n* Vivência com topografia e as-builts;\n* Inglês Intermediário/Avançado;\n* Desejável conhecimento ou experiência na norma ISO 14001: Sistema de Gestão Ambiental (SGA).\n\nE aí, topa embarcar nessa?!\n  \n  \nVem se juntar ao nosso time incrível na MCA!",
+      "search_term": "arquiteta",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4491791319",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4491791319",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4491791319",
         "result": "Validada"
       }
     },
@@ -294,41 +322,13 @@
       "description": "**Descrição da empresa**\nAFRY é uma empresa europeia líder em serviços de engenharia, projetos e consultoria, com alcance global. Nós aceleraremos a transição para uma sociedade mais sustentável. mais de 19 mil especialistas no mundo dedicados nas áreas de infraestrutura, indústria, energia e digitalização, criando soluções sustentáveis para as próximas gerações.\n  \n  \nNo Brasil, possui cerca de 1.400 colaboradores corajosos, dedicados e trabalhadores em equipe, e atende mais de 50 clientes de diversos setores.\n  \n  \n*Making Future*\n**Descrição do emprego**\n\n* Prestar suporte na elaboração de documentação na disciplina de utilidades de acordo com normas e padrões internas e/ou cliente;\n* Desejável experiência em projetos voltados para sistemas e utilidades, contemplando bombeamentos de água e ar comprimido, além de sistemas de HVAC. Atuação na elaboração de fluxogramas de engenharia, memórias de cálculo, relatórios técnicos e folhas de dados\n\n**Qualificações**\nBase teórica consolidada nas disciplinas de transferência de calor e fluídodinâmica;\n  \n  \nCurso técnico em mecatrônica, química e/ou mecânica\n  \n  \nSerá um diferencial se estiver cursando Engenharia mecatrônica, química e/ou mecânica\n  \n  \n**Informação adicional**\n\n* Experiência em projetos voltados para sistemas de utilidades\n* Inglês será um diferencial;\n* Suporte direto ao supervisor de engenharia de utilidades;\n* Conhecimento e domínio em AutoCad\n\n*At AFRY, we engineer change in everything we do. Change happens when brave ideas come together. When we collaborate, innovate technology, and embrace challenging points of view. That’s how we're making future. We are actively looking for qualified candidates to join our inclusive and diverse teams across the globe. Join us in accelerating the transition towards a sustainable future.*",
       "search_term": "desenhista",
       "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/3994760663",
+      "validation": "Não validada",
+      "validated_url": null,
       "validation_detail": {
         "url": "https://www.linkedin.com/jobs/view/3994760663",
-        "status_code": 200,
+        "status_code": 429,
         "final_url": "https://www.linkedin.com/jobs/view/3994760663",
-        "result": "Validada"
-      }
-    },
-    {
-      "site": "linkedin",
-      "title": "Projetista de Tubulação",
-      "company": "Jobbol",
-      "location": "Belo Horizonte, Minas Gerais, Brazil",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": "entry level",
-      "date_posted": "2026-11-11",
-      "job_url": "https://www.linkedin.com/jobs/view/4487832955",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "Empresa de Engenharia busca profissional Projetista de Tubulação em Belo Horizonte (Cidade Jardim).\n  \n  \n**Responsabilidades**\nElaborar desenhos e documentos técnicos de tubulação conforme as especificações do projeto. Apoiar a definição de traçados, dimensões e interferências em conjunto com a equipe responsável. Acompanhar ajustes de projeto e atualizar informações técnicas sempre que necessário. Organizar e manter a documentação técnica relacionada aos projetos sob sua responsabilidade.\n  \n  \nAtuações anteriores em Engenheiro de Tubulação, Designer de Tubulação, Projetista de Sistemas de Tubulação ou Especialista em Tubulação podem indicar afinidade com algumas das atividades desta posição.\n  \n  \n**Requisitos Desejáveis**\n**Escolaridade:**\nTécnico completo\n  \n  \n**Experiência:**\nNecessário experiência\n  \n  \n**Remuneração e Benefícios**\n\n* Salário: Faixa salarial será informada na entrevista.\n* Plano de saúde |Plano odontológico |Seguro de Vida |Vale Alimentação |Vale Transporte\n* Cesta Natalidade.\n\n**Informações Adicionais**\n\n* Contrato: Efetivo. Presencial. Candidatos de Nova Lima, Sabará, Contagem ou Raposos também são considerados para esta vaga.\n* Período: Tempo Integral\n* Jornada: A combinar",
-      "search_term": "desenhista",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/4487832955",
-      "validation_detail": {
-        "url": "https://www.linkedin.com/jobs/view/4487832955",
-        "status_code": 200,
-        "final_url": "https://www.linkedin.com/jobs/view/4487832955",
-        "result": "Validada"
+        "result": "Não validada"
       }
     },
     {
