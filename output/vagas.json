@@ -1,50 +1,24 @@
 {
-  "generated_at": "2026-11-18T17:20:42+00:00",
+  "generated_at": "2026-11-18T23:01:49+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
-      "ok_queries": 14,
-      "failed_queries": 0,
-      "raw_results": 210,
-      "errors": []
+      "ok_queries": 13,
+      "failed_queries": 1,
+      "raw_results": 205,
+      "errors": [
+        "analista de arquitetura (remote): response status code 429 (blocked: use a proxy)"
+      ]
     },
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 61,
+      "raw_results": 57,
       "errors": []
     }
   },
-  "total_jobs": 13,
+  "total_jobs": 11,
   "jobs": [
-    {
-      "site": "indeed",
-      "title": "Especialista Projetos (Arquitetura) - Morumbi, SP (86952)",
-      "company": "Grupo Amil",
-      "location": "Morumbi, SP, Brazil",
-      "is_remote": false,
-      "job_type": null,
-      "job_level": null,
-      "date_posted": "2026-11-11",
-      "job_url": "https://br.indeed.com/viewjob?jk=8ddaec393d5173c4",
-      "job_url_direct": "https://career19.sapsf.com/career?rcm_site_locale=pt_BR&career_ns=job_listing&company=amilassist&selected_lang=pt_BR&career_job_req_id=86952",
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "Transformar vidas com saúde é o que nos move!\n\n  \n\nAtuamos em todo o Brasil por meio de duas unidades de negócios, Amil e Rede Total Care, com mais de 1.500 hospitais credenciados e uma rede própria de hospitais, clínicas, centros de tratamento, home care e transporte médico.\n\n  \n\nCom uma missão clara e valores sólidos, fortalecemos nossa cultura com compromisso de servir sempre melhor. Cuidamos das nossas pessoas colaboradoras para que esse cuidado se reflita na população que atendemos.\n\n**Principais Responsabilidades** :\n\n  \n\n* Participar da definição dos programas de necessidades junto às áreas assistenciais, administrativas e operacionais;\n* Desenvolver estudos de viabilidade, concepção arquitetônica e anteprojetos de unidades hospitalares;\n* Elaborar layouts funcionais considerando fluxos assistenciais, operacionais, logísticos, pacientes, acompanhantes e equipes multidisciplinares;\n* Garantir a conformidade dos projetos com as legislações vigentes, normas técnicas e regulamentações sanitárias aplicáveis, incluindo RDCs da ANVISA, normas da ABNT e legislações locais;\n* Coordenar equipes multidisciplinares de projeto terceiros complementares, tais como elétrica, hidráulica, climatização, gases medicinais, TI e segurança;\n* Realizar o acompanhamento técnico das obras hospitalares executadas por empresas contratadas, verificando conformidade com projetos, especificações técnicas, normas e padrões corporativos;\n* Monitorar o cumprimento dos cronogramas físico-financeiros e marcos de entrega estabelecidos para os projetos.\n\n  \n\n**Qualificações Necessárias:**\n\n  \n\n* Ensino Superior completo em Arquitetura e Urbanismo e registro ativo no CAU;\n* Conhecimento no Pacote Office;\n* Conhecimento em AutoCAD, MS Project;\n* Vivência nas atividades da vaga no segmento da saúde;\n* Disponibilidade para atuar no modelo presencial (Morumbi, São Paulo) e realizar visitas nas unidades.\n\n  \n\n**Palavras-Chave** : Amil, Especialista, Arquitetura, Arquiteto, Arquiteta, Projetos e Obras, Diversidade, Inclusão, Equidade, PcD, Pessoa com Deficiência, Morumbi, São Paulo, SP.\n\n  \n\nPromovemos uma cultura inovadora, diversa, equitativa e inclusiva. Todas as candidaturas qualificadas são bem-vindas, sem distinção de etnia, raça, deficiência, orientação sexual, identidade ou expressão de gênero, idade, nacionalidade, religião ou qualquer outro marcador social.\n\n  \n\nReforçamos que não solicitamos pagamentos, taxas ou códigos SMS em nossos processos seletivos. Todas as oportunidades estão disponíveis em nossos canais oficiais e no nosso site de carreira. Qualquer situação diferente deve ser denunciada.",
-      "search_term": "arquiteta",
-      "search_mode": "remote",
-      "validation": "Validada",
-      "validated_url": "https://career19.sapsf.com/career?rcm_site_locale=pt_BR&career_ns=job_listing&company=amilassist&selected_lang=pt_BR&career_job_req_id=86952",
-      "validation_detail": {
-        "url": "https://career19.sapsf.com/career?rcm_site_locale=pt_BR&career_ns=job_listing&company=amilassist&selected_lang=pt_BR&career_job_req_id=86952",
-        "status_code": 200,
-        "final_url": "https://career19.sapsf.com/career?rcm_site_locale=pt_BR&career_ns=job_listing&company=amilassist&selected_lang=pt_BR&career_job_req_id=86952",
-        "result": "Validada"
-      }
-    },
     {
       "site": "indeed",
       "title": "558.7417523 - PESSOA PROJETISTA SENIOR",
@@ -164,34 +138,6 @@
       }
     },
     {
-      "site": "indeed",
-      "title": "Projetistas Sênior",
-      "company": "Onmidas",
-      "location": "Contagem, MG, Brazil",
-      "is_remote": false,
-      "job_type": null,
-      "job_level": null,
-      "date_posted": "2026-11-11",
-      "job_url": "https://br.indeed.com/viewjob?jk=bda6567b8312b8d8",
-      "job_url_direct": "https://abler.in/v403669",
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": "vaga-403669@vagas.abler.in",
-      "description": "**Candidatar-se por e-mail: vaga-403669@vagas.abler.in**  \n  \n**Sobre a vaga:**\n\nA Onmidas Group é uma empresa especializada na prestação de serviços técnicos e de engenharia, com atuação estratégica em outsourcing de profissionais e no fornecimento de soluções completas e personalizadas por meio de Project Services Center. Com sólida experiência nos setores automotivo, veículos pesados e ferroviário, apoiamos nossos clientes na execução e gestão de projetos de engenharia, conectando talento, técnica e estratégia. Nossa atuação vai além da entrega técnica: estruturamos times, gerimos projetos e garantimos excelência operacional, sempre com foco em eficiência, qualidade e pessoas. Nosso diferencial está nas relações de confiança que construímos com nossos colaboradores e clientes. Investimos em formação técnica e gerencial para novos talentos. Em sinergia com nossa cultura organizacional, combinamos expertise técnico com uma gestão humanizada. Valorizamos as pessoas, incentivamos a inovação e acreditamos no potencial de cada colaborador para conseguirmos entregar soluções de alta qualidade. Investimos continuamente no desenvolvimento técnico e humano dos nossos profissionais. Essa cultura reflete diretamente na qualidade das entregas, no engajamento das equipes e com isso conseguimos superar as expectativas dos nossos clientes. Onmidas Group, engenharia com propósito, valores, qualidade e inovação!\n\n **Atividades:**\n\n### **Sobre a vaga**\n\nEstamos em busca de um **Projetista Sênior** para integrar nossa equipe de engenharia, contribuindo com expertise em desenho técnico e processos de fabricação. O profissional atuará na criação, revisão e otimização de projetos, garantindo qualidade, eficiência e alinhamento com as necessidades do cliente.\n\n### **Responsabilidades**\n\n  \n\n* Desenvolver e validar projetos mecânicos utilizando softwares de CAD como AutoCAD, SolidWorks ou CATIA.\n* Gerenciar a documentação técnica, incluindo desenhos, especificações e relatórios de testes.\n* Colaborar com equipes multidisciplinares (engenharia, produção e qualidade) para garantir viabilidade e otimização de custos.\n* Aplicar normas e padrões de qualidade (ISO, NBR) nos projetos.\n* Orientar e apoiar membros mais jovens da equipe, promovendo transferência de conhecimento.\n\n  \n**Requisitos e qualificações:**\n\n* Domínio avançado de softwares CAD, preferencialmente **CATIA V5, SolidWorks, NX** ou similares.\n* Experiência comprovada em **projetos mecânicos e desenvolvimento de produtos.**\n* Experiência com desenvolvimento e **projeto de componentes** e **peças plásticas.**\n* Conhecimento em **documentação técnica e elaboração de desenhos para fabricação**.\n* Conhecimento de normas de qualidade **(ISO e NBR) e processos de fabricação.**\n* Boa comunicação e capacidade de atuação em equipes multidisciplinares.\n\n  \n**Desejável:**\n\n* Experiência com **Catia V5** ou softwares de modelagem 3D avançada\n* Certificação em softwares de CAD (SolidWorks, AutoCAD)\n\n**Jornada de trabalho:**\n\n8:00 as 17:00 horas de Segunda a Sexta\n\n **Conhecimentos:**  \n**Nível escolaridade:** Graduação  \n**Situação escolaridade:** Completo  \n**Curso:** Engenharia eletrica, Engenharia mecânica, Tecnico em mecanica industrial, engenharias\n  \n**Idiomas:**  \nInglês - Intermediário - Obrigatório",
-      "search_term": "desenhista",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://abler.in/v403669",
-      "validation_detail": {
-        "url": "https://abler.in/v403669",
-        "status_code": 200,
-        "final_url": "https://ats.abler.com.br/jobs/onmidas?slug=projetistas-senior-806326",
-        "result": "Validada"
-      }
-    },
-    {
       "site": "linkedin",
       "title": "558.7417523 - PESSOA PROJETISTA SENIOR",
       "company": "MCA Auditoria e Gerenciamento Ltda",
@@ -283,23 +229,23 @@
       "is_remote": false,
       "job_type": "fulltime",
       "job_level": "mid-senior level",
-      "date_posted": "2026-11-17",
-      "job_url": "https://www.linkedin.com/jobs/view/4490161549",
+      "date_posted": "2026-11-18",
+      "job_url": "https://www.linkedin.com/jobs/view/4475132493",
       "job_url_direct": null,
       "min_amount": null,
       "max_amount": null,
       "currency": null,
       "interval": null,
       "emails": null,
-      "description": "**Requisition ID:**\n102920\n  \n  \n**Job Category:**\nEngineering\n  \n  \n**Location:**\nBelo Horizonte, Minas Gerais, Brazil\n  \n  \nJoin a company that is passionately committed to the pursuit of a better world through positive change. With more than 70 years of business and technical expertise in mining , energy , and infrastructure , our 10,000 colleagues in 150 countries tirelessly work toward bettering the industries in which we operate. With practical solutions that are safe, innovative and sustainable, we think globally while acting locally.\n  \n  \nOur Project Delivery Group (PDG) is a dynamic team of professionals passionately committed to world-class project delivery across the globe. With expertise in sustainable studies, asset building and operations, and industry-leading efficiencies, our best-in-class team leverages methodologies, governance and systems that are unparalleled in the engineering space. Are you looking for an opportunity to join a diverse group of professionals who are committed to remaining exceptional? We look forward to hearing from you.\n  \n  \n**As The Successful Candidate, You Will**\n\n* Adhere to and promote the Hatch corporate safety culture\n* Layout complex plant and piping systems using 3D modeling design tools\n* Perform clash detection of models and other disciplines models and coordinate actions and closeout\n* Model existing structures, plant and equipment\n* Ensure all drawings, 2D extractions and piping deliverables are checked to comply with Hatch quality standards Ensure compliance with all relevant engineering standards and project procedures for all design activities\n* In conjunction with engineering staﬀ, prepare design concepts for internal and client reviews\n* Develop and check engineering design details and special items drawings\n* Prepare a list of design deliverables and time based functions to facilitate the planning and control of the piping budget\n* Perform design for piping/mechanical plant models using project specifications/procedures and applying industry best practice\n* Use vendor drawings and information sheets to develop and check the model\n* Coordinate and verify piping Material Take Oﬀs (MTOs)\n* Ensure coordination with designers and engineers of other disciplines\n* Train and mentor junior and intermediate designers and provide guidance on Hatch standards and quality requirements\n* Assist in the preparation and development of project specific procedures\n* Facilitate formal piping design reviews\n* Participate in the selection of piping design candidates\n* Extract stress sketches\n* Coordinate pipe support design including special pipe supports with piping stress analyst input\n* Support the application of piping systems to achieve the best project outcomes\n* Extract and check ISOs\n* Produce piping General Arrangement (GA) and equipment location drawings\n* Provide input to proposals and man-hour estimates\n* Assist in the resolution of piping design issues during project lifecycle, including planning phase, design, procurement, fabrication, construction and commissioning\n* Promote and maintain the application of ethical and professional practices in the execution of piping work.\n\nYou bring to the role: Essential:\n  \n  \n\n* Extensive experience with Bentley and/or Intergraph 3D design systems\n* Thorough understanding of the Hatch HSEC policy and standards\n* Sound design and modeling skills for plant layout, piping design and detailing\n* Thorough knowledge of piping components and materials\n* Sound knowledge of industry or regulatory standards and codes as required for piping design Experience with isometric production control and monitoring\n* Experience with multidisciplinary coordination\n* Proficient in the use of 2D and 3D CAD systems\n* Good communication and interpersonal skills\n* Sound working knowledge of design systems and workflows as they relate to the piping discipline Thorough understanding of PFDs and P&IDs\n* Site experience in a piping technical role.\n\n**Preferred**\n\n* Experience within a large project, multidisciplinary EPCM environment\n* Knowledge of laser scanning applications and techniques\n* Strong client focus\n* Good leadership skills\n* Experience in mentoring and supervising designers\n* Strong ability to delegate tasks and promote the eﬀective performance of team members.\n\nWhy join us?\n  \n  \n\n* Work with great people to make a difference\n* Collaborate on exciting projects to develop innovative solutions\n* Top employer\n\nWhat we offer you?\n  \n  \n\n* Flexible work environment\n* Long term career development\n* Think globally, work locally\n\nDon't meet every single requirement? You don't need to. At Hatch, we are building a diverse, inclusive workplace that fosters innovation. If you're interested in this role, we encourage you to apply even if your past experiences don't perfectly align with the skills we've listed.\n  \n  \nWe're committed to fostering a workforce that reflects the diversity of the communities in which we operate and serve. Hatch is an Equal Opportunity Employer that considers applicants without regard to age, race, color, national origin, citizenship, religion, creed, gender, sexual orientation, marital status, disability, veteran, or any other protected status. If you have any accommodation requirements, please let us know. We'll do our best to meet your needs in accordance with applicable local legislation.",
+      "description": "**Requisition ID:**\n101841\n  \n  \n**Job Category:**\nEngineering\n  \n  \n**Location:**\nBelo Horizonte, Minas Gerais, Brazil\n  \n  \nJoin a company that is passionately committed to the pursuit of a better world through positive change. With more than 70 years of business and technical expertise in mining , energy , and infrastructure , our 10,000 colleagues in 150 countries tirelessly work toward bettering the industries in which we operate. With practical solutions that are safe, innovative and sustainable, we think globally while acting locally.\n  \n  \nOur Project Delivery Group (PDG) is a dynamic team of professionals passionately committed to world-class project delivery across the globe. With expertise in sustainable studies, asset building and operations, and industry-leading efficiencies, our best-in-class team leverages methodologies, governance and systems that are unparalleled in the engineering space. Are you looking for an opportunity to join a diverse group of professionals who are committed to remaining exceptional? We look forward to hearing from you.\n  \n  \n**As The Successful Candidate, You Will**\n\n* Adhere to and promote the Hatch corporate safety culture\n* Layout complex plant and piping systems using 3D modeling design tools\n* Perform clash detection of models and other disciplines models and coordinate actions and closeout\n* Model existing structures, plant and equipment\n* Ensure all drawings, 2D extractions and piping deliverables are checked to comply with Hatch quality standards Ensure compliance with all relevant engineering standards and project procedures for all design activities\n* In conjunction with engineering staﬀ, prepare design concepts for internal and client reviews\n* Develop and check engineering design details and special items drawings\n* Prepare a list of design deliverables and time based functions to facilitate the planning and control of the piping budget\n* Perform design for piping/mechanical plant models using project specifications/procedures and applying industry best practice\n* Use vendor drawings and information sheets to develop and check the model\n* Coordinate and verify piping Material Take Oﬀs (MTOs)\n* Ensure coordination with designers and engineers of other disciplines\n* Train and mentor junior and intermediate designers and provide guidance on Hatch standards and quality requirements\n* Assist in the preparation and development of project specific procedures\n* Facilitate formal piping design reviews\n* Participate in the selection of piping design candidates\n* Extract stress sketches\n* Coordinate pipe support design including special pipe supports with piping stress analyst input\n* Support the application of piping systems to achieve the best project outcomes\n* Extract and check ISOs\n* Produce piping General Arrangement (GA) and equipment location drawings\n* Provide input to proposals and man-hour estimates\n* Assist in the resolution of piping design issues during project lifecycle, including planning phase, design, procurement, fabrication, construction and commissioning\n* Promote and maintain the application of ethical and professional practices in the execution of piping work.\n\nYou bring to the role: Essential:\n  \n  \n\n* Extensive experience with Bentley and/or Intergraph 3D design systems\n* Thorough understanding of the Hatch HSEC policy and standards\n* Sound design and modeling skills for plant layout, piping design and detailing\n* Thorough knowledge of piping components and materials\n* Sound knowledge of industry or regulatory standards and codes as required for piping design Experience with isometric production control and monitoring\n* Experience with multidisciplinary coordination\n* Proficient in the use of 2D and 3D CAD systems\n* Good communication and interpersonal skills\n* Sound working knowledge of design systems and workflows as they relate to the piping discipline Thorough understanding of PFDs and P&IDs\n* Site experience in a piping technical role.\n\n**Preferred**\n\n* Experience within a large project, multidisciplinary EPCM environment\n* Knowledge of laser scanning applications and techniques\n* Strong client focus\n* Good leadership skills\n* Experience in mentoring and supervising designers\n* Strong ability to delegate tasks and promote the eﬀective performance of team members.\n\nWhy join us?\n  \n  \n\n* Work with great people to make a difference\n* Collaborate on exciting projects to develop innovative solutions\n* Top employer\n\nWhat we offer you?\n  \n  \n\n* Flexible work environment\n* Long term career development\n* Think globally, work locally\n\nDon't meet every single requirement? You don't need to. At Hatch, we are building a diverse, inclusive workplace that fosters innovation. If you're interested in this role, we encourage you to apply even if your past experiences don't perfectly align with the skills we've listed.\n  \n  \nWe're committed to fostering a workforce that reflects the diversity of the communities in which we operate and serve. Hatch is an Equal Opportunity Employer that considers applicants without regard to age, race, color, national origin, citizenship, religion, creed, gender, sexual orientation, marital status, disability, veteran, or any other protected status. If you have any accommodation requirements, please let us know. We'll do our best to meet your needs in accordance with applicable local legislation.",
       "search_term": "cadista",
       "search_mode": "hybrid",
       "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/4490161549",
+      "validated_url": "https://www.linkedin.com/jobs/view/4475132493",
       "validation_detail": {
-        "url": "https://www.linkedin.com/jobs/view/4490161549",
+        "url": "https://www.linkedin.com/jobs/view/4475132493",
         "status_code": 200,
-        "final_url": "https://www.linkedin.com/jobs/view/4490161549",
+        "final_url": "https://www.linkedin.com/jobs/view/4475132493",
         "result": "Validada"
       }
     },
@@ -322,13 +268,13 @@
       "description": "**Descrição da empresa**\nAFRY é uma empresa europeia líder em serviços de engenharia, projetos e consultoria, com alcance global. Nós aceleraremos a transição para uma sociedade mais sustentável. mais de 19 mil especialistas no mundo dedicados nas áreas de infraestrutura, indústria, energia e digitalização, criando soluções sustentáveis para as próximas gerações.\n  \n  \nNo Brasil, possui cerca de 1.400 colaboradores corajosos, dedicados e trabalhadores em equipe, e atende mais de 50 clientes de diversos setores.\n  \n  \n*Making Future*\n**Descrição do emprego**\n\n* Prestar suporte na elaboração de documentação na disciplina de utilidades de acordo com normas e padrões internas e/ou cliente;\n* Desejável experiência em projetos voltados para sistemas e utilidades, contemplando bombeamentos de água e ar comprimido, além de sistemas de HVAC. Atuação na elaboração de fluxogramas de engenharia, memórias de cálculo, relatórios técnicos e folhas de dados\n\n**Qualificações**\nBase teórica consolidada nas disciplinas de transferência de calor e fluídodinâmica;\n  \n  \nCurso técnico em mecatrônica, química e/ou mecânica\n  \n  \nSerá um diferencial se estiver cursando Engenharia mecatrônica, química e/ou mecânica\n  \n  \n**Informação adicional**\n\n* Experiência em projetos voltados para sistemas de utilidades\n* Inglês será um diferencial;\n* Suporte direto ao supervisor de engenharia de utilidades;\n* Conhecimento e domínio em AutoCad\n\n*At AFRY, we engineer change in everything we do. Change happens when brave ideas come together. When we collaborate, innovate technology, and embrace challenging points of view. That’s how we're making future. We are actively looking for qualified candidates to join our inclusive and diverse teams across the globe. Join us in accelerating the transition towards a sustainable future.*",
       "search_term": "desenhista",
       "search_mode": "hybrid",
-      "validation": "Não validada",
-      "validated_url": null,
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/3994760663",
       "validation_detail": {
         "url": "https://www.linkedin.com/jobs/view/3994760663",
-        "status_code": 429,
+        "status_code": 200,
         "final_url": "https://www.linkedin.com/jobs/view/3994760663",
-        "result": "Não validada"
+        "result": "Validada"
       }
     },
     {
