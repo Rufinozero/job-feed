@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-18T23:01:49+00:00",
+  "generated_at": "2026-11-19T17:37:23+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
       "ok_queries": 13,
       "failed_queries": 1,
-      "raw_results": 205,
+      "raw_results": 195,
       "errors": [
-        "analista de arquitetura (remote): response status code 429 (blocked: use a proxy)"
+        "projetista de arquitetura (remote): response status code 429 (blocked: use a proxy)"
       ]
     },
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 57,
+      "raw_results": 59,
       "errors": []
     }
   },
-  "total_jobs": 11,
+  "total_jobs": 13,
   "jobs": [
     {
       "site": "indeed",
@@ -139,6 +139,34 @@
     },
     {
       "site": "linkedin",
+      "title": "Projetista de Infraestrutura",
+      "company": "Drawind Do Brasil",
+      "location": "Greater Belo Horizonte",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": "mid-senior level",
+      "date_posted": "2026-11-19",
+      "job_url": "https://www.linkedin.com/jobs/view/4492431110",
+      "job_url_direct": null,
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "A Drawind está em busca de um(a)\n**Projetista de Infraestrutura**\npara atuar no desenvolvimento e detalhamento de projetos de infraestrutura civil, com foco em qualidade técnica, integração multidisciplinar e atendimento aos critérios e normas aplicáveis aos projetos.\n\n**Principais responsabilidades:**\n\n* Desenvolver projetos e detalhamentos de infraestrutura;\n* Elaborar e revisar desenhos e documentos técnicos;\n* Interpretar plantas, croquis, critérios e informações de projeto;\n* Atuar com projetos de\n  **terraplenagem, drenagem e pavimentação**\n  ;\n* Realizar visitas de campo e elaborar relatórios;\n* Desenvolver listas de materiais e equipamentos;\n* Realizar interface técnica com outras disciplinas;\n* Apoiar o controle de revisões e organização da documentação dos projetos.\n\n**Requisitos:**\n\n* Formação técnica em Construção Civil, Edificações, Agrimensura ou áreas correlatas, ou Engenharia Civil completa/em andamento;\n* **Domínio de AutoCAD, Civil 3D e modelagem 3D**\n  ;\n* Experiência com projetos de infraestrutura civil;\n* Conhecimento em integração multidisciplinar;\n* Organização, atenção aos detalhes e responsabilidade com prazos.\n\nSe você busca uma oportunidade para atuar em projetos desafiadores e contribuir com soluções técnicas em um ambiente colaborativo, queremos conhecer você.",
+      "search_term": "arquiteta",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4492431110",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4492431110",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4492431110",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
       "title": "558.7417523 - PESSOA PROJETISTA SENIOR",
       "company": "MCA Auditoria e Gerenciamento Ltda",
       "location": "Nova Lima, Minas Gerais, Brazil",
@@ -190,34 +218,6 @@
         "url": "https://www.linkedin.com/jobs/view/4456942069",
         "status_code": 200,
         "final_url": "https://www.linkedin.com/jobs/view/4456942069",
-        "result": "Validada"
-      }
-    },
-    {
-      "site": "linkedin",
-      "title": "PROJETISTA PLENO OU SÊNIOR - CIVIL/CONCRETO",
-      "company": "AFRY",
-      "location": "Greater Belo Horizonte",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": "mid-senior level",
-      "date_posted": "2026-11-12",
-      "job_url": "https://www.linkedin.com/jobs/view/4473995762",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "**Descrição da empresa**\nAFRY é uma empresa líder global em engenharia, projetos e consultoria, com forte presença na Europa e atuação em mais de 40 países. Nosso propósito é acelerar a transição para uma sociedade mais sustentável, combinando conhecimento local e expertise internacional. Com mais de 19.000 especialistas, atuamos nos setores de infraestrutura, indústria, energia e digitalização, desenvolvendo soluções inovadoras e sustentáveis que geram valor para nossos clientes e para as futuras gerações.\n  \n  \n*Making Future*\n**Descrição da vaga**\nElaboração de desenhos de projetos civis de CONCRETO para obras industriais em plataformas 2D e 3D;\n  \n  \nDentre as atribuições, destacam-se:\n  \n  \n\n* Desenvolver modelos 3D em Revit;\n* Elaboração de desenhos de projeto básico e executivo 2D;\n* Elaboração de desenhos de forma e armação;\n* Elaboração de Planilhas de Quantidades;\n* Levantamento de campo;\n* Participação em reuniões internas e externas (cliente);\n* Apoio a outras disciplinas; entre outras atividades;\n\nEventualmente atuará em:\n  \n  \n\n* Viagens\n\n**Qualificações**\nFormação: Desenho Técnico Industrial ou edificações (Desejável)\n  \n  \n\n* Conhecimento das normas técnicas pertinentes\n* Experiência em projetos industriais\n* Inglês básico (intermediário desejável)\n* Pacote MS Office, com ênfase em MS Excel\n* Revit\n* AutoCAD\n\n**Informações adicionais**\n*At AFRY, we engineer change in everything we do. Change happens when brave ideas come together. When we collaborate, innovate technology, and embrace challenging points of view. That’s how we're making future. We are actively looking for qualified candidates to join our inclusive and diverse teams across the globe. Join us in accelerating the transition towards a sustainable future.*",
-      "search_term": "arquiteta",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/4473995762",
-      "validation_detail": {
-        "url": "https://www.linkedin.com/jobs/view/4473995762",
-        "status_code": 200,
-        "final_url": "https://www.linkedin.com/jobs/view/4473995762",
         "result": "Validada"
       }
     },
@@ -275,6 +275,62 @@
         "status_code": 200,
         "final_url": "https://www.linkedin.com/jobs/view/3994760663",
         "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
+      "title": "Engenheiro Projetista de Tubulação",
+      "company": "AFRY",
+      "location": "Greater Belo Horizonte",
+      "is_remote": false,
+      "job_type": null,
+      "job_level": null,
+      "date_posted": "2026-11-14",
+      "job_url": "https://www.linkedin.com/jobs/view/4474524218",
+      "job_url_direct": null,
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": null,
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4474524218",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4474524218",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4474524218",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "indeed",
+      "title": "Projetista Executivo",
+      "company": "JP Serviços de Montagens",
+      "location": "Belo Horizonte, MG, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": null,
+      "date_posted": "2026-11-19",
+      "job_url": "https://br.indeed.com/viewjob?jk=f1587fb5c0cef758",
+      "job_url_direct": null,
+      "min_amount": 2000.0,
+      "max_amount": 2500.0,
+      "currency": "BRL",
+      "interval": "monthly",
+      "emails": null,
+      "description": "**Descrição da vaga:**\n\n* Desenvolver projetos executivos de móveis planejados, transformando os projetos comerciais em desenhos técnicos detalhados e completos, garantindo a viabilidade de fabricação, montagem e instalação de mobiliários.\n\n**Principais Responsabilidades:**\n\n* Desenvolver projetos executivos de móveis planejados\n* Elaborar desenhos técnicos, detalhamentos e especificações para fabricação.\n* Realizar conferência de medidas e dimensões dos ambientes.\n* Definir medidas de peças, componentes, ferragens e acessórios.\n* Elaborar planos de corte e detalhamentos construtivos.\n* Conferir a compatibilidade dos projetos com as condições reais de instalação.\n* Identificar possíveis interferências e necessidades de ajustes técnicos.\n* Realizar revisões e correções dos projetos quando necessário.\n* Manter comunicação com os setores comercial, produção e montagem.\n* Garantir que os projetos liberados para produção estejam completos e dentro dos padrões técnicos da empresa.\n\n**Requisitos:**\n\n* Ensino médio completo; desejável formação técnica em design de interiores ou áreas correlatas.\n* Experiência com projetos de móveis planejados\n* Conhecimento em leitura e interpretação de desenhos técnicos.\n* Domínio de softwares de projetos, como Promob, AutoCAD ou similiares\n* Conhecimento em materiais, ferragens, acessórios e processos de fabricação de móveis.\n* Conhecimento em detalhamento técnico e medidas.\n\n**Competências Desejadas:**\n\n* Organização e atenção aos detalhes.\n* Raciocinio lógico e visão espacial.\n* Capacidade de Análise e resolução de problemas.\n* Agilidade e cumprimento de prazos.\n* Boa comunicação e trabalho em equipe.\n* Comprometimento com a qualidade e precisão dos projetos.\n\nPagamento: R$2.000,00 - R$2.500,00 por mês\n\nBenefícios:\n\n* Auxílio-combustível\n* Seguro de vida\n* Vale-alimentação\n* Vale-transporte\n\nLocal do trabalho: Presencial",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Não validada",
+      "validated_url": null,
+      "validation_detail": {
+        "url": "https://br.indeed.com/viewjob?jk=f1587fb5c0cef758",
+        "status_code": 401,
+        "final_url": "https://br.indeed.com/viewjob?jk=f1587fb5c0cef758",
+        "result": "Não validada"
       }
     },
     {
