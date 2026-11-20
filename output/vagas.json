@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-11-20T17:20:21+00:00",
+  "generated_at": "2026-11-20T22:49:50+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
-      "ok_queries": 11,
-      "failed_queries": 3,
-      "raw_results": 175,
+      "ok_queries": 12,
+      "failed_queries": 2,
+      "raw_results": 180,
       "errors": [
-        "arquiteta (remote): response status code 429 (blocked: use a proxy)",
-        "assistente de arquitetura (remote): response status code 429 (blocked: use a proxy)",
-        "desenhista (hybrid): response status code 429 (blocked: use a proxy)"
+        "arquiteta (hybrid): response status code 429 (blocked: use a proxy)",
+        "arquiteto (remote): response status code 429 (blocked: use a proxy)"
       ]
     },
     "indeed": {
@@ -19,7 +18,7 @@
       "errors": []
     }
   },
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
       "site": "indeed",
@@ -94,7 +93,7 @@
       "interval": null,
       "emails": null,
       "description": "A Drawind está em busca de um(a)\n**Projetista de Infraestrutura**\npara atuar no desenvolvimento e detalhamento de projetos de infraestrutura civil, com foco em qualidade técnica, integração multidisciplinar e atendimento aos critérios e normas aplicáveis aos projetos.\n\n**Principais responsabilidades:**\n\n* Desenvolver projetos e detalhamentos de infraestrutura;\n* Elaborar e revisar desenhos e documentos técnicos;\n* Interpretar plantas, croquis, critérios e informações de projeto;\n* Atuar com projetos de\n  **terraplenagem, drenagem e pavimentação**\n  ;\n* Realizar visitas de campo e elaborar relatórios;\n* Desenvolver listas de materiais e equipamentos;\n* Realizar interface técnica com outras disciplinas;\n* Apoiar o controle de revisões e organização da documentação dos projetos.\n\n**Requisitos:**\n\n* Formação técnica em Construção Civil, Edificações, Agrimensura ou áreas correlatas, ou Engenharia Civil completa/em andamento;\n* **Domínio de AutoCAD, Civil 3D e modelagem 3D**\n  ;\n* Experiência com projetos de infraestrutura civil;\n* Conhecimento em integração multidisciplinar;\n* Organização, atenção aos detalhes e responsabilidade com prazos.\n\nSe você busca uma oportunidade para atuar em projetos desafiadores e contribuir com soluções técnicas em um ambiente colaborativo, queremos conhecer você.",
-      "search_term": "arquiteta",
+      "search_term": "projetista de arquitetura",
       "search_mode": "hybrid",
       "validation": "Não validada",
       "validated_url": null,
@@ -122,7 +121,7 @@
       "interval": null,
       "emails": null,
       "description": null,
-      "search_term": "arquiteta",
+      "search_term": "projetista de arquitetura",
       "search_mode": "hybrid",
       "validation": "Validada",
       "validated_url": "https://www.linkedin.com/jobs/view/4491791319",
@@ -139,8 +138,8 @@
       "company": "Arcadis",
       "location": "Belo Horizonte, Minas Gerais, Brazil",
       "is_remote": false,
-      "job_type": null,
-      "job_level": null,
+      "job_type": "fulltime",
+      "job_level": "not applicable",
       "date_posted": "2026-11-17",
       "job_url": "https://www.linkedin.com/jobs/view/4456942069",
       "job_url_direct": null,
@@ -149,8 +148,8 @@
       "currency": null,
       "interval": null,
       "emails": null,
-      "description": null,
-      "search_term": "arquiteta",
+      "description": "Sobre a Arcadis:\n  \n  \nA Arcadis é a empresa líder mundial em soluções sustentáveis de design, engenharia e consultoria para ativos naturais e construídos. Somos mais de 34.000 pessoas, em mais de 30 países, dedicadas a melhorar a qualidade de vida. Todos têm um papel importante a desempenhar. Com o poder de muitas mentes curiosas, podemos resolver os desafios mais complexos do mundo e ter um impacto ainda maiores juntos.\n  \n  \n**Descrição da função:**\nAtuar no desenvolvimento de projetos de infraestrutura de transportes, com foco em empreendimentos rodoviários e ferroviários. O profissional participará de equipes multidisciplinares responsáveis pela elaboração de projetos de geometria, terraplenagem, drenagem, saneamento e infraestrutura civil, contribuindo para a entrega de soluções técnicas de alta qualidade. A posição exige forte capacidade de comunicação, colaboração entre áreas e interesse contínuo em aprendizado e desenvolvimento profissional.\n  \n  \n**Localização:**\nSão Paulo (SP), Belo Horizonte (MG) ou São Luís (MA).\n  \n  \n**Responsabilidades da função:**\n\n* Desenvolver e apoiar projetos de infraestrutura de transportes, incluindo rodovias e ferrovias.\n* Elaborar estudos e projetos de geometria viária, terraplenagem, drenagem e saneamento.\n* Participar da modelagem e detalhamento técnico utilizando ferramentas de engenharia.\n* Atuar em projetos de terraplenagem de platôs e movimentação de terra.\n* Trabalhar em conjunto com equipes multidisciplinares, garantindo integração entre as diversas disciplinas do projeto.\n* Produzir desenhos, relatórios técnicos e demais documentos de engenharia.\n* Participar de reuniões técnicas e colaborar com clientes, parceiros e equipes internas.\n* Buscar continuamente novos conhecimentos, metodologias e ferramentas aplicáveis aos projetos.\n\n**Qualificações e experiência:**\n**Formação**\n\n* Técnico em Edificações, Técnico em Estradas ou áreas correlatas; ou\n* Graduação em Engenharia Civil.\n\n**Conhecimentos Técnicos**\n\n* Experiência ou conhecimento em projetos de infraestrutura de transportes.\n* Conhecimento em projetos rodoviários e ferroviários.\n* Conhecimento em geometria viária, terraplenagem, drenagem e saneamento.\n* Experiência com movimentação de terra e terraplenagem de platôs será considerada um diferencial.\n\n**Ferramentas**\n\n* AutoCAD.\n* Civil 3D.\n* Conhecimento em modelagem e desenvolvimento de projetos de infraestrutura utilizando Civil 3D.\n\nPor que escolher a Arcadis?\n  \n  \nSó podemos alcançar nossos objetivos quando todos têm a capacidade de ser o melhor que podem ser. Acreditamos que a contribuição de todos é importante. É por isso que somos pioneiros em uma abordagem baseada em habilidades, onde você pode aproveitar suas experiências e conhecimento único para traçar seu caminho profissional e maximizar o impacto que podemos gerar juntos.\n  \n  \nVocê realizará um trabalho significativo e, não importa qual seja o cargo, ajudando a oferecer soluções sustentáveis para um planeta mais próspero. Faça sua marca, em sua carreira, colegas, clientes, vida e no mundo ao seu redor.\n  \n  \nJuntos, podemos criar um legado duradouro.\n  \n  \nNosso Compromisso com Igualdade, Diversidade, Inclusão e Pertencimento:\n  \n  \nQueremos que você possa trazer o melhor de si para o trabalho todos os dias, é por isso que levamos a igualdade e a inclusão a sério e nos responsabilizamos por nossas ações. Nossa ambição é ser um empregador de escolha e oferecer um ótimo ambiente de trabalho para todas as nossas pessoas.\n  \n  \nJunte-se à Arcadis. Crie um legado.",
+      "search_term": "projetista de arquitetura",
       "search_mode": "hybrid",
       "validation": "Validada",
       "validated_url": "https://www.linkedin.com/jobs/view/4456942069",
@@ -167,8 +166,8 @@
       "company": "Hatch",
       "location": "Belo Horizonte, Minas Gerais, Brazil",
       "is_remote": false,
-      "job_type": null,
-      "job_level": null,
+      "job_type": "fulltime",
+      "job_level": "mid-senior level",
       "date_posted": "2026-11-18",
       "job_url": "https://www.linkedin.com/jobs/view/4475132493",
       "job_url_direct": null,
@@ -177,7 +176,7 @@
       "currency": null,
       "interval": null,
       "emails": null,
-      "description": null,
+      "description": "**Requisition ID:**\n101841\n  \n  \n**Job Category:**\nEngineering\n  \n  \n**Location:**\nBelo Horizonte, Minas Gerais, Brazil\n  \n  \nJoin a company that is passionately committed to the pursuit of a better world through positive change. With more than 70 years of business and technical expertise in mining , energy , and infrastructure , our 10,000 colleagues in 150 countries tirelessly work toward bettering the industries in which we operate. With practical solutions that are safe, innovative and sustainable, we think globally while acting locally.\n  \n  \nOur Project Delivery Group (PDG) is a dynamic team of professionals passionately committed to world-class project delivery across the globe. With expertise in sustainable studies, asset building and operations, and industry-leading efficiencies, our best-in-class team leverages methodologies, governance and systems that are unparalleled in the engineering space. Are you looking for an opportunity to join a diverse group of professionals who are committed to remaining exceptional? We look forward to hearing from you.\n  \n  \n**As The Successful Candidate, You Will**\n\n* Adhere to and promote the Hatch corporate safety culture\n* Layout complex plant and piping systems using 3D modeling design tools\n* Perform clash detection of models and other disciplines models and coordinate actions and closeout\n* Model existing structures, plant and equipment\n* Ensure all drawings, 2D extractions and piping deliverables are checked to comply with Hatch quality standards Ensure compliance with all relevant engineering standards and project procedures for all design activities\n* In conjunction with engineering staﬀ, prepare design concepts for internal and client reviews\n* Develop and check engineering design details and special items drawings\n* Prepare a list of design deliverables and time based functions to facilitate the planning and control of the piping budget\n* Perform design for piping/mechanical plant models using project specifications/procedures and applying industry best practice\n* Use vendor drawings and information sheets to develop and check the model\n* Coordinate and verify piping Material Take Oﬀs (MTOs)\n* Ensure coordination with designers and engineers of other disciplines\n* Train and mentor junior and intermediate designers and provide guidance on Hatch standards and quality requirements\n* Assist in the preparation and development of project specific procedures\n* Facilitate formal piping design reviews\n* Participate in the selection of piping design candidates\n* Extract stress sketches\n* Coordinate pipe support design including special pipe supports with piping stress analyst input\n* Support the application of piping systems to achieve the best project outcomes\n* Extract and check ISOs\n* Produce piping General Arrangement (GA) and equipment location drawings\n* Provide input to proposals and man-hour estimates\n* Assist in the resolution of piping design issues during project lifecycle, including planning phase, design, procurement, fabrication, construction and commissioning\n* Promote and maintain the application of ethical and professional practices in the execution of piping work.\n\nYou bring to the role: Essential:\n  \n  \n\n* Extensive experience with Bentley and/or Intergraph 3D design systems\n* Thorough understanding of the Hatch HSEC policy and standards\n* Sound design and modeling skills for plant layout, piping design and detailing\n* Thorough knowledge of piping components and materials\n* Sound knowledge of industry or regulatory standards and codes as required for piping design Experience with isometric production control and monitoring\n* Experience with multidisciplinary coordination\n* Proficient in the use of 2D and 3D CAD systems\n* Good communication and interpersonal skills\n* Sound working knowledge of design systems and workflows as they relate to the piping discipline Thorough understanding of PFDs and P&IDs\n* Site experience in a piping technical role.\n\n**Preferred**\n\n* Experience within a large project, multidisciplinary EPCM environment\n* Knowledge of laser scanning applications and techniques\n* Strong client focus\n* Good leadership skills\n* Experience in mentoring and supervising designers\n* Strong ability to delegate tasks and promote the eﬀective performance of team members.\n\nWhy join us?\n  \n  \n\n* Work with great people to make a difference\n* Collaborate on exciting projects to develop innovative solutions\n* Top employer\n\nWhat we offer you?\n  \n  \n\n* Flexible work environment\n* Long term career development\n* Think globally, work locally\n\nDon't meet every single requirement? You don't need to. At Hatch, we are building a diverse, inclusive workplace that fosters innovation. If you're interested in this role, we encourage you to apply even if your past experiences don't perfectly align with the skills we've listed.\n  \n  \nWe're committed to fostering a workforce that reflects the diversity of the communities in which we operate and serve. Hatch is an Equal Opportunity Employer that considers applicants without regard to age, race, color, national origin, citizenship, religion, creed, gender, sexual orientation, marital status, disability, veteran, or any other protected status. If you have any accommodation requirements, please let us know. We'll do our best to meet your needs in accordance with applicable local legislation.",
       "search_term": "cadista",
       "search_mode": "hybrid",
       "validation": "Validada",
@@ -186,6 +185,34 @@
         "url": "https://www.linkedin.com/jobs/view/4475132493",
         "status_code": 200,
         "final_url": "https://www.linkedin.com/jobs/view/4475132493",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
+      "title": "Desenhista Projetista",
+      "company": "AFRY",
+      "location": "Greater Belo Horizonte",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": "not applicable",
+      "date_posted": "2026-11-16",
+      "job_url": "https://www.linkedin.com/jobs/view/3994760663",
+      "job_url_direct": null,
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "**Descrição da empresa**\nAFRY é uma empresa europeia líder em serviços de engenharia, projetos e consultoria, com alcance global. Nós aceleraremos a transição para uma sociedade mais sustentável. mais de 19 mil especialistas no mundo dedicados nas áreas de infraestrutura, indústria, energia e digitalização, criando soluções sustentáveis para as próximas gerações.\n  \n  \nNo Brasil, possui cerca de 1.400 colaboradores corajosos, dedicados e trabalhadores em equipe, e atende mais de 50 clientes de diversos setores.\n  \n  \n*Making Future*\n**Descrição do emprego**\n\n* Prestar suporte na elaboração de documentação na disciplina de utilidades de acordo com normas e padrões internas e/ou cliente;\n* Desejável experiência em projetos voltados para sistemas e utilidades, contemplando bombeamentos de água e ar comprimido, além de sistemas de HVAC. Atuação na elaboração de fluxogramas de engenharia, memórias de cálculo, relatórios técnicos e folhas de dados\n\n**Qualificações**\nBase teórica consolidada nas disciplinas de transferência de calor e fluídodinâmica;\n  \n  \nCurso técnico em mecatrônica, química e/ou mecânica\n  \n  \nSerá um diferencial se estiver cursando Engenharia mecatrônica, química e/ou mecânica\n  \n  \n**Informação adicional**\n\n* Experiência em projetos voltados para sistemas de utilidades\n* Inglês será um diferencial;\n* Suporte direto ao supervisor de engenharia de utilidades;\n* Conhecimento e domínio em AutoCad\n\n*At AFRY, we engineer change in everything we do. Change happens when brave ideas come together. When we collaborate, innovate technology, and embrace challenging points of view. That’s how we're making future. We are actively looking for qualified candidates to join our inclusive and diverse teams across the globe. Join us in accelerating the transition towards a sustainable future.*",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/3994760663",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/3994760663",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/3994760663",
         "result": "Validada"
       }
     },
