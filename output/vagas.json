@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-21T16:49:21+00:00",
+  "generated_at": "2026-11-21T21:39:52+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
       "ok_queries": 9,
       "failed_queries": 5,
-      "raw_results": 155,
+      "raw_results": 135,
       "errors": [
-        "analista de arquitetura (hybrid): response status code 429 (blocked: use a proxy)",
+        "analista de arquitetura (remote): response status code 429 (blocked: use a proxy)",
         "arquiteta (hybrid): response status code 429 (blocked: use a proxy)",
-        "arquiteto (hybrid): response status code 429 (blocked: use a proxy)",
-        "assistente de arquitetura (remote): response status code 429 (blocked: use a proxy)",
-        "cadista (hybrid): response status code 429 (blocked: use a proxy)"
+        "projetista de arquitetura (remote): response status code 429 (blocked: use a proxy)",
+        "cadista (remote): response status code 429 (blocked: use a proxy)",
+        "desenhista (hybrid): response status code 429 (blocked: use a proxy)"
       ]
     },
     "indeed": {
@@ -21,7 +21,7 @@
       "errors": []
     }
   },
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
       "site": "indeed",
@@ -81,34 +81,6 @@
     },
     {
       "site": "linkedin",
-      "title": "PROJETISTA PL_6153",
-      "company": "Arcadis",
-      "location": "Belo Horizonte, Minas Gerais, Brazil",
-      "is_remote": false,
-      "job_type": null,
-      "job_level": null,
-      "date_posted": "2026-11-17",
-      "job_url": "https://www.linkedin.com/jobs/view/4456942069",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": null,
-      "search_term": "arquiteta",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/4456942069",
-      "validation_detail": {
-        "url": "https://www.linkedin.com/jobs/view/4456942069",
-        "status_code": 200,
-        "final_url": "https://www.linkedin.com/jobs/view/4456942069",
-        "result": "Validada"
-      }
-    },
-    {
-      "site": "linkedin",
       "title": "Projetista de Infraestrutura",
       "company": "Drawind Do Brasil",
       "location": "Greater Belo Horizonte",
@@ -141,8 +113,8 @@
       "company": "MCA Auditoria e Gerenciamento Ltda",
       "location": "Nova Lima, Minas Gerais, Brazil",
       "is_remote": false,
-      "job_type": null,
-      "job_level": null,
+      "job_type": "fulltime",
+      "job_level": "not applicable",
       "date_posted": "2026-11-18",
       "job_url": "https://www.linkedin.com/jobs/view/4491791319",
       "job_url_direct": null,
@@ -151,7 +123,7 @@
       "currency": null,
       "interval": null,
       "emails": null,
-      "description": null,
+      "description": "**#VemSerMCA**\nNa MCA, consolidamos nossa posição como líderes em Consultoria, Auditoria e Gerenciamento de Projetos desde 2002. Pelo segundo ano consecutivo, recebemos o reconhecimento da revista 'O Empreiteiro' como a principal empresa na categoria de Projetos e Consultoria em todo o estado de Minas Gerais, além de nos orgulharmos de ocupar a quarta posição no Ranking Nacional. Nossa abordagem une engenharia, gestão e talento humano para conceber soluções criativas e impactantes. Além disso, mantemos o compromisso com a qualidade e a inovação, como evidenciado por nossa Certificação ISO 9001, ISO 14001 e ISO 45001.\n  \n  \n**Quem Somos:**\nCultivamos uma cultura baseada em integridade, ética e excelência técnica. Operamos com transparência, enfrentando crises com resiliência e inovação. Nossa missão é atuar em engenharia consultiva, gerenciamento de projetos, auditorias e fiscalização, impactando positivamente pessoas e empresas.\n  \n  \n**O que Valorizamos:**\nFaça parte de uma equipe que valoriza bem-estar, alegria e equilíbrio no trabalho. Buscamos profissionais comprometidos, que valorizam colaboração, interação e aprendizado contínuo. Na MCA, trabalhamos de forma colaborativa e todos torcem uns pelos outros.\n  \n  \n**Nossa Presença:**\nPresentes em todo o Brasil, empregamos mais de 2 mil pessoas e atuamos em setores como Mineração, Siderúrgico, Infraestrutura, entre outros. Construímos um futuro sustentável e impactante.\n  \n  \n**Junte-se ao Time MCA:**\nSe busca um ambiente acolhedor, que respeita as diferenças, estimula o progresso das pessoas e busca constantemente a inovação, #VemSerMCA. Junte-se ao time que transforma desafios em oportunidades. Na MCA, construímos juntos o futuro. Vem ser parte dessa comunidade!\n  \n  \n**E suas principais atividades serão:**\n\n* Apoiar no desenvolvimento das modelagens avançadas no Autodesk Civil 3D, contemplando superfícies, corredores e projetos de movimentação de terra em larga escala.\n* Realizar cálculos de volumes e elaborar documentação técnica de suporte às atividades de engenharia.\n* Conferir os volumes de serviços executados em campo, por meio de levantamentos topográficos e comparações com os projetos fornecidos pela projetista.\n* Verificar e validar geometrias, assegurando a conformidade entre os projetos e as condições executadas.\n* Acompanhar e validar os quantitativos e volumes executados em conjunto com a equipe de Planejamento.\n* Elaborar relatórios diários e semanais de acompanhamento dos volumes executados, subsidiando o controle e o planejamento das atividades.\n\n**Para esta posição, esperamos que você tenha:**\n\n* Formação: Engenharia Civil e/ou Engenharia de Minas e/ou Técnico em Edificações e/ou Técnico em Agrimensura e/ou áreas correlatas;\n* Experiência com softwares específicos de disposição de rejeitos (Muk3D ou Rift TD);\n* Conhecimento intermediário de Navisworks e Infraworks;\n* Conhecimento de plataforma topográfica digital (Maply / Propeller / Sitescan);\n* Vivência com topografia e as-builts;\n* Inglês Intermediário/Avançado;\n* Desejável conhecimento ou experiência na norma ISO 14001: Sistema de Gestão Ambiental (SGA).\n\nE aí, topa embarcar nessa?!\n  \n  \nVem se juntar ao nosso time incrível na MCA!",
       "search_term": "projetista de arquitetura",
       "search_mode": "hybrid",
       "validation": "Validada",
@@ -160,6 +132,34 @@
         "url": "https://www.linkedin.com/jobs/view/4491791319",
         "status_code": 200,
         "final_url": "https://www.linkedin.com/jobs/view/4491791319",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
+      "title": "PROJETISTA PL_6153",
+      "company": "Arcadis",
+      "location": "Belo Horizonte, Minas Gerais, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": "not applicable",
+      "date_posted": "2026-11-17",
+      "job_url": "https://www.linkedin.com/jobs/view/4456942069",
+      "job_url_direct": null,
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "Sobre a Arcadis:\n  \n  \nA Arcadis é a empresa líder mundial em soluções sustentáveis de design, engenharia e consultoria para ativos naturais e construídos. Somos mais de 34.000 pessoas, em mais de 30 países, dedicadas a melhorar a qualidade de vida. Todos têm um papel importante a desempenhar. Com o poder de muitas mentes curiosas, podemos resolver os desafios mais complexos do mundo e ter um impacto ainda maiores juntos.\n  \n  \n**Descrição da função:**\nAtuar no desenvolvimento de projetos de infraestrutura de transportes, com foco em empreendimentos rodoviários e ferroviários. O profissional participará de equipes multidisciplinares responsáveis pela elaboração de projetos de geometria, terraplenagem, drenagem, saneamento e infraestrutura civil, contribuindo para a entrega de soluções técnicas de alta qualidade. A posição exige forte capacidade de comunicação, colaboração entre áreas e interesse contínuo em aprendizado e desenvolvimento profissional.\n  \n  \n**Localização:**\nSão Paulo (SP), Belo Horizonte (MG) ou São Luís (MA).\n  \n  \n**Responsabilidades da função:**\n\n* Desenvolver e apoiar projetos de infraestrutura de transportes, incluindo rodovias e ferrovias.\n* Elaborar estudos e projetos de geometria viária, terraplenagem, drenagem e saneamento.\n* Participar da modelagem e detalhamento técnico utilizando ferramentas de engenharia.\n* Atuar em projetos de terraplenagem de platôs e movimentação de terra.\n* Trabalhar em conjunto com equipes multidisciplinares, garantindo integração entre as diversas disciplinas do projeto.\n* Produzir desenhos, relatórios técnicos e demais documentos de engenharia.\n* Participar de reuniões técnicas e colaborar com clientes, parceiros e equipes internas.\n* Buscar continuamente novos conhecimentos, metodologias e ferramentas aplicáveis aos projetos.\n\n**Qualificações e experiência:**\n**Formação**\n\n* Técnico em Edificações, Técnico em Estradas ou áreas correlatas; ou\n* Graduação em Engenharia Civil.\n\n**Conhecimentos Técnicos**\n\n* Experiência ou conhecimento em projetos de infraestrutura de transportes.\n* Conhecimento em projetos rodoviários e ferroviários.\n* Conhecimento em geometria viária, terraplenagem, drenagem e saneamento.\n* Experiência com movimentação de terra e terraplenagem de platôs será considerada um diferencial.\n\n**Ferramentas**\n\n* AutoCAD.\n* Civil 3D.\n* Conhecimento em modelagem e desenvolvimento de projetos de infraestrutura utilizando Civil 3D.\n\nPor que escolher a Arcadis?\n  \n  \nSó podemos alcançar nossos objetivos quando todos têm a capacidade de ser o melhor que podem ser. Acreditamos que a contribuição de todos é importante. É por isso que somos pioneiros em uma abordagem baseada em habilidades, onde você pode aproveitar suas experiências e conhecimento único para traçar seu caminho profissional e maximizar o impacto que podemos gerar juntos.\n  \n  \nVocê realizará um trabalho significativo e, não importa qual seja o cargo, ajudando a oferecer soluções sustentáveis para um planeta mais próspero. Faça sua marca, em sua carreira, colegas, clientes, vida e no mundo ao seu redor.\n  \n  \nJuntos, podemos criar um legado duradouro.\n  \n  \nNosso Compromisso com Igualdade, Diversidade, Inclusão e Pertencimento:\n  \n  \nQueremos que você possa trazer o melhor de si para o trabalho todos os dias, é por isso que levamos a igualdade e a inclusão a sério e nos responsabilizamos por nossas ações. Nossa ambição é ser um empregador de escolha e oferecer um ótimo ambiente de trabalho para todas as nossas pessoas.\n  \n  \nJunte-se à Arcadis. Crie um legado.",
+      "search_term": "projetista de arquitetura",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4456942069",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4456942069",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4456942069",
         "result": "Validada"
       }
     },
@@ -180,7 +180,7 @@
       "interval": null,
       "emails": null,
       "description": null,
-      "search_term": "desenhista",
+      "search_term": "cadista",
       "search_mode": "hybrid",
       "validation": "Validada",
       "validated_url": "https://www.linkedin.com/jobs/view/4475132493",
@@ -188,34 +188,6 @@
         "url": "https://www.linkedin.com/jobs/view/4475132493",
         "status_code": 200,
         "final_url": "https://www.linkedin.com/jobs/view/4475132493",
-        "result": "Validada"
-      }
-    },
-    {
-      "site": "linkedin",
-      "title": "Desenhista Projetista",
-      "company": "AFRY",
-      "location": "Greater Belo Horizonte",
-      "is_remote": false,
-      "job_type": null,
-      "job_level": null,
-      "date_posted": "2026-11-16",
-      "job_url": "https://www.linkedin.com/jobs/view/3994760663",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": null,
-      "search_term": "desenhista",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/3994760663",
-      "validation_detail": {
-        "url": "https://www.linkedin.com/jobs/view/3994760663",
-        "status_code": 200,
-        "final_url": "https://www.linkedin.com/jobs/view/3994760663",
         "result": "Validada"
       }
     },
