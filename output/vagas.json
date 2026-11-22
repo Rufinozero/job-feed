@@ -1,19 +1,17 @@
 {
-  "generated_at": "2026-11-22T16:33:24+00:00",
+  "generated_at": "2026-11-22T21:21:05+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
-      "ok_queries": 13,
-      "failed_queries": 1,
-      "raw_results": 205,
-      "errors": [
-        "analista de arquitetura (remote): response status code 429 (blocked: use a proxy)"
-      ]
+      "ok_queries": 14,
+      "failed_queries": 0,
+      "raw_results": 210,
+      "errors": []
     },
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 55,
+      "raw_results": 56,
       "errors": []
     }
   },
@@ -137,8 +135,8 @@
       "company": "Arcadis",
       "location": "Belo Horizonte, Minas Gerais, Brazil",
       "is_remote": false,
-      "job_type": null,
-      "job_level": null,
+      "job_type": "fulltime",
+      "job_level": "not applicable",
       "date_posted": "2026-11-17",
       "job_url": "https://www.linkedin.com/jobs/view/4456942069",
       "job_url_direct": null,
@@ -147,7 +145,7 @@
       "currency": null,
       "interval": null,
       "emails": null,
-      "description": null,
+      "description": "Sobre a Arcadis:\n  \n  \nA Arcadis é a empresa líder mundial em soluções sustentáveis de design, engenharia e consultoria para ativos naturais e construídos. Somos mais de 34.000 pessoas, em mais de 30 países, dedicadas a melhorar a qualidade de vida. Todos têm um papel importante a desempenhar. Com o poder de muitas mentes curiosas, podemos resolver os desafios mais complexos do mundo e ter um impacto ainda maiores juntos.\n  \n  \n**Descrição da função:**\nAtuar no desenvolvimento de projetos de infraestrutura de transportes, com foco em empreendimentos rodoviários e ferroviários. O profissional participará de equipes multidisciplinares responsáveis pela elaboração de projetos de geometria, terraplenagem, drenagem, saneamento e infraestrutura civil, contribuindo para a entrega de soluções técnicas de alta qualidade. A posição exige forte capacidade de comunicação, colaboração entre áreas e interesse contínuo em aprendizado e desenvolvimento profissional.\n  \n  \n**Localização:**\nSão Paulo (SP), Belo Horizonte (MG) ou São Luís (MA).\n  \n  \n**Responsabilidades da função:**\n\n* Desenvolver e apoiar projetos de infraestrutura de transportes, incluindo rodovias e ferrovias.\n* Elaborar estudos e projetos de geometria viária, terraplenagem, drenagem e saneamento.\n* Participar da modelagem e detalhamento técnico utilizando ferramentas de engenharia.\n* Atuar em projetos de terraplenagem de platôs e movimentação de terra.\n* Trabalhar em conjunto com equipes multidisciplinares, garantindo integração entre as diversas disciplinas do projeto.\n* Produzir desenhos, relatórios técnicos e demais documentos de engenharia.\n* Participar de reuniões técnicas e colaborar com clientes, parceiros e equipes internas.\n* Buscar continuamente novos conhecimentos, metodologias e ferramentas aplicáveis aos projetos.\n\n**Qualificações e experiência:**\n**Formação**\n\n* Técnico em Edificações, Técnico em Estradas ou áreas correlatas; ou\n* Graduação em Engenharia Civil.\n\n**Conhecimentos Técnicos**\n\n* Experiência ou conhecimento em projetos de infraestrutura de transportes.\n* Conhecimento em projetos rodoviários e ferroviários.\n* Conhecimento em geometria viária, terraplenagem, drenagem e saneamento.\n* Experiência com movimentação de terra e terraplenagem de platôs será considerada um diferencial.\n\n**Ferramentas**\n\n* AutoCAD.\n* Civil 3D.\n* Conhecimento em modelagem e desenvolvimento de projetos de infraestrutura utilizando Civil 3D.\n\nPor que escolher a Arcadis?\n  \n  \nSó podemos alcançar nossos objetivos quando todos têm a capacidade de ser o melhor que podem ser. Acreditamos que a contribuição de todos é importante. É por isso que somos pioneiros em uma abordagem baseada em habilidades, onde você pode aproveitar suas experiências e conhecimento único para traçar seu caminho profissional e maximizar o impacto que podemos gerar juntos.\n  \n  \nVocê realizará um trabalho significativo e, não importa qual seja o cargo, ajudando a oferecer soluções sustentáveis para um planeta mais próspero. Faça sua marca, em sua carreira, colegas, clientes, vida e no mundo ao seu redor.\n  \n  \nJuntos, podemos criar um legado duradouro.\n  \n  \nNosso Compromisso com Igualdade, Diversidade, Inclusão e Pertencimento:\n  \n  \nQueremos que você possa trazer o melhor de si para o trabalho todos os dias, é por isso que levamos a igualdade e a inclusão a sério e nos responsabilizamos por nossas ações. Nossa ambição é ser um empregador de escolha e oferecer um ótimo ambiente de trabalho para todas as nossas pessoas.\n  \n  \nJunte-se à Arcadis. Crie um legado.",
       "search_term": "arquiteta",
       "search_mode": "hybrid",
       "validation": "Validada",
