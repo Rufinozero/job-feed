@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:21:05+00:00",
+  "generated_at": "2026-11-23T20:18:44+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
@@ -11,12 +11,40 @@
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 56,
+      "raw_results": 61,
       "errors": []
     }
   },
   "total_jobs": 10,
   "jobs": [
+    {
+      "site": "indeed",
+      "title": "DESENHISTA CADISTA - Sagrada Família (Engemaster Engenharia)",
+      "company": "Jobbol",
+      "location": "Belo Horizonte, MG, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": null,
+      "date_posted": "2026-11-23",
+      "job_url": "https://br.indeed.com/viewjob?jk=db2fe35b9d583098",
+      "job_url_direct": "https://www.jobbol.com.br/vaga/172865-desenhista-cadista?cidade=2310",
+      "min_amount": 2000.0,
+      "max_amount": 2000.0,
+      "currency": "BRL",
+      "interval": "monthly",
+      "emails": null,
+      "description": "Empresa de Engenharia busca profissional Desenhista Cadista em Belo Horizonte (Sagrada Família).\n\nAtua na elaboração de projetos e na prestação de serviços de engenharia para diferentes demandas técnicas. Desenvolve soluções compatíveis com atividades de desenho técnico e uso de AutoCAD.\n\n**Responsabilidades:**\n\nElaborar desenhos técnicos e plantas conforme orientações recebidas. Apoiar a atualização e a organização de documentos técnicos e registros de projetos. Realizar ajustes em desenhos e detalhamentos conforme revisões solicitadas pela equipe responsável. Apoiar a compatibilização de informações técnicas entre diferentes áreas envolvidas no projeto.\n\nAtuações anteriores em Projetista Cadista, Desenhista Técnico, Desenhista de Projetos ou Técnico em CAD podem indicar afinidade com algumas das atividades desta posição.\n\nEnsino médio completo Necessário experiência\n  \n**Remuneração e Benefícios:**\n\n* Salário: 2000.00\n* Plano de saúde |Seguro de Vida |Vale Alimentação |Vale Transporte\n\n**Informações adicionais:**\n\n* #VagaUrgente\n* Contrato: Efetivo - Presencial.\n* Período: Tempo Integral\n* Jornada: Segunda a sexta-feira, 08:00 às 17:00.",
+      "search_term": "cadista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.jobbol.com.br/vaga/172865-desenhista-cadista?cidade=2310",
+      "validation_detail": {
+        "url": "https://www.jobbol.com.br/vaga/172865-desenhista-cadista?cidade=2310",
+        "status_code": 200,
+        "final_url": "https://www.jobbol.com.br/vaga/172865-desenhista-cadista",
+        "result": "Validada"
+      }
+    },
     {
       "site": "indeed",
       "title": "558.7417523 - PESSOA PROJETISTA SENIOR",
@@ -70,34 +98,6 @@
         "url": "https://kairosgestaodecomportamentoltda.pandape.com.br/Detail/3939652?ov=5&xtor=AL-366332663",
         "status_code": 200,
         "final_url": "https://kairosgestaodecomportamentoltda.pandape.infojobs.com.br/Detail/3939652?ov=5&xtor=AL-366332663",
-        "result": "Validada"
-      }
-    },
-    {
-      "site": "linkedin",
-      "title": "Projetista de Infraestrutura",
-      "company": "Drawind Do Brasil",
-      "location": "Greater Belo Horizonte",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": "mid-senior level",
-      "date_posted": "2026-11-19",
-      "job_url": "https://www.linkedin.com/jobs/view/4492431110",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "A Drawind está em busca de um(a)\n**Projetista de Infraestrutura**\npara atuar no desenvolvimento e detalhamento de projetos de infraestrutura civil, com foco em qualidade técnica, integração multidisciplinar e atendimento aos critérios e normas aplicáveis aos projetos.\n\n**Principais responsabilidades:**\n\n* Desenvolver projetos e detalhamentos de infraestrutura;\n* Elaborar e revisar desenhos e documentos técnicos;\n* Interpretar plantas, croquis, critérios e informações de projeto;\n* Atuar com projetos de\n  **terraplenagem, drenagem e pavimentação**\n  ;\n* Realizar visitas de campo e elaborar relatórios;\n* Desenvolver listas de materiais e equipamentos;\n* Realizar interface técnica com outras disciplinas;\n* Apoiar o controle de revisões e organização da documentação dos projetos.\n\n**Requisitos:**\n\n* Formação técnica em Construção Civil, Edificações, Agrimensura ou áreas correlatas, ou Engenharia Civil completa/em andamento;\n* **Domínio de AutoCAD, Civil 3D e modelagem 3D**\n  ;\n* Experiência com projetos de infraestrutura civil;\n* Conhecimento em integração multidisciplinar;\n* Organização, atenção aos detalhes e responsabilidade com prazos.\n\nSe você busca uma oportunidade para atuar em projetos desafiadores e contribuir com soluções técnicas em um ambiente colaborativo, queremos conhecer você.",
-      "search_term": "arquiteta",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/4492431110",
-      "validation_detail": {
-        "url": "https://www.linkedin.com/jobs/view/4492431110",
-        "status_code": 200,
-        "final_url": "https://www.linkedin.com/jobs/view/4492431110",
         "result": "Validada"
       }
     },
@@ -159,6 +159,34 @@
     },
     {
       "site": "linkedin",
+      "title": "Desenhista Cadista",
+      "company": "Jobbol",
+      "location": "Belo Horizonte, Minas Gerais, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": "entry level",
+      "date_posted": "2026-11-23",
+      "job_url": "https://www.linkedin.com/jobs/view/4493659784",
+      "job_url_direct": null,
+      "min_amount": 2000.0,
+      "max_amount": 2000.0,
+      "currency": "R$",
+      "interval": "monthly",
+      "emails": null,
+      "description": "Empresa de Engenharia busca profissional Desenhista Cadista em Belo Horizonte (Sagrada Família).\n  \n  \n**Responsabilidades**\nElaborar desenhos técnicos e plantas conforme orientações recebidas. Apoiar a atualização e a organização de documentos técnicos e registros de projetos. Realizar ajustes em desenhos e detalhamentos conforme revisões solicitadas pela equipe responsável. Apoiar a compatibilização de informações técnicas entre diferentes áreas envolvidas no projeto.\n  \n  \nAtuações anteriores em Projetista Cadista, Desenhista Técnico, Desenhista de Projetos ou Técnico em CAD podem indicar afinidade com algumas das atividades desta posição.\n  \n  \n**Requisitos Desejáveis**\n**Escolaridade:**\nEnsino médio completo\n  \n  \n**Experiência:**\nNecessário experiência\n  \n  \n**Remuneração e Benefícios**\n\n* Salário: 2000.00\n* Plano de saúde |Seguro de Vida |Vale Alimentação |Vale Transporte\n\n**Informações Adicionais**\n\n* Contrato: Efetivo. Presencial. Candidatos de Nova Lima, Sabará, Contagem ou Raposos também são considerados para esta vaga.\n* Período: Tempo Integral\n* Jornada: Segunda a sexta-feira, 08:00 às 17:00.",
+      "search_term": "cadista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4493659784",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4493659784",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4493659784",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
       "title": "BR- Piping Designer | (Projetista de Tubulação )",
       "company": "Hatch",
       "location": "Belo Horizonte, Minas Gerais, Brazil",
@@ -174,7 +202,7 @@
       "interval": null,
       "emails": null,
       "description": "**Requisition ID:**\n101841\n  \n  \n**Job Category:**\nEngineering\n  \n  \n**Location:**\nBelo Horizonte, Minas Gerais, Brazil\n  \n  \nJoin a company that is passionately committed to the pursuit of a better world through positive change. With more than 70 years of business and technical expertise in mining , energy , and infrastructure , our 10,000 colleagues in 150 countries tirelessly work toward bettering the industries in which we operate. With practical solutions that are safe, innovative and sustainable, we think globally while acting locally.\n  \n  \nOur Project Delivery Group (PDG) is a dynamic team of professionals passionately committed to world-class project delivery across the globe. With expertise in sustainable studies, asset building and operations, and industry-leading efficiencies, our best-in-class team leverages methodologies, governance and systems that are unparalleled in the engineering space. Are you looking for an opportunity to join a diverse group of professionals who are committed to remaining exceptional? We look forward to hearing from you.\n  \n  \n**As The Successful Candidate, You Will**\n\n* Adhere to and promote the Hatch corporate safety culture\n* Layout complex plant and piping systems using 3D modeling design tools\n* Perform clash detection of models and other disciplines models and coordinate actions and closeout\n* Model existing structures, plant and equipment\n* Ensure all drawings, 2D extractions and piping deliverables are checked to comply with Hatch quality standards Ensure compliance with all relevant engineering standards and project procedures for all design activities\n* In conjunction with engineering staﬀ, prepare design concepts for internal and client reviews\n* Develop and check engineering design details and special items drawings\n* Prepare a list of design deliverables and time based functions to facilitate the planning and control of the piping budget\n* Perform design for piping/mechanical plant models using project specifications/procedures and applying industry best practice\n* Use vendor drawings and information sheets to develop and check the model\n* Coordinate and verify piping Material Take Oﬀs (MTOs)\n* Ensure coordination with designers and engineers of other disciplines\n* Train and mentor junior and intermediate designers and provide guidance on Hatch standards and quality requirements\n* Assist in the preparation and development of project specific procedures\n* Facilitate formal piping design reviews\n* Participate in the selection of piping design candidates\n* Extract stress sketches\n* Coordinate pipe support design including special pipe supports with piping stress analyst input\n* Support the application of piping systems to achieve the best project outcomes\n* Extract and check ISOs\n* Produce piping General Arrangement (GA) and equipment location drawings\n* Provide input to proposals and man-hour estimates\n* Assist in the resolution of piping design issues during project lifecycle, including planning phase, design, procurement, fabrication, construction and commissioning\n* Promote and maintain the application of ethical and professional practices in the execution of piping work.\n\nYou bring to the role: Essential:\n  \n  \n\n* Extensive experience with Bentley and/or Intergraph 3D design systems\n* Thorough understanding of the Hatch HSEC policy and standards\n* Sound design and modeling skills for plant layout, piping design and detailing\n* Thorough knowledge of piping components and materials\n* Sound knowledge of industry or regulatory standards and codes as required for piping design Experience with isometric production control and monitoring\n* Experience with multidisciplinary coordination\n* Proficient in the use of 2D and 3D CAD systems\n* Good communication and interpersonal skills\n* Sound working knowledge of design systems and workflows as they relate to the piping discipline Thorough understanding of PFDs and P&IDs\n* Site experience in a piping technical role.\n\n**Preferred**\n\n* Experience within a large project, multidisciplinary EPCM environment\n* Knowledge of laser scanning applications and techniques\n* Strong client focus\n* Good leadership skills\n* Experience in mentoring and supervising designers\n* Strong ability to delegate tasks and promote the eﬀective performance of team members.\n\nWhy join us?\n  \n  \n\n* Work with great people to make a difference\n* Collaborate on exciting projects to develop innovative solutions\n* Top employer\n\nWhat we offer you?\n  \n  \n\n* Flexible work environment\n* Long term career development\n* Think globally, work locally\n\nDon't meet every single requirement? You don't need to. At Hatch, we are building a diverse, inclusive workplace that fosters innovation. If you're interested in this role, we encourage you to apply even if your past experiences don't perfectly align with the skills we've listed.\n  \n  \nWe're committed to fostering a workforce that reflects the diversity of the communities in which we operate and serve. Hatch is an Equal Opportunity Employer that considers applicants without regard to age, race, color, national origin, citizenship, religion, creed, gender, sexual orientation, marital status, disability, veteran, or any other protected status. If you have any accommodation requirements, please let us know. We'll do our best to meet your needs in accordance with applicable local legislation.",
-      "search_term": "cadista",
+      "search_term": "desenhista",
       "search_mode": "hybrid",
       "validation": "Validada",
       "validated_url": "https://www.linkedin.com/jobs/view/4475132493",
@@ -182,34 +210,6 @@
         "url": "https://www.linkedin.com/jobs/view/4475132493",
         "status_code": 200,
         "final_url": "https://www.linkedin.com/jobs/view/4475132493",
-        "result": "Validada"
-      }
-    },
-    {
-      "site": "linkedin",
-      "title": "Desenhista Projetista",
-      "company": "AFRY",
-      "location": "Greater Belo Horizonte",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": "not applicable",
-      "date_posted": "2026-11-16",
-      "job_url": "https://www.linkedin.com/jobs/view/3994760663",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "**Descrição da empresa**\nAFRY é uma empresa europeia líder em serviços de engenharia, projetos e consultoria, com alcance global. Nós aceleraremos a transição para uma sociedade mais sustentável. mais de 19 mil especialistas no mundo dedicados nas áreas de infraestrutura, indústria, energia e digitalização, criando soluções sustentáveis para as próximas gerações.\n  \n  \nNo Brasil, possui cerca de 1.400 colaboradores corajosos, dedicados e trabalhadores em equipe, e atende mais de 50 clientes de diversos setores.\n  \n  \n*Making Future*\n**Descrição do emprego**\n\n* Prestar suporte na elaboração de documentação na disciplina de utilidades de acordo com normas e padrões internas e/ou cliente;\n* Desejável experiência em projetos voltados para sistemas e utilidades, contemplando bombeamentos de água e ar comprimido, além de sistemas de HVAC. Atuação na elaboração de fluxogramas de engenharia, memórias de cálculo, relatórios técnicos e folhas de dados\n\n**Qualificações**\nBase teórica consolidada nas disciplinas de transferência de calor e fluídodinâmica;\n  \n  \nCurso técnico em mecatrônica, química e/ou mecânica\n  \n  \nSerá um diferencial se estiver cursando Engenharia mecatrônica, química e/ou mecânica\n  \n  \n**Informação adicional**\n\n* Experiência em projetos voltados para sistemas de utilidades\n* Inglês será um diferencial;\n* Suporte direto ao supervisor de engenharia de utilidades;\n* Conhecimento e domínio em AutoCad\n\n*At AFRY, we engineer change in everything we do. Change happens when brave ideas come together. When we collaborate, innovate technology, and embrace challenging points of view. That’s how we're making future. We are actively looking for qualified candidates to join our inclusive and diverse teams across the globe. Join us in accelerating the transition towards a sustainable future.*",
-      "search_term": "desenhista",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/3994760663",
-      "validation_detail": {
-        "url": "https://www.linkedin.com/jobs/view/3994760663",
-        "status_code": 200,
-        "final_url": "https://www.linkedin.com/jobs/view/3994760663",
         "result": "Validada"
       }
     },
