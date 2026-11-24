@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T20:18:44+00:00",
+  "generated_at": "2026-11-24T02:41:38+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
@@ -11,11 +11,11 @@
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 61,
+      "raw_results": 65,
       "errors": []
     }
   },
-  "total_jobs": 10,
+  "total_jobs": 12,
   "jobs": [
     {
       "site": "indeed",
@@ -42,6 +42,34 @@
         "url": "https://www.jobbol.com.br/vaga/172865-desenhista-cadista?cidade=2310",
         "status_code": 200,
         "final_url": "https://www.jobbol.com.br/vaga/172865-desenhista-cadista",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "indeed",
+      "title": "Projetista de Topografia",
+      "company": "ERG ENGENHARIA",
+      "location": "Itabirito, MG, Brazil",
+      "is_remote": false,
+      "job_type": null,
+      "job_level": null,
+      "date_posted": "2026-11-23",
+      "job_url": "https://br.indeed.com/viewjob?jk=94676543b5742be8",
+      "job_url_direct": "https://erg-engenharia.careers.ats.bizneo.cloud/jobs/projetista-de-topografia-93ab9484-d3ab-4989-a2b5-ec9b3b30f3d2",
+      "min_amount": 6499.0,
+      "max_amount": 6500.0,
+      "currency": "BRL",
+      "interval": "monthly",
+      "emails": null,
+      "description": "Analisar e dar orientação para levantamentos topográficos utilizando geotecnologias em escritório e campo;\n\nProcessar dados obtidos por estações totais, níveis, GNSS’s, lasers e VANT’s;\n\nProcessar poligonais (com estação total e pontos GNSS);\n\nAnalisar e dar orientação no desenvolvimento de produtos de topografia;\n\nDesenvolver projetos, plantas, as builts;\n\nProjetar, analisar e compatibilizar projetos conforme as normas técnicas e procedimentos;\n\nPlanejar e controlar atividades (dentro de um cronograma);\n\nPrestar suporte técnico às equipes de campo;\n\nElaborar relatórios técnicos dos projetos desenvolvidos;\n\nConsultar e seguir normas técnicas da (ABNT);\n\nColaborar na definição das diretrizes dos projetos;\n\nElaborar e conferir projetos.\n\nElaborar medições de volumes por superfície e áreas entre contratadas e fiscalização.\n\nDesenvolver projetos e malhas em 3D; tratar e processar nuvens de pontos.\n\nVerificar aderência da execução com o projeto.\n\nLincar projeto, planejamento, execução, e apresentação.\n\n  \n  \n  \n\n**Requerimentos mínimos**\n-------------------------\n\nEscolaridade Ensino técnico ou superior completo em Edificações, Estradas, Agrimensura, Engenharia Civil ou áreas afins.\n\n  \n\nExperiência comprovada.\n\nConhecimentos/Habilidades necessários Conhecimento em topografia e geotecnologias e engenharia; Processamento de dados de drone/VANT, GNSS, estação total e laser scanner. Habilidade em software de desenvolvimento de projeto e processamento de geotecnologias.\n\nConhecimentos/Habilidades desejáveis Carteira de habilitação categoria B ativa.",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://erg-engenharia.careers.ats.bizneo.cloud/jobs/projetista-de-topografia-93ab9484-d3ab-4989-a2b5-ec9b3b30f3d2",
+      "validation_detail": {
+        "url": "https://erg-engenharia.careers.ats.bizneo.cloud/jobs/projetista-de-topografia-93ab9484-d3ab-4989-a2b5-ec9b3b30f3d2",
+        "status_code": 200,
+        "final_url": "https://erg-engenharia.careers.ats.bizneo.cloud/jobs/projetista-de-topografia-93ab9484-d3ab-4989-a2b5-ec9b3b30f3d2",
         "result": "Validada"
       }
     },
@@ -118,7 +146,7 @@
       "interval": null,
       "emails": null,
       "description": "**#VemSerMCA**\nNa MCA, consolidamos nossa posição como líderes em Consultoria, Auditoria e Gerenciamento de Projetos desde 2002. Pelo segundo ano consecutivo, recebemos o reconhecimento da revista 'O Empreiteiro' como a principal empresa na categoria de Projetos e Consultoria em todo o estado de Minas Gerais, além de nos orgulharmos de ocupar a quarta posição no Ranking Nacional. Nossa abordagem une engenharia, gestão e talento humano para conceber soluções criativas e impactantes. Além disso, mantemos o compromisso com a qualidade e a inovação, como evidenciado por nossa Certificação ISO 9001, ISO 14001 e ISO 45001.\n  \n  \n**Quem Somos:**\nCultivamos uma cultura baseada em integridade, ética e excelência técnica. Operamos com transparência, enfrentando crises com resiliência e inovação. Nossa missão é atuar em engenharia consultiva, gerenciamento de projetos, auditorias e fiscalização, impactando positivamente pessoas e empresas.\n  \n  \n**O que Valorizamos:**\nFaça parte de uma equipe que valoriza bem-estar, alegria e equilíbrio no trabalho. Buscamos profissionais comprometidos, que valorizam colaboração, interação e aprendizado contínuo. Na MCA, trabalhamos de forma colaborativa e todos torcem uns pelos outros.\n  \n  \n**Nossa Presença:**\nPresentes em todo o Brasil, empregamos mais de 2 mil pessoas e atuamos em setores como Mineração, Siderúrgico, Infraestrutura, entre outros. Construímos um futuro sustentável e impactante.\n  \n  \n**Junte-se ao Time MCA:**\nSe busca um ambiente acolhedor, que respeita as diferenças, estimula o progresso das pessoas e busca constantemente a inovação, #VemSerMCA. Junte-se ao time que transforma desafios em oportunidades. Na MCA, construímos juntos o futuro. Vem ser parte dessa comunidade!\n  \n  \n**E suas principais atividades serão:**\n\n* Apoiar no desenvolvimento das modelagens avançadas no Autodesk Civil 3D, contemplando superfícies, corredores e projetos de movimentação de terra em larga escala.\n* Realizar cálculos de volumes e elaborar documentação técnica de suporte às atividades de engenharia.\n* Conferir os volumes de serviços executados em campo, por meio de levantamentos topográficos e comparações com os projetos fornecidos pela projetista.\n* Verificar e validar geometrias, assegurando a conformidade entre os projetos e as condições executadas.\n* Acompanhar e validar os quantitativos e volumes executados em conjunto com a equipe de Planejamento.\n* Elaborar relatórios diários e semanais de acompanhamento dos volumes executados, subsidiando o controle e o planejamento das atividades.\n\n**Para esta posição, esperamos que você tenha:**\n\n* Formação: Engenharia Civil e/ou Engenharia de Minas e/ou Técnico em Edificações e/ou Técnico em Agrimensura e/ou áreas correlatas;\n* Experiência com softwares específicos de disposição de rejeitos (Muk3D ou Rift TD);\n* Conhecimento intermediário de Navisworks e Infraworks;\n* Conhecimento de plataforma topográfica digital (Maply / Propeller / Sitescan);\n* Vivência com topografia e as-builts;\n* Inglês Intermediário/Avançado;\n* Desejável conhecimento ou experiência na norma ISO 14001: Sistema de Gestão Ambiental (SGA).\n\nE aí, topa embarcar nessa?!\n  \n  \nVem se juntar ao nosso time incrível na MCA!",
-      "search_term": "arquiteta",
+      "search_term": "analista de arquitetura",
       "search_mode": "hybrid",
       "validation": "Validada",
       "validated_url": "https://www.linkedin.com/jobs/view/4491791319",
@@ -176,13 +204,13 @@
       "description": "Empresa de Engenharia busca profissional Desenhista Cadista em Belo Horizonte (Sagrada Família).\n  \n  \n**Responsabilidades**\nElaborar desenhos técnicos e plantas conforme orientações recebidas. Apoiar a atualização e a organização de documentos técnicos e registros de projetos. Realizar ajustes em desenhos e detalhamentos conforme revisões solicitadas pela equipe responsável. Apoiar a compatibilização de informações técnicas entre diferentes áreas envolvidas no projeto.\n  \n  \nAtuações anteriores em Projetista Cadista, Desenhista Técnico, Desenhista de Projetos ou Técnico em CAD podem indicar afinidade com algumas das atividades desta posição.\n  \n  \n**Requisitos Desejáveis**\n**Escolaridade:**\nEnsino médio completo\n  \n  \n**Experiência:**\nNecessário experiência\n  \n  \n**Remuneração e Benefícios**\n\n* Salário: 2000.00\n* Plano de saúde |Seguro de Vida |Vale Alimentação |Vale Transporte\n\n**Informações Adicionais**\n\n* Contrato: Efetivo. Presencial. Candidatos de Nova Lima, Sabará, Contagem ou Raposos também são considerados para esta vaga.\n* Período: Tempo Integral\n* Jornada: Segunda a sexta-feira, 08:00 às 17:00.",
       "search_term": "cadista",
       "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/4493659784",
+      "validation": "Não validada",
+      "validated_url": null,
       "validation_detail": {
         "url": "https://www.linkedin.com/jobs/view/4493659784",
-        "status_code": 200,
+        "status_code": 429,
         "final_url": "https://www.linkedin.com/jobs/view/4493659784",
-        "result": "Validada"
+        "result": "Não validada"
       }
     },
     {
@@ -211,6 +239,34 @@
         "status_code": 200,
         "final_url": "https://www.linkedin.com/jobs/view/4475132493",
         "result": "Validada"
+      }
+    },
+    {
+      "site": "indeed",
+      "title": "Desenhista",
+      "company": "ORTOP INSTRUMENTOS",
+      "location": "Contagem, MG, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": null,
+      "date_posted": "2026-11-23",
+      "job_url": "https://br.indeed.com/viewjob?jk=c63142691b0638b0",
+      "job_url_direct": null,
+      "min_amount": 2159.0,
+      "max_amount": 2159.0,
+      "currency": "BRL",
+      "interval": "monthly",
+      "emails": null,
+      "description": "Elaborar, revisar e manter a documentação técnica dos produtos, desenhos técnicos, projetos de peças, manuais de construção e listas de materiais — com precisão, organização e rigoroso controle de versões, garantindo que a Produção, o SGQ e o Comercial tenham sempre acesso à especificação técnica correta e atualizada de cada produto, em conformidade com as normas técnicas aplicáveis e com os mais elevados padrões de sigilo e proteção da propriedade intelectual da empresa.\n\n**PRINCIPAIS ATIVIDADES E ENTREGAS ESPERADAS**\n\n* Elaboração e Revisão de Desenhos Técnicos;\n* Documentação Técnica — Manuais, Listas e Especificações;\n* Controle de Versão e Gestão de Arquivos Técnicos;\n* Possuir conhecimento em AutoCad;\n* Possui conhecimento em Solidworks;\n* Possuir conhecimento em desenho a mão livre;\n* Possuir conhecimento em processo de usinagem e ajustagem mecânica;\n* Interface com Produção, Qualidade e Comercial;\n* SGQ, Normas Técnicas e Boas Práticas de Fabricação;\n* Proteção da Propriedade Intelectual, Sigilo e LGPD;\n* Manter a área de trabalho limpa, organizada e em conformidade com os padrões de higiene da produção;\n* Utilizar corretamente os EPIs definidos pelo PGRSS/PGR e reportar imediatamente qualquer avaria ou inadequação;\n* Participar dos programas de treinamento introdutório e de integração ao SGQ/ISO 13485.\n\nTipo de vaga: Tempo integral, Efetivo CLT\n\nPagamento: R$2.159,00 por mês\n\nBenefícios:\n\n* Assistência médica\n* Assistência odontológica\n* Vale-transporte\n\nEscolaridade:\n\n* Ensino Médio completo (Preferencial)\n\nExperiência:\n\n* AutoCAD e Solid Works (Obrigatório)\n\nLocal do trabalho: Presencial",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Não validada",
+      "validated_url": null,
+      "validation_detail": {
+        "url": "https://br.indeed.com/viewjob?jk=c63142691b0638b0",
+        "status_code": 401,
+        "final_url": "https://br.indeed.com/viewjob?jk=c63142691b0638b0",
+        "result": "Não validada"
       }
     },
     {
