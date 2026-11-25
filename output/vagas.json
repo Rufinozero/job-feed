@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T18:58:56+00:00",
+  "generated_at": "2026-11-25T23:57:07+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
@@ -11,11 +11,11 @@
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 78,
+      "raw_results": 76,
       "errors": []
     }
   },
-  "total_jobs": 10,
+  "total_jobs": 12,
   "jobs": [
     {
       "site": "indeed",
@@ -106,6 +106,34 @@
     },
     {
       "site": "linkedin",
+      "title": "DESENHISTA TÉCNICO / PROJETISTA - ENGENHARIA",
+      "company": "Grupo SA",
+      "location": "Ribeirão das Neves, Minas Gerais, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": "not applicable",
+      "date_posted": "2026-11-25",
+      "job_url": "https://www.linkedin.com/jobs/view/4493060540",
+      "job_url_direct": null,
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "O Desenhista Técnico / Projetista será responsável pelo desenvolvimento e detalhamento de projetos técnicos de sistemas de armazenamento e estruturas metálicas, produzindo desenhos 2D/3D, documentação de fabricação e listas de materiais, conforme normas internas, regulamentos técnicos e especificações do cliente. Atuará em colaboração com as áreas de engenharia, produção e suprimentos para garantir a precisão, viabilidade e qualidade dos projetos.\n  \n  \n**Responsabilidades e atribuições**\n\n* Interpretar, analisar e converter especificações técnicas, croquis e requisitos de engenharia em desenhos técnicos detalhados e modelos 3D.\n* Desenvolver e revisar desenhos de estrutura metálica, suportes, ligações, componentes e conjuntos, incluindo cortes, detalhes e vistas necessárias à produção e montagem.\n* Elaborar listas de materiais (BOM), especificações de componentes e instruções técnicas de fabricação e montagem.\n* Colaborar com engenheiros e demais stakeholders para esclarecer requisitos, resolver conflitos de projeto e propor soluções técnicas otimizadas.\n* Assegurar que todos os desenhos e documentação técnica estejam atualizados, corretos e devidamente arquivados nos sistemas internos.\n* Aplicar normas, padrões e procedimentos técnicos de desenho e engenharia relevantes ao segmento metalúrgico.\n* Apoiar a produção e execução no chão de fábrica quando necessário, prestando suporte técnico e esclarecimentos aos times de fabricação e montagem.\n* Participar de revisões de projeto, reuniões com clientes e equipes multifuncionais, propondo melhorias e soluções práticas.\n\n**Requisitos e qualificações**\n\n* Curso Técnico completo em Desenho Industrial, Mecânica, Edificações ou áreas correlatas;\n* Desejável formação superior em Engenharia (Mecânica, Civil, Produção) ou similar.\n* Experiência prévia em desenho técnico e projetos de estruturas metálicas, sistemas de armazenamento ou indústria metalúrgica é altamente desejável.\n* Proficiência em AutoCAD 2D e experiência com ferramentas 3D (como Advance Steel, Tekla, SolidWorks ou similares).\n* Capacidade de criar desenhos e documentação de produção fabril e de montagem.\n* Conhecimento de normas técnicas aplicáveis ao desenho, fabricação e montagem de estruturas metálicas.\n* Habilidade em gerar e revisar listas de materiais (BOM) e documentação técnica.\n\n**Informações adicionais**\nNossos benefícios são:\n  \n  \n\n* Alimentação na empresa sem desconto em folha.\n* Convênios com clube Sesi Betim, faculdades, farmácias e escolas de idiomas.\n* Plano de saúde e odontológico Seguros Unimed Nacional (coparticipativo) - extensivo a cônjuge, filhos e enteados - Mensalidade de R$15,00 por pessoa\n* Seguro de Vida;\n* Opção vale transporte ou auxilio combustível (R$300 moto e R$400 carro) sem desconto;\n* PLR – Valor estipulado pelo sindicato;",
+      "search_term": "assistente de arquitetura",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4493060540",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4493060540",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4493060540",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
       "title": "Auxiliar de desenhista",
       "company": "Drawind Do Brasil",
       "location": "Belo Horizonte, Minas Gerais, Brazil",
@@ -166,26 +194,54 @@
       "company": "Jobbol",
       "location": "Belo Horizonte, Minas Gerais, Brazil",
       "is_remote": false,
-      "job_type": null,
-      "job_level": null,
+      "job_type": "fulltime",
+      "job_level": "entry level",
       "date_posted": "2026-11-23",
       "job_url": "https://www.linkedin.com/jobs/view/4493659784",
+      "job_url_direct": null,
+      "min_amount": 2000.0,
+      "max_amount": 2000.0,
+      "currency": "R$",
+      "interval": "monthly",
+      "emails": null,
+      "description": "Empresa de Engenharia busca profissional Desenhista Cadista em Belo Horizonte (Sagrada Família).\n  \n  \n**Responsabilidades**\nElaborar desenhos técnicos e plantas conforme orientações recebidas. Apoiar a atualização e a organização de documentos técnicos e registros de projetos. Realizar ajustes em desenhos e detalhamentos conforme revisões solicitadas pela equipe responsável. Apoiar a compatibilização de informações técnicas entre diferentes áreas envolvidas no projeto.\n  \n  \nAtuações anteriores em Projetista Cadista, Desenhista Técnico, Desenhista de Projetos ou Técnico em CAD podem indicar afinidade com algumas das atividades desta posição.\n  \n  \n**Requisitos Desejáveis**\n**Escolaridade:**\nEnsino médio completo\n  \n  \n**Experiência:**\nNecessário experiência\n  \n  \n**Remuneração e Benefícios**\n\n* Salário: 2000.00\n* Plano de saúde |Seguro de Vida |Vale Alimentação |Vale Transporte\n\n**Informações Adicionais**\n\n* Contrato: Efetivo. Presencial. Candidatos de Nova Lima, Sabará, Contagem ou Raposos também são considerados para esta vaga.\n* Período: Tempo Integral\n* Jornada: Segunda a sexta-feira, 08:00 às 17:00.",
+      "search_term": "assistente de arquitetura",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4493659784",
+      "validation_detail": {
+        "url": "https://www.linkedin.com/jobs/view/4493659784",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4493659784",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "linkedin",
+      "title": "Desenhista Projetista Jr",
+      "company": "Metso",
+      "location": "Nova Lima, Minas Gerais, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": "not applicable",
+      "date_posted": "2026-11-25",
+      "job_url": "https://www.linkedin.com/jobs/view/4494966682",
       "job_url_direct": null,
       "min_amount": null,
       "max_amount": null,
       "currency": null,
       "interval": null,
       "emails": null,
-      "description": null,
-      "search_term": "assistente de arquitetura",
+      "description": "*Our world depends on rocks, minerals, metals and other raw materials – the building blocks of modern society. As an industry leader, Metso helps transform these essential materials to enable sustainable modern life.*\n*Our solutions and services support everything from renewable energy and electrification to the infrastructure and digital economy shaping our future. Together, we help our customers meet growing demand while driving the industry toward a more sustainable use of the earth’s natural resources.*\n*Join nearly 18,000 Metsonites worldwide, each bringing unique expertise and experience to positive change. At Metso, you’re supported by a growth culture built on safety, wellbeing, inclusion and collaboration.*\n*This is your opportunity to make an impact and rise above the possible.*\nJob posting end date: 12/06/2026\n  \n  \n**Introdução**\nEstamos procurando um(a) Desenhista Projetista para integrar nossa equipe de Engenharia de Feeders.\n  \n  \nNesta função, você será responsável por preparar desenhos e projetos de equipamentos, ferramentas, dispositivos e instalações de mineração, dar suporte técnico aos produtos existentes e fazer atualizações e melhorias, contribuindo para o crescimento da linha de Feeders da Metso.\n  \n  \nVocê se reportará ao Gerente de Engenharia de Feeders.\n  \n  \nEsta posição está localizada em Sorocaba, SP, ou em Nova Lima, MG, e envolve até 5% de viagens.\n  \n  \n**Equipe da qual você fará parte**\nVocê irá integrar uma equipe de 18 pessoas de diferentes nacionalidades, profissionais especializados em Alimentadores de Sapatas, Alimentadores de Correia e Wobblers.\n  \n  \nNossa equipe desempenha um papel fundamental em desenvolver a linha de Feeders, assim como executar projetos para clientes, com foco compartilhado em crescimento da linha de produto.\n  \n  \nTrabalhamos em estreita colaboração com os departamentos de Propostas, Qualidade, Compras, Comercial etc.\n  \n  \nNossa equipe está distribuída entre o Brasil, EUA, Alemanha, Índia, China e Austrália e valoriza práticas como:\n  \n  \nComunicação aberta e transparente\n  \n  \nTrabalho colaborativo\n  \n  \nAprendizado contínuo\n  \n  \nResponsabilidade e comprometimento\n  \n  \n**O que você fará:**\n\n* Elaborar e atualizar desenhos técnicos, detalhamentos e listas de materiais de equipamentos e instalações industriais, seguindo normas, especificações e requisitos de projeto.\n* Apoiar na elaboração de layouts de equipamentos e conjuntos, contribuindo para a implementação de novos projetos e modificações de produtos existentes, sob orientação da equipe técnica.\n* Auxiliar na realização de dimensionamentos e cálculos básicos de engenharia, utilizando conceitos de desenho mecânico, tecnologia dos materiais e processos de fabricação.\n* Preparar desenhos de fabricação e detalhamentos construtivos, garantindo clareza das informações para manufatura, montagem e funcionamento dos equipamentos.\n* Interagir com profissionais de diferentes áreas, compartilhando informações relacionadas aos projetos e apoiando a comunicação entre os setores envolvidos.\n* Seguir os procedimentos, instruções e normas do sistema de gestão da qualidade, aplicando as melhores práticas em suas atividades diárias.\n* Cumprir integralmente as políticas, procedimentos e requisitos de Saúde, Segurança, Meio Ambiente (HSE) e Qualidade.\n* Executar outras atividades compatíveis com a função, conforme orientação e direcionamento do gestor imediato.\n\n**O que esperamos de você:**\nFormação em Projetos Mecânicos – Fatec ou equivalente, cursando ou concluída.\n  \n  \nExperiência no uso de AutoCAD e sistema CAD 3D como Inventor (preferencial), Solid Works, Solid Edge, CREO, NX, etc.\n  \n  \nInglês intermediário.\n  \n  \nExperiência com desenho e projeto de equipamentos para mineração.\n  \n  \nExperiência com Transportadores de Correia, Alimentadores de Correia e Sapatas (desejável).\n  \n  \nExperiência com Teamcenter e SAP (desejável).\n  \n  \nResidir em Sorocaba/SP, Votorantim/SP ou Nova Lima/MG.\n  \n  \n**O que oferecemos**\nNa Metso, você combinará trabalho significativo com oportunidades de aprendizado, crescimento e geração de impacto, em um ambiente inclusivo e colaborativo.\n  \n  \nVocê fará parte de uma equipe global onde colaboração, bem-estar e aprendizado contínuo fazem parte do dia a dia.\n  \n  \nApoiamos seu crescimento e bem-estar oferecendo:\n  \n  \n**Um propósito inspirador**\n– Possibilitar uma vida moderna sustentável. Minerais e metais são a espinha dorsal de funções essenciais no mundo moderno. No entanto, há uma necessidade de soluções mais sustentáveis para os coletar e processar. Na Metso, você participa da transformação da indústria e de uma mudança positiva.\n  \n  \n**Ambiente de trabalho seguro**\n– Para a Metso, segurança é um valor fundamental. Nosso objetivo é demonstrar liderança e visão na promoção da cultura de segurança.\n  \n  \n**Bem-estar**\n– Nossos serviços de saúde ocupacional, associados às ações voltadas para a promoção de saúde e bem-estar demonstram nossa preocupação com a qualidade de vida e engajamento das pessoas.\n  \n  \n**Remuneração e benefícios**\n– Estrutura de remuneração e benefícios alinhada às práticas de mercado, oferecendo um pacote atrativo através de uma composição equilibrada que contém remuneração fixa e variável, além de assistência médica, odontológica, seguro de vida, previdência privada, alimentação, entre outros, segundo políticas vigentes.\n  \n  \n**Flexibilidade**\n– Defendemos as interações pessoais e a colaboração presencial associadas a um ambiente de trabalho aberto e flexível, valorizando o equilíbrio entre vida pessoal e profissional.\n  \n  \n**Uma cultura próspera**\n- Estamos empenhados em desenvolver uma cultura inclusiva que permita a todos dar o seu melhor e atingir o seu pleno potencial. Uma cultura que é corajosa, convincente e atenciosa, e que nos une para construirmos juntos um futuro sustentável.\n  \n  \n**Extensas oportunidades de aprendizagem**\n– Estimulamos diálogos contínuos, sessões de feedback, oportunidades de mobilidade interna, programas de mentoria, treinamento e desenvolvimento, entre outros projetos ambiciosos e oportunidades globais.\n  \n  \n**Interação sem fronteiras**\n– Aproveite nossa rede de colegas em todo o mundo para troca de experiências e conhecimento. Realizamos os trabalhos juntos, através de uma comunicação aberta e sincera.\n  \n  \n**Entre em Contato**\nQuer ir além do possível conosco?\n  \n  \nClique em \"Candidatar-se agora\" para enviar sua candidatura.\n  \n  \nPara informações adicionais, entre em contato com a área de RH - Recrutamento & Seleção.\n  \n  \nReconhecemos que profissionais altamente qualificados podem hesitar em se candidatar caso não atendam a todos os requisitos listados.\n  \n  \nSe esta oportunidade despertou seu interesse, encorajamos você a se candidatar mesmo que sua experiência não esteja perfeitamente alinhada com todas as qualificações.\n  \n  \nVocê pode ser exatamente a pessoa certa para a função.\n  \n  \n*Metso is committed to pay equity and transparent reward practices globally. Compensation information is shared in line with local legislation and applicable recruitment practices.*\nHow to join - Working at Metso - About Metso - Diversity and Inclusion - Meet our people\n  \n  \n*Metso is an equal opportunity employer committed to fostering an inclusive and diverse workforce culture. All qualified applicants will receive consideration for employment without regard to race, religion, color, nationality, gender, gender identity, sexual orientation, age, status as a protected veteran or status as a qualified individual with a disability.*\n*Metso is a frontrunner in sustainable technologies, end-to-end solutions and services for the aggregates, minerals processing and metals refining industries globally. We improve our customers’ energy and water efficiency, increase their productivity, and reduce environmental risks with our product and service expertise. We are the partner for positive change.*\n*Metso is headquartered in Espoo, Finland. At the end of 2025 Metso had close to 18,000 employees in around 50 countries, and sales in 2025 were about EUR 5.3 billion. Metso is listed on the Nasdaq Helsinki.*\nmetso.com",
+      "search_term": "desenhista",
       "search_mode": "hybrid",
-      "validation": "Não validada",
-      "validated_url": null,
+      "validation": "Validada",
+      "validated_url": "https://www.linkedin.com/jobs/view/4494966682",
       "validation_detail": {
-        "url": "https://www.linkedin.com/jobs/view/4493659784",
-        "status_code": 429,
-        "final_url": "https://www.linkedin.com/jobs/view/4493659784",
-        "result": "Não validada"
+        "url": "https://www.linkedin.com/jobs/view/4494966682",
+        "status_code": 200,
+        "final_url": "https://www.linkedin.com/jobs/view/4494966682",
+        "result": "Validada"
       }
     },
     {
