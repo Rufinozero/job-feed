@@ -1,22 +1,59 @@
 {
-  "generated_at": "2026-11-24T19:57:23+00:00",
+  "generated_at": "2026-11-25T00:43:23+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
-      "ok_queries": 14,
-      "failed_queries": 0,
-      "raw_results": 210,
-      "errors": []
+      "ok_queries": 9,
+      "failed_queries": 5,
+      "raw_results": 145,
+      "errors": [
+        "analista de arquitetura (hybrid): response status code 429 (blocked: use a proxy)",
+        "analista de arquitetura (remote): response status code 429 (blocked: use a proxy)",
+        "arquiteta (hybrid): response status code 429 (blocked: use a proxy)",
+        "arquiteta (remote): response status code 429 (blocked: use a proxy)",
+        "desenhista (remote): response status code 429 (blocked: use a proxy)"
+      ]
     },
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 56,
+      "raw_results": 58,
       "errors": []
     }
   },
   "total_jobs": 10,
   "jobs": [
+    {
+      "site": "indeed",
+      "title": "ESPECIALISTA EM ARQUITETURA | ENGENHARIA CLINICA",
+      "company": "Hospital Mater Dei S/A",
+      "location": "Belo Horizonte, MG, Brazil",
+      "is_remote": false,
+      "job_type": null,
+      "job_level": null,
+      "date_posted": "2026-11-25",
+      "job_url": "https://br.indeed.com/viewjob?jk=55eddd057bb52a2e",
+      "job_url_direct": "https://materdei.gupy.io/job/eyJqb2JJZCI6MTI5Mzc0NDAsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "**Sobre a Rede Mater Dei de Saúde.** A Rede Mater Dei de Saúde consolida-se como uma das principais referências em assistência hospitalar privada de alta complexidade no Brasil. Pautada pela excelência clínica, governança corporativa e constante investimento em tecnologia e inovação, a instituição detém importantes certificações internacionais de qualidade, como a *Joint Commission International* (JCI). Presente em estados estratégicos do país, a Rede preza pelo rigor ético, pela segurança do paciente e pelo desenvolvimento contínuo de seu corpo clínico e administrativo.\n\n  \n  \n**Responsabilidades e atribuições**  \n\n* Atuar como referência técnica e estratégica em arquitetura, conduzindo o desenvolvimento de planos e projetos em todas as suas etapas, definindo padrões, materiais, acabamentos, técnicas e metodologias alinhadas às diretrizes corporativas e aos objetivos de negócio.\n* Elaborar projetos básicos e executivos de arquitetura hospitalar.\n* Definir diretrizes e acompanhar a produção de desenhos e detalhamentos técnicos para projetos internos, assegurando aderência a normas e padrões corporativos.\n* Conduzir estudos de viabilidade técnica e propor soluções inovadoras para atender às necessidades estratégicas do negócio.\n* Realizar análises críticas de projetos, antecipando riscos e propondo soluções técnicas de alto impacto.\n* Atuar como principal interface técnica entre clientes internos, projetistas e stakeholders estratégicos, contribuindo para decisões de maior complexidade.\n* Elaborar relatórios, pareceres técnicos e apresentações estratégicas para a diretoria e alta gestão.\n* Pesquisar, avaliar e recomendar novas tecnologias, metodologias e tendências aplicáveis à arquitetura hospitalar, visando eficiência, inovação e sustentabilidade.\n* Apoiar na implantação de melhorias de acordo com as necessidades do setor, buscando produtividade, redução de custos e maximização dos resultados.\n* Interagir com outras áreas em reuniões para apoiar o planejamento estratégico e demais processos organizacionais, além de assessorar o gestor imediato na análise de problemas e irregularidades.\n* Responder pela qualidade, confiabilidade e desempenho das informações e entregas sob sua responsabilidade, mantendo sigilo institucional e apoiando o atendimento humanizado.\n* Zelar pela segurança, integridade física e conservação dos bens patrimoniais, cumprindo normas, políticas e diretrizes da Rede Mater Dei de Saúde e executando atividades correlatas a critério do gestor imediato.\n  \n\n  \n  \n**Requisitos e qualificações**  \n\n* Graduação completa em Arquitetura.\n* Experiência de 5 anos nas responsabilidades do cargo.\n* Domínio avançado em AutoCAD.\n* Qualificações desejáveis:\n* Pós-graduação completa em áreas afins.\n* Experiência de 7 anos nas responsabilidades do cargo.\n* Competências e habilidades valorizadas:\n* Eficiência técnica, orientação para inovação, tomada de decisão, relacionamento e colaboração, influência técnica e alinhamento ao \"Nosso jeito de ser\" da instituição\n\n  \n  \n  \n  \n\nNós convidamos você a se tornar parte de uma equipe dinâmica e talentosa, onde poderá desenvolver suas habilidades e crescer profissionalmente. Na nossa empresa, valorizamos o trabalho em equipe, a inovação e o compromisso com a excelência. Se você busca um ambiente de trabalho estimulante, com oportunidades de aprendizado contínuo e projetos desafiadores, venha fazer parte do nosso time!",
+      "search_term": "projetista de arquitetura",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://materdei.gupy.io/job/eyJqb2JJZCI6MTI5Mzc0NDAsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+      "validation_detail": {
+        "url": "https://materdei.gupy.io/job/eyJqb2JJZCI6MTI5Mzc0NDAsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+        "status_code": 200,
+        "final_url": "https://materdei.gupy.io/job/eyJqb2JJZCI6MTI5Mzc0NDAsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+        "result": "Validada",
+        "status_hints": [
+          "status=published"
+        ]
+      }
+    },
     {
       "site": "indeed",
       "title": "DESENHISTA CADISTA - Sagrada Família (Engemaster Engenharia)",
@@ -90,7 +127,7 @@
       "interval": null,
       "emails": "buzattos@buzattos.com.br",
       "description": "Estamos em busca de um(a) Projetista talentoso(a) e comprometido(a) para integrar nosso time! Se você é criativo(a), tem atenção aos detalhes e gosta de transformar ideias em projetos reais, essa vaga pode ser sua!\n\n**Responsabilidades:**\n\n* Desenvolver projetos técnicos em AutoCAD, SketchUp ou outro software;\n* Elaborar desenhos detalhados conforme especificações e normas técnicas;\n* Fazer levantamento de medidas em campo (quando necessário);\n* Prestar suporte técnico à equipe comercial;\n* Sugerir melhorias e soluções técnicas durante o desenvolvimento dos projetos.\n\n**Requisitos:**\n\n* Formação técnica ou superior em Design de Interiores, Engenharia ou áreas correlatas;\n* Conhecimento de softwares de desenho técnico e modelagem 3D;\n* Experiência prévia na função;\n* Boa comunicação, proatividade e organização.\n\n**Diferenciais:**\n\n* Experiência com projetos de mobiliário planejado, estruturas metálicas, interiores, etc.;\n* Conhecimento em processos produtivos e montagem;\n* Vivência em ambiente fabril.\n\n**BENEFÍCIOS:**\n\n* Cesta básica;\n* Transporte fretado;\n* Plano de saúde e odontológico;\n* Seguro de vida;\n* Convênio farmácia;\n* Convênio clube;\n* Wellhub (gympass).\n\n**Horário de trabalho:**\n\nSegunda a quinta (07:00 às 17:00) sexta (07:00 às 16:00)\n\n**Envie seu currículo para:**\n\nbuzattos@buzattos.com.br\n\n**Obs: Colocar no assunto o nome da vaga.**",
-      "search_term": "arquiteta",
+      "search_term": "arquiteto",
       "search_mode": "hybrid",
       "validation": "Validada",
       "validated_url": "https://www.linkedin.com/jobs/view/4493052122",
@@ -118,7 +155,7 @@
       "interval": null,
       "emails": null,
       "description": "**#VemSerMCA**\nNa MCA, consolidamos nossa posição como líderes em Consultoria, Auditoria e Gerenciamento de Projetos desde 2002. Pelo segundo ano consecutivo, recebemos o reconhecimento da revista 'O Empreiteiro' como a principal empresa na categoria de Projetos e Consultoria em todo o estado de Minas Gerais, além de nos orgulharmos de ocupar a quarta posição no Ranking Nacional. Nossa abordagem une engenharia, gestão e talento humano para conceber soluções criativas e impactantes. Além disso, mantemos o compromisso com a qualidade e a inovação, como evidenciado por nossa Certificação ISO 9001, ISO 14001 e ISO 45001.\n  \n  \n**Quem Somos:**\nCultivamos uma cultura baseada em integridade, ética e excelência técnica. Operamos com transparência, enfrentando crises com resiliência e inovação. Nossa missão é atuar em engenharia consultiva, gerenciamento de projetos, auditorias e fiscalização, impactando positivamente pessoas e empresas.\n  \n  \n**O que Valorizamos:**\nFaça parte de uma equipe que valoriza bem-estar, alegria e equilíbrio no trabalho. Buscamos profissionais comprometidos, que valorizam colaboração, interação e aprendizado contínuo. Na MCA, trabalhamos de forma colaborativa e todos torcem uns pelos outros.\n  \n  \n**Nossa Presença:**\nPresentes em todo o Brasil, empregamos mais de 2 mil pessoas e atuamos em setores como Mineração, Siderúrgico, Infraestrutura, entre outros. Construímos um futuro sustentável e impactante.\n  \n  \n**Junte-se ao Time MCA:**\nSe busca um ambiente acolhedor, que respeita as diferenças, estimula o progresso das pessoas e busca constantemente a inovação, #VemSerMCA. Junte-se ao time que transforma desafios em oportunidades. Na MCA, construímos juntos o futuro. Vem ser parte dessa comunidade!\n  \n  \n**E suas principais atividades serão:**\n\n* Apoiar no desenvolvimento das modelagens avançadas no Autodesk Civil 3D, contemplando superfícies, corredores e projetos de movimentação de terra em larga escala.\n* Realizar cálculos de volumes e elaborar documentação técnica de suporte às atividades de engenharia.\n* Conferir os volumes de serviços executados em campo, por meio de levantamentos topográficos e comparações com os projetos fornecidos pela projetista.\n* Verificar e validar geometrias, assegurando a conformidade entre os projetos e as condições executadas.\n* Acompanhar e validar os quantitativos e volumes executados em conjunto com a equipe de Planejamento.\n* Elaborar relatórios diários e semanais de acompanhamento dos volumes executados, subsidiando o controle e o planejamento das atividades.\n\n**Para esta posição, esperamos que você tenha:**\n\n* Formação: Engenharia Civil e/ou Engenharia de Minas e/ou Técnico em Edificações e/ou Técnico em Agrimensura e/ou áreas correlatas;\n* Experiência com softwares específicos de disposição de rejeitos (Muk3D ou Rift TD);\n* Conhecimento intermediário de Navisworks e Infraworks;\n* Conhecimento de plataforma topográfica digital (Maply / Propeller / Sitescan);\n* Vivência com topografia e as-builts;\n* Inglês Intermediário/Avançado;\n* Desejável conhecimento ou experiência na norma ISO 14001: Sistema de Gestão Ambiental (SGA).\n\nE aí, topa embarcar nessa?!\n  \n  \nVem se juntar ao nosso time incrível na MCA!",
-      "search_term": "arquiteta",
+      "search_term": "arquiteto",
       "search_mode": "hybrid",
       "validation": "Validada",
       "validated_url": "https://www.linkedin.com/jobs/view/4491791319",
@@ -146,7 +183,7 @@
       "interval": null,
       "emails": null,
       "description": "**Descrição da empresa**\nAFRY é uma empresa europeia líder em serviços de engenharia, projetos e consultoria, com alcance global. Nós aceleraremos a transição para uma sociedade mais sustentável. mais de 19 mil especialistas no mundo dedicados nas áreas de infraestrutura, indústria, energia e digitalização, criando soluções sustentáveis para as próximas gerações.\n  \n  \nNo Brasil, possui cerca de 1.400 colaboradores corajosos, dedicados e trabalhadores em equipe, e atende mais de 50 clientes de diversos setores.\n  \n  \n*Making Future*\n**Descrição do emprego**\n\n* Prestar suporte na elaboração de documentação na disciplina de utilidades de acordo com normas e padrões internas e/ou cliente;\n* Desejável experiência em projetos voltados para sistemas e utilidades, contemplando bombeamentos de água e ar comprimido, além de sistemas de HVAC. Atuação na elaboração de fluxogramas de engenharia, memórias de cálculo, relatórios técnicos e folhas de dados\n\n**Qualificações**\nBase teórica consolidada nas disciplinas de transferência de calor e fluidodinâmica;\n  \n  \nCurso técnico em mecatrônica, química e/ou mecânica\n  \n  \nDesejavel que esteja graduando Engenharias afins\n  \n  \n**Informação adicional**\n\n* Experiências anteriores em projetos voltados para sistemas de utilidades\n* Inglês será um diferencial;\n* Suporte direto ao supervisor de engenharia de utilidades;\n* Conhecimento e domínio em AutoCad\n\n*At AFRY, we engineer change in everything we do. Change happens when brave ideas come together. When we collaborate, innovate technology, and embrace challenging points of view. That’s how we're making future. We are actively looking for qualified candidates to join our inclusive and diverse teams across the globe. Join us in accelerating the transition towards a sustainable future.*",
-      "search_term": "assistente de arquitetura",
+      "search_term": "projetista de arquitetura",
       "search_mode": "hybrid",
       "validation": "Não validada",
       "validated_url": null,
@@ -186,34 +223,6 @@
       }
     },
     {
-      "site": "linkedin",
-      "title": "BR- Piping Designer | (Projetista de Tubulação )",
-      "company": "Hatch",
-      "location": "Belo Horizonte, Minas Gerais, Brazil",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": "mid-senior level",
-      "date_posted": "2026-11-18",
-      "job_url": "https://www.linkedin.com/jobs/view/4475132493",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "**Requisition ID:**\n101841\n  \n  \n**Job Category:**\nEngineering\n  \n  \n**Location:**\nBelo Horizonte, Minas Gerais, Brazil\n  \n  \nJoin a company that is passionately committed to the pursuit of a better world through positive change. With more than 70 years of business and technical expertise in mining , energy , and infrastructure , our 10,000 colleagues in 150 countries tirelessly work toward bettering the industries in which we operate. With practical solutions that are safe, innovative and sustainable, we think globally while acting locally.\n  \n  \nOur Project Delivery Group (PDG) is a dynamic team of professionals passionately committed to world-class project delivery across the globe. With expertise in sustainable studies, asset building and operations, and industry-leading efficiencies, our best-in-class team leverages methodologies, governance and systems that are unparalleled in the engineering space. Are you looking for an opportunity to join a diverse group of professionals who are committed to remaining exceptional? We look forward to hearing from you.\n  \n  \n**As The Successful Candidate, You Will**\n\n* Adhere to and promote the Hatch corporate safety culture\n* Layout complex plant and piping systems using 3D modeling design tools\n* Perform clash detection of models and other disciplines models and coordinate actions and closeout\n* Model existing structures, plant and equipment\n* Ensure all drawings, 2D extractions and piping deliverables are checked to comply with Hatch quality standards Ensure compliance with all relevant engineering standards and project procedures for all design activities\n* In conjunction with engineering staﬀ, prepare design concepts for internal and client reviews\n* Develop and check engineering design details and special items drawings\n* Prepare a list of design deliverables and time based functions to facilitate the planning and control of the piping budget\n* Perform design for piping/mechanical plant models using project specifications/procedures and applying industry best practice\n* Use vendor drawings and information sheets to develop and check the model\n* Coordinate and verify piping Material Take Oﬀs (MTOs)\n* Ensure coordination with designers and engineers of other disciplines\n* Train and mentor junior and intermediate designers and provide guidance on Hatch standards and quality requirements\n* Assist in the preparation and development of project specific procedures\n* Facilitate formal piping design reviews\n* Participate in the selection of piping design candidates\n* Extract stress sketches\n* Coordinate pipe support design including special pipe supports with piping stress analyst input\n* Support the application of piping systems to achieve the best project outcomes\n* Extract and check ISOs\n* Produce piping General Arrangement (GA) and equipment location drawings\n* Provide input to proposals and man-hour estimates\n* Assist in the resolution of piping design issues during project lifecycle, including planning phase, design, procurement, fabrication, construction and commissioning\n* Promote and maintain the application of ethical and professional practices in the execution of piping work.\n\nYou bring to the role: Essential:\n  \n  \n\n* Extensive experience with Bentley and/or Intergraph 3D design systems\n* Thorough understanding of the Hatch HSEC policy and standards\n* Sound design and modeling skills for plant layout, piping design and detailing\n* Thorough knowledge of piping components and materials\n* Sound knowledge of industry or regulatory standards and codes as required for piping design Experience with isometric production control and monitoring\n* Experience with multidisciplinary coordination\n* Proficient in the use of 2D and 3D CAD systems\n* Good communication and interpersonal skills\n* Sound working knowledge of design systems and workflows as they relate to the piping discipline Thorough understanding of PFDs and P&IDs\n* Site experience in a piping technical role.\n\n**Preferred**\n\n* Experience within a large project, multidisciplinary EPCM environment\n* Knowledge of laser scanning applications and techniques\n* Strong client focus\n* Good leadership skills\n* Experience in mentoring and supervising designers\n* Strong ability to delegate tasks and promote the eﬀective performance of team members.\n\nWhy join us?\n  \n  \n\n* Work with great people to make a difference\n* Collaborate on exciting projects to develop innovative solutions\n* Top employer\n\nWhat we offer you?\n  \n  \n\n* Flexible work environment\n* Long term career development\n* Think globally, work locally\n\nDon't meet every single requirement? You don't need to. At Hatch, we are building a diverse, inclusive workplace that fosters innovation. If you're interested in this role, we encourage you to apply even if your past experiences don't perfectly align with the skills we've listed.\n  \n  \nWe're committed to fostering a workforce that reflects the diversity of the communities in which we operate and serve. Hatch is an Equal Opportunity Employer that considers applicants without regard to age, race, color, national origin, citizenship, religion, creed, gender, sexual orientation, marital status, disability, veteran, or any other protected status. If you have any accommodation requirements, please let us know. We'll do our best to meet your needs in accordance with applicable local legislation.",
-      "search_term": "desenhista",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/4475132493",
-      "validation_detail": {
-        "url": "https://www.linkedin.com/jobs/view/4475132493",
-        "status_code": 200,
-        "final_url": "https://www.linkedin.com/jobs/view/4475132493",
-        "result": "Validada"
-      }
-    },
-    {
       "site": "indeed",
       "title": "Desenhista",
       "company": "ORTOP INSTRUMENTOS",
@@ -243,34 +252,6 @@
     },
     {
       "site": "indeed",
-      "title": "Projetista",
-      "company": "SUSTENTAR ENERGIA RENOVÁVEL",
-      "location": "São Joaquim de Bicas, MG, Brazil",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": null,
-      "date_posted": "2026-11-19",
-      "job_url": "https://br.indeed.com/viewjob?jk=2ec9bcc3a2506477",
-      "job_url_direct": null,
-      "min_amount": 3169.39,
-      "max_amount": null,
-      "currency": "BRL",
-      "interval": "monthly",
-      "emails": null,
-      "description": "Responsabilidades:\n\nProfissional Técnico Projetista em atividades Elétrica;\n\nElaboração, dimensionamento e especificação de Projeto Elétrico;\n\nElaboração de Projeto unifilares e trefilares;\n\nAuxiliar em análise de Parecer Técnico, Estudos e Normativas Técnicas.\n\nRequisitos\n\nCurso Técnico em Elétrica/Eletrotécnica ou Eletrônica Industrial e/ou Cursando Engenharia Elétrica ou correlacionado;\n\nTipo de vaga: Tempo integral, Efetivo CLT\n\nBenefícios:\n\n* Cesta básica\n* Seguro de vida\n* Vale-refeição\n* Vale-transporte\n\nLocal do trabalho: Presencial\n\nPagamento: a partir de R$3.169,39 por mês\n\nLocal do trabalho: Presencial",
-      "search_term": "desenhista",
-      "search_mode": "hybrid",
-      "validation": "Não validada",
-      "validated_url": null,
-      "validation_detail": {
-        "url": "https://br.indeed.com/viewjob?jk=2ec9bcc3a2506477",
-        "status_code": 401,
-        "final_url": "https://br.indeed.com/viewjob?jk=2ec9bcc3a2506477",
-        "result": "Não validada"
-      }
-    },
-    {
-      "site": "indeed",
       "title": "Projetista Executivo",
       "company": "JP Serviços de Montagens",
       "location": "Belo Horizonte, MG, Brazil",
@@ -294,6 +275,34 @@
         "url": "https://br.indeed.com/viewjob?jk=f1587fb5c0cef758",
         "status_code": 401,
         "final_url": "https://br.indeed.com/viewjob?jk=f1587fb5c0cef758",
+        "result": "Não validada"
+      }
+    },
+    {
+      "site": "indeed",
+      "title": "Projetista",
+      "company": "SUSTENTAR ENERGIA RENOVÁVEL",
+      "location": "São Joaquim de Bicas, MG, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime",
+      "job_level": null,
+      "date_posted": "2026-11-19",
+      "job_url": "https://br.indeed.com/viewjob?jk=2ec9bcc3a2506477",
+      "job_url_direct": null,
+      "min_amount": 3169.39,
+      "max_amount": null,
+      "currency": "BRL",
+      "interval": "monthly",
+      "emails": null,
+      "description": "Responsabilidades:\n\nProfissional Técnico Projetista em atividades Elétrica;\n\nElaboração, dimensionamento e especificação de Projeto Elétrico;\n\nElaboração de Projeto unifilares e trefilares;\n\nAuxiliar em análise de Parecer Técnico, Estudos e Normativas Técnicas.\n\nRequisitos\n\nCurso Técnico em Elétrica/Eletrotécnica ou Eletrônica Industrial e/ou Cursando Engenharia Elétrica ou correlacionado;\n\nTipo de vaga: Tempo integral, Efetivo CLT\n\nBenefícios:\n\n* Cesta básica\n* Seguro de vida\n* Vale-refeição\n* Vale-transporte\n\nLocal do trabalho: Presencial\n\nPagamento: a partir de R$3.169,39 por mês\n\nLocal do trabalho: Presencial",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Não validada",
+      "validated_url": null,
+      "validation_detail": {
+        "url": "https://br.indeed.com/viewjob?jk=2ec9bcc3a2506477",
+        "status_code": 401,
+        "final_url": "https://br.indeed.com/viewjob?jk=2ec9bcc3a2506477",
         "result": "Não validada"
       }
     }
