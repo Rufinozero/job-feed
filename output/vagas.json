@@ -1,23 +1,25 @@
 {
-  "generated_at": "2026-11-27T00:15:10+00:00",
+  "generated_at": "2026-11-27T18:45:43+00:00",
   "hours_old": 168,
   "sites": {
     "linkedin": {
-      "ok_queries": 13,
-      "failed_queries": 1,
-      "raw_results": 195,
+      "ok_queries": 11,
+      "failed_queries": 3,
+      "raw_results": 185,
       "errors": [
-        "analista de arquitetura (remote): response status code 429 (blocked: use a proxy)"
+        "arquiteta (remote): response status code 429 (blocked: use a proxy)",
+        "assistente de arquitetura (hybrid): response status code 429 (blocked: use a proxy)",
+        "desenhista (hybrid): response status code 429 (blocked: use a proxy)"
       ]
     },
     "indeed": {
       "ok_queries": 14,
       "failed_queries": 0,
-      "raw_results": 76,
+      "raw_results": 71,
       "errors": []
     }
   },
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
     {
       "site": "indeed",
@@ -136,6 +138,34 @@
     },
     {
       "site": "indeed",
+      "title": "DESENHISTA TÉCNICO CIVIL 3D (Potenza RH)",
+      "company": "Jobbol",
+      "location": "Belo Horizonte, MG, Brazil",
+      "is_remote": false,
+      "job_type": "fulltime, contract",
+      "job_level": null,
+      "date_posted": "2026-11-27",
+      "job_url": "https://br.indeed.com/viewjob?jk=ed874a1957ff6b81",
+      "job_url_direct": "https://www.jobbol.com.br/vaga/181681-desenhista-tecnico-civil-3d?cidade=2310",
+      "min_amount": null,
+      "max_amount": null,
+      "currency": null,
+      "interval": null,
+      "emails": null,
+      "description": "Empresa de Recursos Humanos busca profissional Desenhista Técnico Civil 3D em Belo Horizonte.\n\nÉ uma empresa de recursos humanos, terceirização de mão de obra, facilities e trabalho temporário.\n\n**Responsabilidades:**\n\nElaboração de desenhos técnicos de engenharia. Interpretação de dados geoespaciais e levantamentos topográficos.\n\nTécnico completo Necessário experiência\n  \n**Remuneração e Benefícios:**\n\n* Salário: Faixa salarial será informada na entrevista.\n\n* Auxílio Educação |Vale Alimentação |Vale Transporte\nOportunidade de desenvolvimento e crescimento profissional.\n**Informações adicionais:**\n\n* #VagaUrgente\n* Contrato: Efetivo - Presencial.\n* Período: Tempo Integral\n* Jornada: Segunda a sexta-feira.",
+      "search_term": "desenhista",
+      "search_mode": "hybrid",
+      "validation": "Validada",
+      "validated_url": "https://www.jobbol.com.br/vaga/181681-desenhista-tecnico-civil-3d?cidade=2310",
+      "validation_detail": {
+        "url": "https://www.jobbol.com.br/vaga/181681-desenhista-tecnico-civil-3d?cidade=2310",
+        "status_code": 200,
+        "final_url": "https://www.jobbol.com.br/vaga/181681-desenhista-tecnico-civil-3d",
+        "result": "Validada"
+      }
+    },
+    {
+      "site": "indeed",
       "title": "DESENHISTA TÉCNICO / PROJETISTA - ENGENHARIA",
       "company": "grupo sa",
       "location": "Ribeirão das Neves, MG, Brazil",
@@ -238,7 +268,7 @@
       "interval": null,
       "emails": null,
       "description": "Empresa de Fabricação de Móveis e Artigos de Decoração busca profissional Projetista em Ribeirão das Neves (Vereda).\n  \n  \n**Responsabilidades**\nDesenvolver desenhos e projetos de peças e conjuntos, considerando as necessidades de produção e acabamento. Apoiar a definição de medidas, materiais e detalhes construtivos compatíveis com o processo de fabricação. Realizar ajustes em projetos conforme orientações técnicas e demandas do setor produtivo. Acompanhar a elaboração de documentação técnica básica para apoiar a execução e o controle dos projetos.\n  \n  \nAtuações anteriores em Designer de Produto, Arquiteto de Informação, Engenheiro de Produto ou Designer Gráfico podem indicar afinidade com algumas das atividades desta posição.\n  \n  \n**Requisitos Desejáveis**\n**Escolaridade:**\nTécnico completo\n  \n  \n**Experiência:**\nNecessário experiência\n  \n  \n**Remuneração e Benefícios**\n\n* Salário: Faixa salarial será informada na entrevista.\n* Benefícios a combinar\n\n**Informações Adicionais**\n\n* Contrato: Efetivo. Presencial. Candidatos de São José da Lapa, Pedro Leopoldo, Confins ou Vespasiano também são considerados para esta vaga.\n* Período: Tempo Integral\n* Jornada: A combinar",
-      "search_term": "assistente de arquitetura",
+      "search_term": "projetista de arquitetura",
       "search_mode": "hybrid",
       "validation": "Validada",
       "validated_url": "https://www.linkedin.com/jobs/view/4495542997",
@@ -279,57 +309,29 @@
     },
     {
       "site": "linkedin",
-      "title": "Auxiliar de desenhista",
-      "company": "Drawind Do Brasil",
+      "title": "Desenhista Técnico Civil 3D",
+      "company": "Jobbol",
       "location": "Belo Horizonte, Minas Gerais, Brazil",
       "is_remote": false,
       "job_type": "fulltime",
-      "job_level": "associate",
-      "date_posted": "2026-11-25",
-      "job_url": "https://www.linkedin.com/jobs/view/4494621351",
+      "job_level": "entry level",
+      "date_posted": "2026-11-27",
+      "job_url": "https://www.linkedin.com/jobs/view/4495842026",
       "job_url_direct": null,
       "min_amount": null,
       "max_amount": null,
       "currency": null,
       "interval": null,
       "emails": null,
-      "description": "Estamos buscando um(a)\n**Auxiliar de Desenhista**\npara integrar nosso time de projetos em Belo Horizonte/MG.\n\nA oportunidade é voltada para estudantes e profissionais em início de carreira que tenham interesse em desenvolver seus conhecimentos na área de desenho técnico e projetos de engenharia.\n\n**Não é necessário possuir experiência profissional anterior.**\n\nPrincipais responsabilidades\n\n* Apoiar na elaboração e atualização de desenhos técnicos;\n* Auxiliar na organização de arquivos e documentos dos projetos;\n* Revisar desenhos conforme orientações da equipe;\n* Apoiar o controle e registro de documentos;\n* Dar suporte às atividades da área, seguindo padrões e orientações técnicas.\n\nRequisitos\n\n* Formação em Mecânica ou áreas correlatas, concluída ou em andamento;\n* Conhecimento em Pacote Office;\n* Interesse em atuar com desenho técnico e projetos;\n* Disponibilidade para atuação presencial em Belo Horizonte/MG.\n\nDiferenciais\n\n* Conhecimento em AutoCAD;\n* Noções de desenho técnico;\n* Conhecimento básico em leitura e interpretação de desenhos;\n* Cursos relacionados a CAD ou projetos mecânicos.\n\nDestaques da oportunidade\n\n* Não é necessário possuir experiência anterior;\n* Oportunidade voltada para aprendizado e desenvolvimento profissional;\n* Possibilidade de iniciar a carreira na área de projetos de engenharia;\n* Contato com profissionais experientes da área;\n* Desenvolvimento de conhecimentos técnicos no dia a dia.",
-      "search_term": "assistente de arquitetura",
+      "description": "Empresa de Recursos Humanos busca profissional Desenhista Técnico Civil 3D em Belo Horizonte.\n  \n  \n**Responsabilidades**\nElaboração de desenhos técnicos de engenharia. Interpretação de dados geoespaciais e levantamentos topográficos.\n  \n  \n**Requisitos Desejáveis**\n**Escolaridade:**\nTécnico completo\n  \n  \n**Experiência:**\nNecessário experiência\n  \n  \n**Remuneração e Benefícios**\n\n* Salário: Faixa salarial será informada na entrevista.\n* Auxílio Educação |Vale Alimentação |Vale Transporte\n* Oportunidade de desenvolvimento e crescimento profissional.\n\n**Informações Adicionais**\n\n* Contrato: Efetivo. Presencial. Candidatos de Nova Lima, Sabará, Contagem ou Raposos também são considerados para esta vaga.\n* Período: Tempo Integral\n* Jornada: Segunda a sexta-feira.",
+      "search_term": "cadista",
       "search_mode": "hybrid",
       "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/4494621351",
+      "validated_url": "https://www.linkedin.com/jobs/view/4495842026",
       "validation_detail": {
-        "url": "https://www.linkedin.com/jobs/view/4494621351",
+        "url": "https://www.linkedin.com/jobs/view/4495842026",
         "status_code": 200,
-        "final_url": "https://www.linkedin.com/jobs/view/4494621351",
-        "result": "Validada"
-      }
-    },
-    {
-      "site": "linkedin",
-      "title": "Desenhista Projetista",
-      "company": "AFRY",
-      "location": "Greater Belo Horizonte",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": "not applicable",
-      "date_posted": "2026-11-24",
-      "job_url": "https://www.linkedin.com/jobs/view/3994762578",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "**Descrição da empresa**\nAFRY é uma empresa europeia líder em serviços de engenharia, projetos e consultoria, com alcance global. Nós aceleraremos a transição para uma sociedade mais sustentável. mais de 19 mil especialistas no mundo dedicados nas áreas de infraestrutura, indústria, energia e digitalização, criando soluções sustentáveis para as próximas gerações.\n  \n  \nNo Brasil, possui cerca de 1.400 colaboradores corajosos, dedicados e trabalhadores em equipe, e atende mais de 50 clientes de diversos setores.\n  \n  \n*Making Future*\n**Descrição do emprego**\n\n* Prestar suporte na elaboração de documentação na disciplina de utilidades de acordo com normas e padrões internas e/ou cliente;\n* Desejável experiência em projetos voltados para sistemas e utilidades, contemplando bombeamentos de água e ar comprimido, além de sistemas de HVAC. Atuação na elaboração de fluxogramas de engenharia, memórias de cálculo, relatórios técnicos e folhas de dados\n\n**Qualificações**\nBase teórica consolidada nas disciplinas de transferência de calor e fluidodinâmica;\n  \n  \nCurso técnico em mecatrônica, química e/ou mecânica\n  \n  \nDesejavel que esteja graduando Engenharias afins\n  \n  \n**Informação adicional**\n\n* Experiências anteriores em projetos voltados para sistemas de utilidades\n* Inglês será um diferencial;\n* Suporte direto ao supervisor de engenharia de utilidades;\n* Conhecimento e domínio em AutoCad\n\n*At AFRY, we engineer change in everything we do. Change happens when brave ideas come together. When we collaborate, innovate technology, and embrace challenging points of view. That’s how we're making future. We are actively looking for qualified candidates to join our inclusive and diverse teams across the globe. Join us in accelerating the transition towards a sustainable future.*",
-      "search_term": "assistente de arquitetura",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/3994762578",
-      "validation_detail": {
-        "url": "https://www.linkedin.com/jobs/view/3994762578",
-        "status_code": 200,
-        "final_url": "https://www.linkedin.com/jobs/view/3994762578",
+        "final_url": "https://www.linkedin.com/jobs/view/4495842026",
         "result": "Validada"
       }
     },
@@ -358,34 +360,6 @@
         "url": "https://www.linkedin.com/jobs/view/4493659784",
         "status_code": 200,
         "final_url": "https://www.linkedin.com/jobs/view/4493659784",
-        "result": "Validada"
-      }
-    },
-    {
-      "site": "linkedin",
-      "title": "Desenhista Projetista Jr",
-      "company": "Metso",
-      "location": "Nova Lima, Minas Gerais, Brazil",
-      "is_remote": false,
-      "job_type": "fulltime",
-      "job_level": "not applicable",
-      "date_posted": "2026-11-25",
-      "job_url": "https://www.linkedin.com/jobs/view/4494966682",
-      "job_url_direct": null,
-      "min_amount": null,
-      "max_amount": null,
-      "currency": null,
-      "interval": null,
-      "emails": null,
-      "description": "*Our world depends on rocks, minerals, metals and other raw materials – the building blocks of modern society. As an industry leader, Metso helps transform these essential materials to enable sustainable modern life.*\n*Our solutions and services support everything from renewable energy and electrification to the infrastructure and digital economy shaping our future. Together, we help our customers meet growing demand while driving the industry toward a more sustainable use of the earth’s natural resources.*\n*Join nearly 18,000 Metsonites worldwide, each bringing unique expertise and experience to positive change. At Metso, you’re supported by a growth culture built on safety, wellbeing, inclusion and collaboration.*\n*This is your opportunity to make an impact and rise above the possible.*\nJob posting end date: 12/06/2026\n  \n  \n**Introdução**\nEstamos procurando um(a) Desenhista Projetista para integrar nossa equipe de Engenharia de Feeders.\n  \n  \nNesta função, você será responsável por preparar desenhos e projetos de equipamentos, ferramentas, dispositivos e instalações de mineração, dar suporte técnico aos produtos existentes e fazer atualizações e melhorias, contribuindo para o crescimento da linha de Feeders da Metso.\n  \n  \nVocê se reportará ao Gerente de Engenharia de Feeders.\n  \n  \nEsta posição está localizada em Sorocaba, SP, ou em Nova Lima, MG, e envolve até 5% de viagens.\n  \n  \n**Equipe da qual você fará parte**\nVocê irá integrar uma equipe de 18 pessoas de diferentes nacionalidades, profissionais especializados em Alimentadores de Sapatas, Alimentadores de Correia e Wobblers.\n  \n  \nNossa equipe desempenha um papel fundamental em desenvolver a linha de Feeders, assim como executar projetos para clientes, com foco compartilhado em crescimento da linha de produto.\n  \n  \nTrabalhamos em estreita colaboração com os departamentos de Propostas, Qualidade, Compras, Comercial etc.\n  \n  \nNossa equipe está distribuída entre o Brasil, EUA, Alemanha, Índia, China e Austrália e valoriza práticas como:\n  \n  \nComunicação aberta e transparente\n  \n  \nTrabalho colaborativo\n  \n  \nAprendizado contínuo\n  \n  \nResponsabilidade e comprometimento\n  \n  \n**O que você fará:**\n\n* Elaborar e atualizar desenhos técnicos, detalhamentos e listas de materiais de equipamentos e instalações industriais, seguindo normas, especificações e requisitos de projeto.\n* Apoiar na elaboração de layouts de equipamentos e conjuntos, contribuindo para a implementação de novos projetos e modificações de produtos existentes, sob orientação da equipe técnica.\n* Auxiliar na realização de dimensionamentos e cálculos básicos de engenharia, utilizando conceitos de desenho mecânico, tecnologia dos materiais e processos de fabricação.\n* Preparar desenhos de fabricação e detalhamentos construtivos, garantindo clareza das informações para manufatura, montagem e funcionamento dos equipamentos.\n* Interagir com profissionais de diferentes áreas, compartilhando informações relacionadas aos projetos e apoiando a comunicação entre os setores envolvidos.\n* Seguir os procedimentos, instruções e normas do sistema de gestão da qualidade, aplicando as melhores práticas em suas atividades diárias.\n* Cumprir integralmente as políticas, procedimentos e requisitos de Saúde, Segurança, Meio Ambiente (HSE) e Qualidade.\n* Executar outras atividades compatíveis com a função, conforme orientação e direcionamento do gestor imediato.\n\n**O que esperamos de você:**\nFormação em Projetos Mecânicos – Fatec ou equivalente, cursando ou concluída.\n  \n  \nExperiência no uso de AutoCAD e sistema CAD 3D como Inventor (preferencial), Solid Works, Solid Edge, CREO, NX, etc.\n  \n  \nInglês intermediário.\n  \n  \nExperiência com desenho e projeto de equipamentos para mineração.\n  \n  \nExperiência com Transportadores de Correia, Alimentadores de Correia e Sapatas (desejável).\n  \n  \nExperiência com Teamcenter e SAP (desejável).\n  \n  \nResidir em Sorocaba/SP, Votorantim/SP ou Nova Lima/MG.\n  \n  \n**O que oferecemos**\nNa Metso, você combinará trabalho significativo com oportunidades de aprendizado, crescimento e geração de impacto, em um ambiente inclusivo e colaborativo.\n  \n  \nVocê fará parte de uma equipe global onde colaboração, bem-estar e aprendizado contínuo fazem parte do dia a dia.\n  \n  \nApoiamos seu crescimento e bem-estar oferecendo:\n  \n  \n**Um propósito inspirador**\n– Possibilitar uma vida moderna sustentável. Minerais e metais são a espinha dorsal de funções essenciais no mundo moderno. No entanto, há uma necessidade de soluções mais sustentáveis para os coletar e processar. Na Metso, você participa da transformação da indústria e de uma mudança positiva.\n  \n  \n**Ambiente de trabalho seguro**\n– Para a Metso, segurança é um valor fundamental. Nosso objetivo é demonstrar liderança e visão na promoção da cultura de segurança.\n  \n  \n**Bem-estar**\n– Nossos serviços de saúde ocupacional, associados às ações voltadas para a promoção de saúde e bem-estar demonstram nossa preocupação com a qualidade de vida e engajamento das pessoas.\n  \n  \n**Remuneração e benefícios**\n– Estrutura de remuneração e benefícios alinhada às práticas de mercado, oferecendo um pacote atrativo através de uma composição equilibrada que contém remuneração fixa e variável, além de assistência médica, odontológica, seguro de vida, previdência privada, alimentação, entre outros, segundo políticas vigentes.\n  \n  \n**Flexibilidade**\n– Defendemos as interações pessoais e a colaboração presencial associadas a um ambiente de trabalho aberto e flexível, valorizando o equilíbrio entre vida pessoal e profissional.\n  \n  \n**Uma cultura próspera**\n- Estamos empenhados em desenvolver uma cultura inclusiva que permita a todos dar o seu melhor e atingir o seu pleno potencial. Uma cultura que é corajosa, convincente e atenciosa, e que nos une para construirmos juntos um futuro sustentável.\n  \n  \n**Extensas oportunidades de aprendizagem**\n– Estimulamos diálogos contínuos, sessões de feedback, oportunidades de mobilidade interna, programas de mentoria, treinamento e desenvolvimento, entre outros projetos ambiciosos e oportunidades globais.\n  \n  \n**Interação sem fronteiras**\n– Aproveite nossa rede de colegas em todo o mundo para troca de experiências e conhecimento. Realizamos os trabalhos juntos, através de uma comunicação aberta e sincera.\n  \n  \n**Entre em Contato**\nQuer ir além do possível conosco?\n  \n  \nClique em \"Candidatar-se agora\" para enviar sua candidatura.\n  \n  \nPara informações adicionais, entre em contato com a área de RH - Recrutamento & Seleção.\n  \n  \nReconhecemos que profissionais altamente qualificados podem hesitar em se candidatar caso não atendam a todos os requisitos listados.\n  \n  \nSe esta oportunidade despertou seu interesse, encorajamos você a se candidatar mesmo que sua experiência não esteja perfeitamente alinhada com todas as qualificações.\n  \n  \nVocê pode ser exatamente a pessoa certa para a função.\n  \n  \n*Metso is committed to pay equity and transparent reward practices globally. Compensation information is shared in line with local legislation and applicable recruitment practices.*\nHow to join - Working at Metso - About Metso - Diversity and Inclusion - Meet our people\n  \n  \n*Metso is an equal opportunity employer committed to fostering an inclusive and diverse workforce culture. All qualified applicants will receive consideration for employment without regard to race, religion, color, nationality, gender, gender identity, sexual orientation, age, status as a protected veteran or status as a qualified individual with a disability.*\n*Metso is a frontrunner in sustainable technologies, end-to-end solutions and services for the aggregates, minerals processing and metals refining industries globally. We improve our customers’ energy and water efficiency, increase their productivity, and reduce environmental risks with our product and service expertise. We are the partner for positive change.*\n*Metso is headquartered in Espoo, Finland. At the end of 2025 Metso had close to 18,000 employees in around 50 countries, and sales in 2025 were about EUR 5.3 billion. Metso is listed on the Nasdaq Helsinki.*\nmetso.com",
-      "search_term": "desenhista",
-      "search_mode": "hybrid",
-      "validation": "Validada",
-      "validated_url": "https://www.linkedin.com/jobs/view/4494966682",
-      "validation_detail": {
-        "url": "https://www.linkedin.com/jobs/view/4494966682",
-        "status_code": 200,
-        "final_url": "https://www.linkedin.com/jobs/view/4494966682",
         "result": "Validada"
       }
     },
